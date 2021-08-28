@@ -10,7 +10,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 ## Sections
 
 * <a href="#Array">Practice</a><br>
-* <a href="#Linked_Lists">Linked Lists</a><br>
+* <a href="#Linked-Lists">Linked Lists</a><br>
 
 
 ## Array
@@ -26,7 +26,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 </div>
 <br/>
 
-## Linked_Lists
+## Linked Lists
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++](./ZCO/zco15002.cpp) |        |          | Beginner | 2014, 2015 ||

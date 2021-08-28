@@ -24,7 +24,7 @@ A way of organizing data, so it can be used effectively.
 * To make code easier for understanding
 
 ### What is abstract data type(ADT)?
-An abstraction of a DS which provides only an interface. An interface is not specific to, but completely free of all programming languages.<br>
+An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.<br>
 ADTs are implemented using data structures.<br>
 <br>
 Some examples are :
@@ -45,7 +45,7 @@ Size of input is denoted by 'n'. <br>
 
 ### Ascending order of complexity
 
-|  #  | Notation        |  Name        |  Example    |
+|  #  | Notation        |  Name        |  Example (time)   |
 |-----| --------------- | -----------  | ----------- |
 |  1  |  O (1)          | Constant     | Accessing an array |
 |  2  |  O (log n)      | Logarithmic  | Binary search |

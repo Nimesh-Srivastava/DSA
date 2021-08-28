@@ -9,9 +9,9 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
-* [Big-O Notation](#-big-o-notation)<br/>
-* [Arrays](#-arrays)<br/>
-* [Linked Lists](#-linked-lists)<br/>
+* [Big-O Notation](#big-o-notation)<br/>
+* [Arrays](#arrays)<br/>
+* [Linked Lists](#linked-lists)<br/>
 <br/>
 
 ## Big-O Notation

@@ -7,8 +7,9 @@
 <br>
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
-## Sections
+## Index of Content
 
+* <a href="#Big-O-Notation">Big-O Notation</a><br>
 * <a href="#Array">Practice</a><br>
 * <a href="#Linked-Lists">Linked Lists</a><br>
 

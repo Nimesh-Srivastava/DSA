@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/language-Modern%20C++-orange.svg)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
-<img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
 <br>
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.

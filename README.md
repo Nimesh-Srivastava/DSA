@@ -64,7 +64,6 @@ Size of input is denoted by 'n'. <br>
 </div>
 <br/>
 
-
 ## 🟧 Arrays
 ### Property
 Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array. <br>

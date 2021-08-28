@@ -9,14 +9,22 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
-* [Big-O Notation](#big-o-notation)<br>
+* [Big-O Notation](#the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 <br>
 
-## 🟧 Big-O Notation
+## 🟧 The Big-O Notation
 ### What is Big-O and why do we use it ?
-Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.
+Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
+
+### Ascending order of complexity
+🖍️ O(1)<br>
+🖍️ O(log(n))<br>
+🖍️ O(n)<br>
+🖍️ O(n log(n))<br>
+🖍️ O(n^2)<br>
+🖍️ O(n^3)<br>
 
 <br/>
 <div align="right">

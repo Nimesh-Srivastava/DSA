@@ -7,7 +7,7 @@
 <br>
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
-## Index of Content
+# Index of Content
 
 * <a href="#Big-O-Notation">Big-O Notation</a><br>
 * [Big-O Notation](#-big-o-notation)<br>
@@ -15,9 +15,9 @@ Use the index given below to search for problems and solutions. Problems are sor
 * <a href="#Linked-Lists">Linked Lists</a><br>
 
 
-## :atom: Big-O Notation
+# :atom: Big-O Notation
 
-# What is Big-O and why do we use it ?<br>
+## What is Big-O and why do we use it ?
 
 
 ## ▶️ Array

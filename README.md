@@ -14,10 +14,12 @@ Use the index given below to search for problems and solutions. Problems are sor
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)
 <br>
+<br>
 
 ## 🟧 Introduction
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.
+<br>
 
 ### Why do we use them?
 * To create fast and powerful algorithms

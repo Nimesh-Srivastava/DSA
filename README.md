@@ -13,7 +13,6 @@ Use the index given below to search for problems and solutions. Problems are sor
 * <a href="#Array">Practice</a><br>
 * <a href="#Linked-Lists">Linked Lists</a><br>
 <br>
-<br>
 
 ## Big-O Notation
 ### What is Big-O and why do we use it ?

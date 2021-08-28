@@ -15,9 +15,14 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 
 # :atom:  Big-O Notation
-
 ## What is Big-O and why do we use it ?
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.
+
+<br/>
+<div align="right">
+    <b><a href="#Sections">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 
 ## ▶️ Array
@@ -29,7 +34,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 
 <br/>
 <div align="right">
-    <b><a href="#Sections">⬆️ Back to Top</a></b>
+    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>
 

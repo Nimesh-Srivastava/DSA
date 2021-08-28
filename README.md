@@ -13,7 +13,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 * <a href="#Linked-Lists">Linked Lists</a><br>
 
 
-## Array
+## ▶️ Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||
@@ -26,7 +26,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 </div>
 <br/>
 
-## Linked Lists
+## ▶️ Linked Lists
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++](./ZCO/zco15002.cpp) |        |          | Beginner | 2014, 2015 ||

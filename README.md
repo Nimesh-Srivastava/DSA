@@ -9,17 +9,15 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
-* [Introduction](#Introduction)<br>
-* [Big-O Notation](#the-big-o-notation)<br>
+* [Introduction](#-Introduction)<br>
+* [Big-O Notation](#-the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)
-<br>
 <br>
 
 ## 🟧 Introduction
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.
-<br>
 
 ### Why do we use them?
 * To create fast and powerful algorithms
@@ -37,7 +35,7 @@ Some examples are :
 |  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
 |  3  | Maps | Hash table <br> Tree |
 <br>
-<br>
+
 
 ## 🟧 The Big-O Notation
 ### What is Big-O and why do we use it?

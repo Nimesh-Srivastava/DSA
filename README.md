@@ -84,17 +84,22 @@ Used :- <br>
 
 ### Problems on arrays
 
+Key : <br>
+* 🟢 = Easy
+* 🟠 = Medium
+* 🔴 = Hard
+<br>
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(n)   | O(n)   | 🟢 Easy | array, <br> hash table| use unordered map|
-|0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  |        |      |   |🟢 Easy |||
-|0027  | [Remove Element](https://leetcode.com/problems/remove-element)  ||||🟢 Easy |||
-|0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) ||||🟢 Easy |||
-|0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) |||| 🟢 Easy |||
-|0018  | [4 Sum](https://leetcode.com/problems/4sum)  |||| 🟠 Medium |||
-|0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) ||||🟠 Medium |||
-|0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  |||| 🔴 Hard |||
-|0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |||| 🔴 Hard |||
+|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(n)   | O(1)   | 🟢 | array, <br> hash table| use unordered map|
+|0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  |        |      |   |🟢 |||
+|0027  | [Remove Element](https://leetcode.com/problems/remove-element)  ||||🟢 |||
+|0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) ||||🟢|||
+|0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) |||| 🟢  |||
+|0018  | [4 Sum](https://leetcode.com/problems/4sum)  |||| 🟠 |||
+|0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) ||||🟠 |||
+|0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  |||| 🔴|||
+|0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) |||| 🔴 |||
 
 
 

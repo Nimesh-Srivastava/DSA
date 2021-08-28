@@ -9,13 +9,37 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
+* [Introduction](#data-structure)<br>
 * [Big-O Notation](#the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 <br>
 
+## 🟧 Introduction
+### What is data structure(DS)?
+A way of organizing data, so it can be used effectively.
+
+### Why do we use them?
+* To create fast and powerful algorithms
+* To make code easier for understanding
+
+### What is abstract data type(ADT)?
+An abstraction of a DS which provides only an interface. An interface is not specific to, but completely free of all programming languages.<br>
+ADTs are implemented using data structures.<br>
+<br>
+
+Some examples are :
+
+|  #  | ADT        |  Implementation(DS) |
+|-----| --------------- | -----------  |
+|  1  | Lists | Dynamic Array <br> Linked List |
+|  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
+|  3  | Maps | Hash table <br> Tree |
+
+
+
 ## 🟧 The Big-O Notation
-### What is Big-O and why do we use it ?
+### What is Big-O and why do we use it?
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
 Size of input is denoted by 'n'. <br>

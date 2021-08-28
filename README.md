@@ -67,6 +67,21 @@ Size of input is denoted by 'n'. <br>
 
 
 ## 🟧 Arrays
+### Property
+Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array. <br>
+Used :- <br>
+* for sorting
+* to access sequential data
+* as buffer by I/O routines
+* as lookup / inverse lookup tables
+* to return mmultiple values from a function
+* as *cache* in dynamic programming
+
+### Types
+♦️*Static* : fixed length<br>
+♦️*Dynamic* : * variable length<br>
+              * implemented using dynamic array
+
 
 <!--
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 

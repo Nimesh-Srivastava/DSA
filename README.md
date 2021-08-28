@@ -79,16 +79,16 @@ Used :- <br>
 
 ### Types
 ♦️*Static* : fixed length<br>
-♦️*Dynamic* : * variable length<br>
-              * implemented using dynamic array
 
+♦️*Dynamic* : variable length; implemented using dynamic array; when size capacity is reached, a new static array of double size is created and elements are copied. <br>
 
-<!--
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+### Problems on arrays
+
+|  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||
-0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++](./Practice/cash.cpp) |        |          | Beginner         |||
--->
+|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(1)   | O(n)   | Easy         | array <br> hash table| use unordered map|
+
+
 
 <br/>
 <div align="right">

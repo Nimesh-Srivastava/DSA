@@ -9,7 +9,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
-* [Introduction](#data-structure)<br>
+* [Introduction](#Introduction)<br>
 * [Big-O Notation](#the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
@@ -27,7 +27,6 @@ A way of organizing data, so it can be used effectively.
 An abstraction of a DS which provides only an interface. An interface is not specific to, but completely free of all programming languages.<br>
 ADTs are implemented using data structures.<br>
 <br>
-
 Some examples are :
 
 |  #  | ADT        |  Implementation(DS) |
@@ -36,7 +35,7 @@ Some examples are :
 |  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
 |  3  | Maps | Hash table <br> Tree |
 
-
+<br>
 
 ## 🟧 The Big-O Notation
 ### What is Big-O and why do we use it?

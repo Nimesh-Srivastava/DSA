@@ -25,7 +25,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 <br/>
 
 
-### ▶️ Array
+### ▶️ Arrays
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||

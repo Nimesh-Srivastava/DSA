@@ -12,8 +12,8 @@ Use the index given below to search for problems and solutions. Problems are sor
 * [Big-O Notation](#-big-o-notation)<br>
 * <a href="#Array">Practice</a><br>
 * <a href="#Linked-Lists">Linked Lists</a><br>
-
-
+<br>
+<br>
 ## Big-O Notation
 ### What is Big-O and why do we use it ?
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.

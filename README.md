@@ -12,7 +12,7 @@ Use the index given below to search for problems and solutions. Problems are sor
 * [Introduction](#Introduction)<br>
 * [Big-O Notation](#the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
-* [Linked Lists](#-linked-lists)<br>
+* [Linked Lists](#-linked-lists)
 <br>
 
 ## 🟧 Introduction
@@ -34,7 +34,7 @@ Some examples are :
 |  1  | Lists | Dynamic Array <br> Linked List |
 |  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
 |  3  | Maps | Hash table <br> Tree |
-
+<br>
 <br>
 
 ## 🟧 The Big-O Notation

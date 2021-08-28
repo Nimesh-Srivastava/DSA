@@ -84,11 +84,12 @@ Used :- <br>
 
 ### Problems on arrays
 
-Key : <br>
+Key :
 * 🟢 = Easy
 * 🟠 = Medium
 * 🔴 = Hard
 <br>
+
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(n)   | O(1)   | 🟢 | array, <br> hash table| use unordered map|

@@ -95,7 +95,7 @@ Key :
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/0027.cpp) |||🟢|||
 |0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/0035.cpp) |||🟢|||
-|0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/0053.cpp) |||🟢|||
+|0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/0053.cpp) |||🟢||Kadane's algorithm|
 |0018  | [4 Sum](https://leetcode.com/problems/4sum)  | [C++](./C++/0018.cpp) |||🟡|||
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|

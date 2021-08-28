@@ -1,6 +1,6 @@
 # DSA learning and practice
 
-![Language](https://img.shields.io/badge/language-%20%2F%20Modern%20C++-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-Modern%20C++-orange.svg)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 

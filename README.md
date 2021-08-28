@@ -30,9 +30,7 @@ Size of input is denoted by 'n'. <br>
 |  5  |  O (n^2)        | Quadratic    | 2 Nested loops |
 |  6  |  O (n^3)        | Cubic        | 3 Nested loops |
 | ... |  |  |  |
-| ... |  |  |  |
-|  7  |  O (nm)         | O of n m     | Iterating over a matrix of n X m |
-| ... |  |  |  |
+|  7  |  O (nm)         | O of n m     | Iterating over a matrix of (n X m) |
 | ... |  |  |  |
 |  8  |  O (b^n)        | Exponential  | All subsets of a set -> O (2^n) |
 |  9  |  O (n!)         | Factorial    | All permutations of a string |

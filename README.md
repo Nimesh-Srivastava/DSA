@@ -90,9 +90,9 @@ Key :
 * 🔴 = Hard
 <br>
 
-|  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(n)   | O(1)   | 🟢 | array, <br> hash table| use unordered map|
+|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  |        |   O(n)   | O(1)   | 🟢 | | use unordered map|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  |        |      |   |🟢 |||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element)  ||||🟢 |||
 |0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) ||||🟢|||

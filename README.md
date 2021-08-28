@@ -10,9 +10,14 @@ Use the index given below to search for problems and solutions. Problems are sor
 ## Index of Content
 
 * <a href="#Big-O-Notation">Big-O Notation</a><br>
-* [Big O notation](#-big-o-notation)<br>
+* [Big-O Notation](#-big-o-notation)<br>
 * <a href="#Array">Practice</a><br>
 * <a href="#Linked-Lists">Linked Lists</a><br>
+
+
+## :atom: Big-O Notation
+
+# What is Big-O and why do we use it ?<br>
 
 
 ## ▶️ Array

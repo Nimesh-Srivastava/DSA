@@ -9,12 +9,12 @@ Use the index given below to search for problems and solutions. Problems are sor
 
 ## Index of Content
 
-* [Big-O Notation](#big-o-notation)<br/>
-* [Arrays](#-arrays)<br/>
-* [Linked Lists](#-linked-lists)<br/>
-<br/>
+* [Big-O Notation](#big-o-notation)<br>
+* [Arrays](#-arrays)<br>
+* [Linked Lists](#-linked-lists)<br>
+<br>
 
-## Big-O Notation
+## 🟧 Big-O Notation
 ### What is Big-O and why do we use it ?
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.
 
@@ -25,7 +25,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 <br/>
 
 
-### ▶️ Arrays
+## 🟧 Arrays
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||
@@ -38,7 +38,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 </div>
 <br/>
 
-### ▶️ Linked Lists
+## 🟧 Linked Lists
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++](./ZCO/zco15002.cpp) |        |          | Beginner | 2014, 2015 ||

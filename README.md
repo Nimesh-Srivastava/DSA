@@ -20,7 +20,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 
 <br/>
 <div align="right">
-    <b><a href="#Sections">⬆️ Back to Top</a></b>
+    <b><a href="#index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -46,6 +46,6 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 
 <br/>
 <div align="right">
-    <b><a href="#Sections">⬆️ Back to Top</a></b>
+    <b><a href="#index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>

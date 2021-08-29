@@ -79,14 +79,10 @@ Used :- <br>
 ♦️*Static* : fixed length<br>
 
 ♦️*Dynamic* : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied. <br>
+<br>
 
 ### Problems on arrays
-
-Key :
-* 🟢 : Easy
-* 🟡 : Medium
-* 🔴 : Hard
-<br>
+Key :- 🟢 : Easy, 🟡 : Medium, 🔴 : Hard
 
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

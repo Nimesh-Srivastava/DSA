@@ -156,7 +156,7 @@ A sequential list of data holding nodes that point to other nodes.
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|     |                 |                 |                 |                 |               |              |     |
+| 1290 | [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++]() |||easy||bruteforce|
 
 <br/>
 <div align="right">

@@ -97,6 +97,9 @@ Key :
 |1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array)  | [C++](./C++/1470.cpp) |||🟢| | |
 |1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  | [C++](./C++/1431.cpp)|||🟢| | |
 |1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs)  | [C++](./C++/1512.cpp) |||🟢| |hash table|
+|1512  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  | [C++](./C++/1512.cpp) |||🟢| |hash table|
+|1512  | [Shuffle string](https://leetcode.com/problems/shuffle-string)  | [C++](./C++/1512.cpp) |||🟢| |hash table|
+|1512  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array)  | [C++](./C++/1512.cpp) |||🟢| |hash table|
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/0027.cpp) |||🟢|||

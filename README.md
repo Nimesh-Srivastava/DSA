@@ -82,7 +82,7 @@ Used :- <br>
 <br>
 
 ### Problems on arrays
-Key :- 🟢 : Easy, 🟡 : Medium, 🔴 : Hard
+Key : 🟢(Easy), 🟡(Medium), 🔴(Hard)
 
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -152,11 +152,10 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove in between | O (n) | O (n) |
 
 ### Problems on linked lists
-Key :
-* 🟢 : Easy
-* 🟡 : Medium
-* 🔴 : Hard
-<br>
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|     |                 |                 |                 |                 |               |              |     |
 
 <br/>
 <div align="right">

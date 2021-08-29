@@ -90,13 +90,13 @@ Key :
 
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|1929  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1920  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1480  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1672  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1470  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1431  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
-|1512  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
+|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array)  | [C++] |||🟢| | |
+|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation)  | [C++] |||🟢| | |
+|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)  | [C++] |||🟢| | |
+|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth)  | [C++] |||🟢| | |
+|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array)  | [C++] |||🟢| | |
+|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  | [C++]|||🟢| | |
+|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs)  | [C++] |||🟢| | |
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | unordered map|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/0027.cpp) |||🟢|||

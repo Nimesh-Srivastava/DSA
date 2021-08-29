@@ -21,7 +21,7 @@ public:
 
         while (left < right)
         {
-            int mid = left + (right - left) / 2;    // prevent value from going out of bound
+            int mid = left + (right - left) / 2;
 
             if (k - mid - 1 >= 0 && k - mid - 1 < b.size() && a[mid] >= b[k - mid - 1])
                 right = mid;

@@ -142,7 +142,7 @@ A sequential list of data holding nodes that point to other nodes.
 | Type | Pros       | Cons        |
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
-|  Doubly  |  Backward traversal possible          | Takes more memory | 
+|  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
 
 <br/>
 <div align="right">

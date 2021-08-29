@@ -151,6 +151,9 @@ A sequential list of data holding nodes that point to other nodes.
 | Search | O (n) | O (n) |
 | Insert at head | O (1) | O (1) |
 | Insert at tail | O (1) | O (1) |
+| Remove at head | O (1) | O (1) |
+| Remove at tail | O (n) | O (1) |
+| Remove in between | O (n) | O (n) |
 
 <br/>
 <div align="right">

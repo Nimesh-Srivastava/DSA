@@ -121,6 +121,27 @@ Key :
 <br/>
 
 ## 🟧 Linked Lists
+### What is it?
+A sequential list of data holding nodes that point to other nodes.
+
+### Uses
+* Stack, queue, list, circular list implementation
+* Adjancy list for graphs
+* Separate chaining to deal with hashing collisions
+
+### Properties
+*Node* : contains data and pointer
+*Pointer* : reference to another node
+*Head* : first node in the list
+*Tail* : last node in the list
+
+### Types
+* Singly linked list : reference to next node only
+* Doubly linked list : reference to next and previous nodes
+
+|  #  | Notation        |  Name        |  Example (time)   |
+|-----| --------------- | -----------  | ----------- |
+|  1  |  O (1)          | Constant     | Accessing an array |
 
 <br/>
 <div align="right">

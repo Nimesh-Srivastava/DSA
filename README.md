@@ -150,6 +150,8 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at head | O (1) | O (1) |
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
+<br>
+<br>
 
 ### Problems on linked lists
 

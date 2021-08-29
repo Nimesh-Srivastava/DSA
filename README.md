@@ -130,18 +130,19 @@ A sequential list of data holding nodes that point to other nodes.
 * Separate chaining to deal with hashing collisions
 
 ### Properties
-*Node* : contains data and pointer
-*Pointer* : reference to another node
-*Head* : first node in the list
-*Tail* : last node in the list
+*Node* : contains data and pointer <br>
+*Pointer* : reference to another node <br>
+*Head* : first node in the list <br>
+*Tail* : last node in the list <br>
 
 ### Types
-* Singly linked list : reference to next node only
-* Doubly linked list : reference to next and previous nodes
+* Singly linked list : reference to next node only <br>
+* Doubly linked list : reference to next and previous nodes <br>
 
-|  #  | Notation        |  Name        |  Example (time)   |
-|-----| --------------- | -----------  | ----------- |
-|  1  |  O (1)          | Constant     | Accessing an array |
+| Type | Pros       | Cons        |
+|-----| --------------- | -----------  | 
+|  Singly  |  Less memory usage <br> simple implementation | Difficult to access previous element    |
+|  Doubly  |  Backward traversal possible          | Takes more memory | 
 
 <br/>
 <div align="right">

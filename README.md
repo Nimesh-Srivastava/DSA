@@ -89,7 +89,6 @@ Key :
 <br>
 
 |  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |1929  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |
 |1920  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | |

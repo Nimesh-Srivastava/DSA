@@ -6,16 +6,16 @@ public:
         if (nums.empty())
             return 0;
 
-        unordered_map<int, int> hash;
+        unordered_map<int, int> m1;
         int ans{1};
 
         for (const auto &i : nums)
         {
-            if (!hash[i])
+            if (!m1[i])
             {
-                hash[i] = 1;
-                int left_limit{hash[i - 1]}, right_limit{hash[i + 1]};
-                hash[i - left_limit] = hash[i + right_limit] = 1 + left_limit + right_limit;
+                m1[i] = 1;
+                int left_limit{m1[i - 1]}, right_limit{m1[i + 1]};
+                m1[i - left_limit] = m1[i + right_limit] = 1 + left_limit + right_limit;
                 ans = max(ans, 1 + left_limit + right_limit);
             }
         }

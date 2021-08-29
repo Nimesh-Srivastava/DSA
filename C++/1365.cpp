@@ -5,13 +5,15 @@ public:
     {
         vector<int> freq(101);
 
+        //create frequency array
         for (int i = 0; i < nums.size(); i++)
-        { //create frequency array
+        { 
             freq[nums[i]]++;
         }
 
+        // add frequencies uptil previous elements
         for (int i = 1; i < 101; i++)
-        { // add frequencies uptil previous elements
+        { 
             freq[i] = freq[i] + freq[i - 1];
         }
 

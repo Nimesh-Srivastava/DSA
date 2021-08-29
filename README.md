@@ -143,9 +143,8 @@ A sequential list of data holding nodes that point to other nodes.
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
 |  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
-<br>
 
-### Complexity
+### Complexity Analysis
 | Action | Singly LL | Doubly LL  |
 |-----| --------------- | -----------  | 
 | Search | O (n) | O (n) |

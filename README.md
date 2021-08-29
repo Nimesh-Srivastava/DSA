@@ -155,6 +155,13 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
 
+### Problems on linked lists
+Key :
+* 🟢 : Easy
+* 🟡 : Medium
+* 🔴 : Hard
+<br>
+
 <br/>
 <div align="right">
     <b><a href="#index-of-content">⬆️ Back to Top</a></b>

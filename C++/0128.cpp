@@ -14,7 +14,9 @@ public:
             if (!m1[i])
             {
                 m1[i] = 1;
-                int left_limit{m1[i - 1]}, right_limit{m1[i + 1]};
+                
+                int left_limit{m1[i - 1]}, right_limit{m1[i + 1]};  //poor way of declaration, takes more computational time
+                
                 m1[i - left_limit] = m1[i + right_limit] = left_limit + right_limit + 1;
                 ans = max(ans, left_limit + right_limit + 1);
             }

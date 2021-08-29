@@ -78,7 +78,7 @@ Used :- <br>
 ### Types
 ♦️*Static* : fixed length<br>
 
-♦️*Dynamic* : variable length; implemented using dynamic array; when size capacity is reached, a new static array of double size is created and elements are copied. <br>
+♦️*Dynamic* : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied. <br>
 
 ### Problems on arrays
 

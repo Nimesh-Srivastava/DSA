@@ -93,7 +93,7 @@ Key :
 |1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array)  | [C++](./C++/1929.cpp) |||🟢| | |
 |1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation)  | [C++](./C++/1920.cpp) |||🟢| | |
 |1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)  | [C++](./C++/1480.cpp) |||🟢| | |
-|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth)  | [C++](./C++/1672.cpp) |||🟢| | |
+|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth)  | [C++](./C++/1672.cpp) |||🟢| |matrix|
 |1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array)  | [C++](./C++/1470.cpp) |||🟢| | |
 |1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  | [C++](./C++/1431.cpp)|||🟢| | |
 |1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs)  | [C++](./C++/1512.cpp) |||🟢| |hash table|

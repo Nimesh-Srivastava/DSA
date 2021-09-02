@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C++-red.svg)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-purple.svg)&nbsp;
-![Problems](https://img.shields.io/badge/problems-30-brown.svg)&nbsp;
+![Problems](https://img.shields.io/badge/problems-31-brown.svg)&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -160,6 +160,7 @@ A sequential list of data holding nodes that point to other nodes.
 | 1290 | [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++](./C++/1290.cpp) |||🟢||bruteforce|
 | 0876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list) | [C++](./C++/0876.cpp) |||🟢||bruteforce|
 | 0237 | [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list) | [C++](./C++/0237.cpp) |||🟢|||
+| 0206 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list) | [C++](./C++/0237.cpp) |||🟢|||
 
 
 <br/>

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C++-red.svg)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-purple.svg)&nbsp;
-![Problems](https://img.shields.io/badge/problems-29-brown.svg)&nbsp;
+![Problems](https://img.shields.io/badge/problems-30-brown.svg)&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -177,4 +177,4 @@ A sequential list of data holding nodes that point to other nodes.
 ## 🟧 Miscellaneous problems
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/1290.cpp) |||🟢|||
+| 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||

@@ -85,6 +85,9 @@ Used :- <br>
 
 ### Problems on arrays
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
+<br>
+<br>
+![Count](https://img.shields.io/badge/Count-21-green.svg)&nbsp;
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -155,6 +158,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Problems on linked lists
+![Count](https://img.shields.io/badge/Count-9-green.svg)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -176,6 +180,8 @@ A sequential list of data holding nodes that point to other nodes.
 <br/>
 
 ## 🟧 Miscellaneous problems
+![Count](https://img.shields.io/badge/Count-5-green.svg)&nbsp;
+
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||

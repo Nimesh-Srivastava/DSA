@@ -177,4 +177,4 @@ A sequential list of data holding nodes that point to other nodes.
 ## 🟧 Miscellaneous problems
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/1290.cpp) |||🟢||Bruteforce|
+| 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/1290.cpp) |||🟢|||

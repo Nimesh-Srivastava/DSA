@@ -179,4 +179,4 @@ A sequential list of data holding nodes that point to other nodes.
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
-| 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
+| 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0003.cpp) |||🟡|||

@@ -40,7 +40,7 @@ public:
             mov1 = mov1->next;
         }
         
-        //if prev = NULL, return true, else return false
+        //if prev = NULL, it means we have reached the end, hence, return true, else return false
         return !prev;
     }
 };

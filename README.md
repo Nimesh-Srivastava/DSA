@@ -86,8 +86,8 @@ Used :- <br>
 ### Problems on arrays
 Key : 🟢(Easy), 🟡(Medium), 🔴(Hard)
 
-| # |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|---|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |1|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array)  | [C++](./C++/1929.cpp) |||🟢| | |
 |2|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation)  | [C++](./C++/1920.cpp) |||🟢| | |
 |3|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)  | [C++](./C++/1480.cpp) |||🟢| | |

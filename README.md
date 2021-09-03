@@ -164,7 +164,7 @@ A sequential list of data holding nodes that point to other nodes.
 | 0021 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C++](./C++/0021.cpp) |||🟢||Merge sort|
 | 0083 | [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C++](./C++/0083.cpp) |||🟢|||
 | 0160 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/0160.cpp) |||🟢|||
-| 0234 |  |  |||🟢||List reversal|
+| 0234 |  |  |O (n) |O (1)|🟢||List reversal|
 
 
 <br/>

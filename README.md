@@ -85,7 +85,7 @@ Used :- <br>
 ### Problems on arrays
 Key : 🟢(Easy), 🟡(Medium), 🔴(Hard)
 
-|  #  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array)  | [C++](./C++/1929.cpp) |||🟢| | |
 |1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation)  | [C++](./C++/1920.cpp) |||🟢| | |
@@ -155,7 +155,7 @@ A sequential list of data holding nodes that point to other nodes.
 
 ### Problems on linked lists
 
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 | 1290 | [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++](./C++/1290.cpp) |||🟢||bruteforce|
 | 0876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list) | [C++](./C++/0876.cpp) |||🟢||bruteforce|

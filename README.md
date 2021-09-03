@@ -12,7 +12,8 @@ Use the index given below to search for problems and solutions. Problems are sor
 * [Introduction](#-Introduction)<br>
 * [Big-O Notation](#-the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
-* [Linked Lists](#-linked-lists)
+* [Linked Lists](#-linked-lists)<br>
+* [Miscellaneous Problems](#-miscellaneous-problems)
 <br>
 
 ## 🟧 Introduction
@@ -172,3 +173,8 @@ A sequential list of data holding nodes that point to other nodes.
     <b><a href="#index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## 🟧 Miscellaneous problems
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 1290 | [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++](./C++/1290.cpp) |||🟢||Bruteforce|

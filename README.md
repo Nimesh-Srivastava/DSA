@@ -84,7 +84,7 @@ Used :- <br>
 <br>
 
 ### Problems on arrays
-Key : 🟢(Easy), 🟡(Medium), 🔴(Hard)
+Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

@@ -181,5 +181,5 @@ A sequential list of data holding nodes that point to other nodes.
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡|||
 | 0005 | [Longest palindromic substring](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0005.cpp) |||🟡|||
-| 0006 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟡|||
+| 0006 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0006.cpp) |||🟡|||
 | 0008 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟡|||

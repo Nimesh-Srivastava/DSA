@@ -158,7 +158,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-9-green.svg)&nbsp;
+![Count](https://img.shields.io/badge/Count-9-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -180,7 +180,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br/>
 
 ## 🟧 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-5-green.svg)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

@@ -171,7 +171,7 @@ A sequential list of data holding nodes that point to other nodes.
 | 0160 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/0160.cpp) |||🟢|||
 | 0234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/0234.cpp) |O(n)|O(1)|🟢||List reversal|
 | 0141 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟢|||
-| 0203 | [Remove linked list elements](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟢|||
+| 0203 | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/0002.cpp) |||🟢|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
 
 

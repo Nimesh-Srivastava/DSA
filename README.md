@@ -158,7 +158,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-9-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -170,8 +170,8 @@ A sequential list of data holding nodes that point to other nodes.
 | 0083 | [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C++](./C++/0083.cpp) |||🟢|||
 | 0160 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/0160.cpp) |||🟢|||
 | 0234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/0234.cpp) |O(n)|O(1)|🟢||List reversal|
-| 0141 | [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) | [C++](./C++/0002.cpp) |||🟢|||
-| 0203 | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/0002.cpp) |||🟢|||
+| 0141 | [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) | [C++](./C++/0141.cpp) |||🟢|||
+| 0203 | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/0203.cpp) |||🟢|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
 
 

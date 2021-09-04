@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-35-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-37-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -170,6 +170,8 @@ A sequential list of data holding nodes that point to other nodes.
 | 0083 | [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C++](./C++/0083.cpp) |||🟢|||
 | 0160 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/0160.cpp) |||🟢|||
 | 0234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/0234.cpp) |O(n)|O(1)|🟢||List reversal|
+| 0141 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟢|||
+| 0203 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟢|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
 
 

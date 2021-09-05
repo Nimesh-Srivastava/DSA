@@ -28,25 +28,25 @@ public:
                         back--;
                     else
                     {
-                        vector<int> quad(4, 0);
-                        quad[0] = nums[i];
-                        quad[1] = nums[j];
-                        quad[2] = nums[front];
-                        quad[3] = nums[back];
-                        res.push_back(quad);
+                        vector<int> ans(4, 0);
+                        ans[0] = nums[i];
+                        ans[1] = nums[j];
+                        ans[2] = nums[front];
+                        ans[3] = nums[back];
+                        res.push_back(ans);
 
-                        while (front < back && nums[front] == quad[2])
+                        while (front < back && nums[front] == ans[2])
                             front++;
 
-                        while (front > back && nums[back] == quad[3])
+                        while (front > back && nums[back] == ans[3])
                             back--;
                     }
                 }
-                //skip 2nd pointer duplicates
+                //to skip 2nd pointer duplicates
                 while (j + 1 < n && nums[j + 1] == nums[j])
                     j++;
             }
-            //skip 1st pointer duplicates
+            //to skip 1st pointer duplicates
             while (i + 1 < n && nums[i + 1] == nums[i])
                 i++;
         }

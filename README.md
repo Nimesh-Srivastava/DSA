@@ -102,7 +102,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string)  | [C++](./C++/1528.cpp) |||🟢| ||
 |1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array)  | [C++](./C++/1720.cpp) |||🟢| |XOR property|
 |1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list)  | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
-|1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order)  | [C++](./C++/1389.cpp) |||🟢|||
+|1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order)  | [C++](./C++/1389.cpp) |O(n)||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||
 |0888  | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/0888.cpp) |||🟢|||

@@ -74,7 +74,7 @@ Used :- <br>
 * to access sequential data
 * as buffer by I/O routines
 * as lookup / inverse lookup tables
-* to return mmultiple values from a function
+* to return multiple values from a function
 * as *cache* in dynamic programming
 
 ### Types

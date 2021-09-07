@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-49-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-50-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -167,7 +167,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

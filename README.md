@@ -184,6 +184,7 @@ A sequential list of data holding nodes that point to other nodes.
 | 1669 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](./C++/1669.cpp) |||🟡|||
 | 1721 | [Swapping nodes in a linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./C++/1721.cpp) |||🟡|||
 | 1019 | [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list) | [C++](./C++/1019.cpp) |O(n)||🟡||Typical problem,<br> *Important*|
+| 0328 | [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/0328.cpp) |O(n)|O(1)|🟡|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
 
 

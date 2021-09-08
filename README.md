@@ -187,6 +187,14 @@ A sequential list of data holding nodes that point to other nodes.
 | 0328 | [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/0328.cpp) |O(n)|O(1)|🟡|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
 
+<br>
+
+* Doubly linked list -
+
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 1472 | [Design browser history](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡|||
+
 
 <br/>
 <div align="right">

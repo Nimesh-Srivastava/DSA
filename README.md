@@ -191,7 +191,7 @@ A sequential list of data holding nodes that point to other nodes.
 
 * Doubly linked list -
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 | 1472 | [Design browser history](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡|||
 

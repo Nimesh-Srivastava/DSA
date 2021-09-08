@@ -1,3 +1,4 @@
+//create doubly linked list
 struct LstNode{
     
     LstNode* next, *prev;

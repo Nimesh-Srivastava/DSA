@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-54-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-55-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -87,7 +87,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-32-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-33-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -104,6 +104,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list)  | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
 |1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order)  | [C++](./C++/1389.cpp) |O(n)||🟢|||
 |1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule)  | [C++](./C++/1773.cpp) |||🟢|||
+|1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)  | [C++](./C++/1588.cpp) |||🟢|||
 |1629  | [Slowest key](https://leetcode.com/problems/slowest-key)  | [C++](./C++/1629.cpp) |||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||

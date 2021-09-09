@@ -169,7 +169,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

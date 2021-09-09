@@ -196,7 +196,7 @@ A sequential list of data holding nodes that point to other nodes.
 |  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
 |------|---------|------------|--------|---------|--------------|--------|------|
 | 1472 | [Design browser history](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡||Create list structure|
-| 0430 | [Flatten a multilevel doubly linked list](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡||Create list structure|
+| 0430 | [Flatten a multilevel doubly linked list](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡||Recursion|
 
 
 <br/>

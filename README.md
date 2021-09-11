@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-55-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-56-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
@@ -87,7 +87,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-33-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-34-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -120,6 +120,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array)  | [C++](./C++/1814.cpp) |||🟡|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array)  | [C++](./C++/0189.cpp) |||🟡|||
 |0018  | [4 Sum](https://leetcode.com/problems/4sum)  | [C++](./C++/0018.cpp) |||🟡|||
+|0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)  | [C++](./C++/0667.cpp) |||🟡|||
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||
 |0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|

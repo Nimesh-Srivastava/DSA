@@ -7,6 +7,7 @@
 
 Please use the discussions tab for any queries.
 <br>
+<br>
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
 ## Index of Content

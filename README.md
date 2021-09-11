@@ -5,6 +5,8 @@
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Problems](https://img.shields.io/badge/Problems-56-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
+Please use the discussions tab for any queries.
+<br>
 Use the index given below to search for problems and solutions. Problems are sorted in ascending order of difficulty.
 
 ## Index of Content

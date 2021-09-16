@@ -109,6 +109,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule)  | [C++](./C++/1773.cpp) |||🟢|||
 |1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)  | [C++](./C++/1588.cpp) |||🟢|||
 |1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream)  | [C++](./C++/1656.cpp) |||🟢|||
+|1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream)  | [C++](./C++/1656.cpp) |||🟢|||
 |1629  | [Slowest key](https://leetcode.com/problems/slowest-key)  | [C++](./C++/1629.cpp) |||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||

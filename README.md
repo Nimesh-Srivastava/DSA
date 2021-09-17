@@ -94,15 +94,15 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array)  | [C++](./C++/1929.cpp) |||🟢| | |
-|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation)  | [C++](./C++/1920.cpp) |||🟢| | |
-|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array)  | [C++](./C++/1480.cpp) |||🟢| | |
-|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth)  | [C++](./C++/1672.cpp) |||🟢| |matrix|
-|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array)  | [C++](./C++/1470.cpp) |||🟢| | |
-|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  | [C++](./C++/1431.cpp)|||🟢| | |
-|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs)  | [C++](./C++/1512.cpp) |||🟢| |bruteforce,<br> hash table|
-|1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  | [C++](./C++/1365.cpp) |||🟢| |frequency array|
-|1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string)  | [C++](./C++/1528.cpp) |||🟢| ||
+|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp) |||🟢| | |
+|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp) |||🟢| | |
+|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢| | |
+|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/1672.cpp) |||🟢| |matrix|
+|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/1470.cpp) |||🟢| | |
+|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/1431.cpp)|||🟢| | |
+|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/1512.cpp) |||🟢| |bruteforce,<br> hash table|
+|1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/1365.cpp) |||🟢| |frequency array|
+|1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/1528.cpp) |||🟢| ||
 |1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/1720.cpp) |||🟢| |XOR property|
 |1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
 |1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/1389.cpp) |O(n)||🟢|||
@@ -111,9 +111,9 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/1656.cpp) |||🟢|||
 |1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/1662.cpp) |||🟢|||
 |1684  | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/1684.cpp) |||🟢|||
-|1629  | [Slowest key](https://leetcode.com/problems/slowest-key)  | [C++](./C++/1629.cpp) |||🟢|||
-|0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
-|0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||
+|1629  | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/1629.cpp) |||🟢|||
+|0001  | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
+|0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/0026.cpp) |      |   |🟢|||
 |0888  | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/0888.cpp) |||🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/0027.cpp) |||🟢|||
 |0744  | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/0744.cpp) |O(logn)||🟢|||
@@ -124,13 +124,13 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0645  | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/0645.cpp) |||🟢|||
 |0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/0414.cpp) |||🟢|||
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
-|1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array)  | [C++](./C++/1814.cpp) |||🟡|||
-|0189  | [Rotate array](https://leetcode.com/problems/rotate-array)  | [C++](./C++/0189.cpp) |||🟡|||
-|0018  | [4 Sum](https://leetcode.com/problems/4sum)  | [C++](./C++/0018.cpp) |||🟡|||
-|0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)  | [C++](./C++/0667.cpp) |||🟡|||
+|1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/1814.cpp) |||🟡|||
+|0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
+|0018  | [4 Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
+|0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||
-|0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|
+|0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|
 |0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/0992.cpp) |||🔴|||
 
 

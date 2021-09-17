@@ -103,14 +103,14 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs)  | [C++](./C++/1512.cpp) |||🟢| |bruteforce,<br> hash table|
 |1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  | [C++](./C++/1365.cpp) |||🟢| |frequency array|
 |1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string)  | [C++](./C++/1528.cpp) |||🟢| ||
-|1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array)  | [C++](./C++/1720.cpp) |||🟢| |XOR property|
-|1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list)  | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
-|1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order)  | [C++](./C++/1389.cpp) |O(n)||🟢|||
-|1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule)  | [C++](./C++/1773.cpp) |||🟢|||
-|1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays)  | [C++](./C++/1588.cpp) |||🟢|||
-|1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream)  | [C++](./C++/1656.cpp) |||🟢|||
-|1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)  | [C++](./C++/1662.cpp) |||🟢|||
-|1684  | [Count the number of consistent strings](https://leetcode.com/problems/design-an-ordered-stream)  | [C++](./C++/1656.cpp) |||🟢|||
+|1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/1720.cpp) |||🟢| |XOR property|
+|1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
+|1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/1389.cpp) |O(n)||🟢|||
+|1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C++](./C++/1773.cpp) |||🟢|||
+|1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C++](./C++/1588.cpp) |||🟢|||
+|1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/1656.cpp) |||🟢|||
+|1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/1662.cpp) |||🟢|||
+|1684  | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/1684.cpp) |||🟢|||
 |1629  | [Slowest key](https://leetcode.com/problems/slowest-key)  | [C++](./C++/1629.cpp) |||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C++](./C++/0026.cpp) |      |   |🟢|||

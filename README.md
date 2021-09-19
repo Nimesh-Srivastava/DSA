@@ -111,7 +111,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/1656.cpp) |||🟢|||
 |1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/1662.cpp) |||🟢|||
 |1684  | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/1684.cpp) |||🟢|||
-|1913  | [Maximum product difference between two pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [C++](./C++/1913.cpp) |O(n logn),<br>O(n)||🟢|||
+|1913  | [Maximum product difference between two pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [C++](./C++/1913.cpp) |O(nlogn),<br>O(n)||🟢|||
 |1629  | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/1629.cpp) |||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/0026.cpp) |      |   |🟢|||

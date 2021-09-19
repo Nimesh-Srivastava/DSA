@@ -47,7 +47,7 @@ Big-O notation helps us identify the time and space complexity of an algorithm. 
 
 Size of input is denoted by 'n'. <br>
 
-### Ascending order of complexity
+### Ascending order of complexity :
 
 |  #  | Notation        |  Name        |  Example (time)   |
 |-----| --------------- | -----------  | ----------- |

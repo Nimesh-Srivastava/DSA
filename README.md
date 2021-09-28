@@ -221,6 +221,9 @@ A sequential list of data holding nodes that point to other nodes.
 <br/>
 
 ## 🟧 Stacks
+### Stacks as ADT
+We only care about the features and operations of stacks.
+
 
 <br/>
 <div align="right">

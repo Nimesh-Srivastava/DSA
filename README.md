@@ -23,10 +23,14 @@ Use the index given below to search for problems and solutions. Problems are arr
 ## 🟧 Introduction
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.
+<br>
+<br>
 
 ### Why do we use them?
 * To create fast and powerful algorithms
 * To make code easier for understanding
+<br>
+<br>
 
 ### What is abstract data type(ADT)?
 An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.<br>
@@ -47,6 +51,8 @@ Some examples are :
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
 Size of input is denoted by 'n'. <br>
+<br>
+<br>
 
 ### Ascending order of complexity :
 
@@ -80,6 +86,8 @@ Used :- <br>
 * as lookup / inverse lookup tables
 * to return multiple values from a function
 * as *cache* in dynamic programming
+<br>
+<br>
 
 ### Types
 ♦️*Static* : fixed length<br>
@@ -149,17 +157,23 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 ## 🟧 Linked Lists
 ### What is it?
 A sequential list of data holding nodes that point to other nodes.
+<br>
+<br>
 
 ### Uses
 * Stack, queue, list, circular list implementation
 * Adjancy list for graphs
 * Separate chaining to deal with hashing collisions
+<br>
+<br>
 
 ### Properties
 *Node* : contains data and pointer <br>
 *Pointer* : reference to another node <br>
 *Head* : first node in the list <br>
 *Tail* : last node in the list <br>
+<br>
+<br>
 
 ### Types
 * Singly linked list : reference to next node only <br>
@@ -169,6 +183,8 @@ A sequential list of data holding nodes that point to other nodes.
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
 |  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
+<br>
+<br>
 <br>
 
 ### Complexity Analysis
@@ -180,6 +196,7 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at head | O (1) | O (1) |
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
+<br>
 <br>
 
 ### Problems on linked lists
@@ -223,6 +240,8 @@ A sequential list of data holding nodes that point to other nodes.
 ## 🟧 Stacks
 ### Stacks as ADT
 We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define stack only as mathematical model.
+<br>
+<br>
 
 ### Property
 

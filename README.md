@@ -284,7 +284,7 @@ Stacks can be implemeted in 2 ways :-<br>
             top = top - 1
         }
         
-* Linked lists
+* Linked lists : <br>
 
 <br/>
 <div align="right">

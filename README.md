@@ -227,9 +227,13 @@ A sequential list of data holding nodes that point to other nodes.
 ### Stacks as ADT
 We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define stack only as mathematical model.
 <br>
-<br>
+
+### Definition
+A list with restriction of insertion and deletion from one end only.
 
 ### Property
+Elements are inserted and removed from the same end, also called, the *top* of stack. This is not just a property, but a constraint of stack. Hence, stack is called, LAST-IN-FIRST-OUT, or, LIFO, collection of items.
+
 
 <br/>
 <div align="right">

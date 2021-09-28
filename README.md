@@ -258,6 +258,8 @@ Apart from these fundamental operations, there can be others like :-<br>
 
 ### Complexity Analysis
 All opertaions mentioned above are performed in constant, or, O( 1 ) time.
+
+Overflow condition : O( n ), a larger array is created and all elements are copied. This only happens in array implementation of stack.
 <br>
 <br>
 

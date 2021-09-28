@@ -24,12 +24,10 @@ Use the index given below to search for problems and solutions. Problems are arr
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.
 <br>
-<br>
 
 ### Why do we use them?
 * To create fast and powerful algorithms
 * To make code easier for understanding
-<br>
 <br>
 
 ### What is abstract data type(ADT)?

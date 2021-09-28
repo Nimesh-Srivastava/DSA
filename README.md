@@ -272,7 +272,7 @@ Overflow condition : O( n ), a larger array is created and all elements are copi
 Stacks can be implemeted in 2 ways :-<br>
 * Stacks as arrays : <br>
 
-        int A[n]
+        int A[n]    // declaration of array that will act as stack
         top = -1
         
         Push(x){

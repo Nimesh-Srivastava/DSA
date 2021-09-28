@@ -162,7 +162,7 @@ A sequential list of data holding nodes that point to other nodes.
 <br>
 
 ### Properties
-*Node* : contains data and pointer <br>
+_Node_ : contains data and pointer <br>
 *Pointer* : reference to another node <br>
 *Head* : first node in the list <br>
 *Tail* : last node in the list <br>

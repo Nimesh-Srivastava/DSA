@@ -273,7 +273,8 @@ Stacks can be implemeted in 2 ways :-<br>
 * Stacks as arrays : <br>
 
         int A[n]    // declaration of array that will act as stack
-        top = -1
+        
+        top = -1    // pointer to the top of stack
         
         Push(x){
             top = top + 1

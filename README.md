@@ -234,6 +234,9 @@ A list with restriction of insertion and deletion from one end only.
 ### Property
 Elements are inserted and removed from the same end, also called, the *top* of stack. This is not just a property, but a constraint of stack. Hence, stack is called, LAST-IN-FIRST-OUT, or, LIFO, collection of items.
 
+### Operations
+* Push : for insertion of an element
+* Pop : for deletion of an element
 
 <br/>
 <div align="right">

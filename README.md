@@ -219,6 +219,14 @@ A sequential list of data holding nodes that point to other nodes.
 </div>
 <br/>
 
+## 🟧 Stacks
+
+<br/>
+<div align="right">
+    <b><a href="#index-of-content">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## 🟧 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 

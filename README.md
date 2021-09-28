@@ -163,9 +163,9 @@ A sequential list of data holding nodes that point to other nodes.
 
 ### Properties
 __Node__ : contains data and pointer <br>
-*Pointer* : reference to another node <br>
-*Head* : first node in the list <br>
-*Tail* : last node in the list <br>
+__Pointer__ : reference to another node <br>
+__Head__ : first node in the list <br>
+__Tail__ : last node in the list <br>
 
 <br>
 

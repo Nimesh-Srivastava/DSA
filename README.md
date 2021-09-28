@@ -226,7 +226,7 @@ __Tail__ : last node in the list <br>
 
 <br/>
 <div align="right">
-    <b><a href="#index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>
 

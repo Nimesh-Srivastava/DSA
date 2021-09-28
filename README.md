@@ -152,17 +152,22 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 ### What is it?
 A sequential list of data holding nodes that point to other nodes.
 <br>
+<br>
 
 ### Uses
 * Stack, queue, list, circular list implementation
 * Adjancy list for graphs
 * Separate chaining to deal with hashing collisions
 
+<br>
+
 ### Properties
 *Node* : contains data and pointer <br>
 *Pointer* : reference to another node <br>
 *Head* : first node in the list <br>
 *Tail* : last node in the list <br>
+
+<br>
 
 ### Types
 * Singly linked list : reference to next node only <br>

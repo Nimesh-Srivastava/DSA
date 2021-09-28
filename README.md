@@ -299,7 +299,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br>
 
-* Linked lists : <br>
+* Stacks as linked lists : <br>
 
 
 <br/>

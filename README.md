@@ -16,6 +16,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Big-O Notation](#-the-big-o-notation)<br>
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
+* [Stacks](#-Stacks)<br>
 * [Miscellaneous Problems](#-miscellaneous-problems)
 <br>
 

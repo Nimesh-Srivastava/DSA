@@ -248,8 +248,6 @@ Elements are inserted and removed from the same end, also called, the *top* of s
 * Push( ) : for insertion of an element
 * Pop( ) : for deletion of an element
 
-<br>
-
 Apart from these fundamental operations, there can be others like :-<br>
 * Top( ) : return the top element of stack
 * IsEmpty( ) : return TRUE if stack is empty, FALSE if not

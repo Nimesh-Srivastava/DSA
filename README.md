@@ -231,9 +231,11 @@ We only care about the features and operations of stacks. We don't care about th
 ### Definition
 A list with restriction of insertion and deletion from one end only.
 <br>
+<br>
 
 ### Property
 Elements are inserted and removed from the same end, also called, the *top* of stack. This is not just a property, but a constraint of stack. Hence, stack is called, LAST-IN-FIRST-OUT, or, LIFO, collection of items.
+<br>
 <br>
 
 ### Operations
@@ -241,6 +243,7 @@ Elements are inserted and removed from the same end, also called, the *top* of s
 * Pop( ) : for deletion of an element
 
 <br>
+
 Apart from these fundamental operations, there can be others like :-<br>
 * Top( ) : return the top element of stack
 * IsEmpty( ) : return TRUE if stack is empty, FALSE if not
@@ -249,22 +252,26 @@ Apart from these fundamental operations, there can be others like :-<br>
 ### Complexity Analysis
 All opertaions mentioned above are performed in constant, or, O( 1 ) time.
 <br>
+<br>
 
 ### Uses
 * Function calls / Recursion in dynamic memory allocation
 * implement Undo operation
 * balance of brackets by a compiler
 
+
 ### Implementation of stacks
 Stacks can be implemeted in 2 ways :-<br>
 * Arrays : <br>
 
-        int A[10]
+        int A[n]
         top = -1
+        
         Push(x){
             top = top + 1
             A[top] = x
         }
+        
         Pop{
             top = top - 1
         }

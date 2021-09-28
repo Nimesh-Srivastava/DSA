@@ -242,6 +242,30 @@ Apart from these fundamental operations, there can be others like :-<br>
 * Top( ) : return the top element of stack
 * IsEmpty( ) : return TRUE if stack is empty, FALSE if not
 
+### Complexity Analysis
+All opertaions mentioned above are performed in constant, or, O( 1 ) time.
+
+### Uses
+* Function calls / Recursion in dynamic memory allocation
+* implement Undo operation
+* balance of brackets by a compiler
+
+### Implementation of stacks
+Stacks can be implemeted in 2 ways :-<br>
+* Arrays : <br>
+
+        int A[10]
+        top = -1
+        Push(x){
+            top = top + 1
+            A[top] = x
+        }
+        Pop{
+            top = top - 1
+        }
+        
+* Linked lists
+
 <br/>
 <div align="right">
     <b><a href="#index-of-content">⬆️ Back to Top</a></b>

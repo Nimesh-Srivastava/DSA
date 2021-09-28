@@ -9,8 +9,9 @@ Please use the discussions tab for any queries.
 <br>
 <br>
 Use the index given below to search for problems and solutions. Problems are arranged in non-descending order of difficulty.
+<br>
 
-## Index of Content
+## 🟧 Index of Content
 
 * [Introduction](#-Introduction)<br>
 * [Big-O Notation](#-the-big-o-notation)<br>

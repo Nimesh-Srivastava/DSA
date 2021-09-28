@@ -222,7 +222,7 @@ A sequential list of data holding nodes that point to other nodes.
 
 ## 🟧 Stacks
 ### Stacks as ADT
-We only care about the features and operations of stacks. We don't care about the implementation details.
+We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define
 
 
 <br/>

@@ -152,22 +152,17 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 ### What is it?
 A sequential list of data holding nodes that point to other nodes.
 <br>
-<br>
 
 ### Uses
 * Stack, queue, list, circular list implementation
 * Adjancy list for graphs
 * Separate chaining to deal with hashing collisions
-<br>
-<br>
 
 ### Properties
 *Node* : contains data and pointer <br>
 *Pointer* : reference to another node <br>
 *Head* : first node in the list <br>
 *Tail* : last node in the list <br>
-<br>
-<br>
 
 ### Types
 * Singly linked list : reference to next node only <br>
@@ -177,8 +172,6 @@ A sequential list of data holding nodes that point to other nodes.
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
 |  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
-<br>
-<br>
 <br>
 
 ### Complexity Analysis
@@ -190,7 +183,6 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at head | O (1) | O (1) |
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
-<br>
 <br>
 
 ### Problems on linked lists

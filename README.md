@@ -28,7 +28,6 @@ A way of organizing data, so it can be used effectively.
 ### Why do we use them?
 * To create fast and powerful algorithms
 * To make code easier for understanding
-<br>
 
 ### What is abstract data type(ADT)?
 An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.<br>
@@ -49,7 +48,6 @@ Some examples are :
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
 Size of input is denoted by 'n'. <br>
-<br>
 <br>
 
 ### Ascending order of complexity :
@@ -84,8 +82,6 @@ Used :- <br>
 * as lookup / inverse lookup tables
 * to return multiple values from a function
 * as *cache* in dynamic programming
-<br>
-<br>
 
 ### Types
 ♦️*Static* : fixed length<br>

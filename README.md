@@ -282,11 +282,25 @@ Stacks can be implemeted in 2 ways :-<br>
             A[top] = x
         }
         
-        Pop{
+        Pop(){
             top = top - 1
         }
         
+        Top(){
+            return A[top]
+        }
+        
+        IsEmpty(){
+            if (top == -1)
+                return TRUE
+            else
+                return FALSE
+        }
+
+<br>
+
 * Linked lists : <br>
+
 
 <br/>
 <div align="right">

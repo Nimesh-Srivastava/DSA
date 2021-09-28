@@ -305,7 +305,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br/>
 <div align="right">
-    <b><a href="#index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
 </div>
 <br/>
 

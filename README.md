@@ -227,6 +227,7 @@ A sequential list of data holding nodes that point to other nodes.
 ### Stacks as ADT
 We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define stack only as mathematical model.
 <br>
+<br>
 
 ### Definition
 A list with restriction of insertion and deletion from one end only.
@@ -248,6 +249,7 @@ Apart from these fundamental operations, there can be others like :-<br>
 * Top( ) : return the top element of stack
 * IsEmpty( ) : return TRUE if stack is empty, FALSE if not
 
+<br>
 
 ### Complexity Analysis
 All opertaions mentioned above are performed in constant, or, O( 1 ) time.
@@ -259,6 +261,7 @@ All opertaions mentioned above are performed in constant, or, O( 1 ) time.
 * implement Undo operation
 * balance of brackets by a compiler
 
+<br>
 
 ### Implementation of stacks
 Stacks can be implemeted in 2 ways :-<br>

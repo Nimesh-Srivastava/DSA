@@ -311,7 +311,23 @@ Stacks can be implemeted in 2 ways :-<br>
         }
         
         Push(x) {
-            struct 
+            temp->data = x
+            temp->link = top
+            top = temp
+        }
+        
+        Pop() {
+            temp = top
+            top = top->link
+            free(temp)
+        }
+
+### Problems on Stacks
+![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+
 
 <br/>
 <div align="right">

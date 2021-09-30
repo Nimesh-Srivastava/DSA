@@ -328,7 +328,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 | ID | Title | Solution | Time | Space | Difficulty | Tags | Note | 
 |----|-------|----------|------|-------|------------|------|------|
-| 1614 | [Maximum nesting depth of the parantheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C++](./C++/000.cpp) |||🟢|||
+| 1614 | [Maximum nesting depth of the parantheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C++](./C++/1614.cpp) |||🟢|||
 
 
 <br/>

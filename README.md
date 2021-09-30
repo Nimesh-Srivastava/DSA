@@ -19,9 +19,8 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-Stacks)<br>
-* [Miscellaneous Problems](#-miscellaneous-problems)
+* [Miscellaneous Problems](#-miscellaneous-problems)<br>
 
-<br>
 
 ## 🟧 Introduction
 ### What is data structure(DS)?

@@ -273,7 +273,7 @@ Overflow condition : O( n ), a larger array is created and all elements are copi
 
 ### Implementation of stacks
 Stacks can be implemeted in 2 ways :-<br>
-* Stacks as arrays : <br>
+* Stacks using arrays : <br>
 
         // declaration of array that will act as stack
         int A[n]
@@ -301,7 +301,7 @@ Stacks can be implemeted in 2 ways :-<br>
                 return FALSE
         }
 
-* Stacks as linked lists : <br>
+* Stacks using linked lists : <br>
 
         // structure for linked list
         struct Node {

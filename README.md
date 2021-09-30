@@ -20,7 +20,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-Stacks)<br>
 * [Miscellaneous Problems](#-miscellaneous-problems)
-
+<br>
 
 
 ## 🟧 Introduction

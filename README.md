@@ -322,6 +322,7 @@ Stacks can be implemeted in 2 ways :-<br>
             top = top->link
             free(temp)
         }
+<br>
 
 ### Problems on Stacks
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;

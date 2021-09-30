@@ -21,6 +21,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Stacks](#-Stacks)<br>
 * [Miscellaneous Problems](#-miscellaneous-problems)
 
+<br>
 
 ## 🟧 Introduction
 ### What is data structure(DS)?

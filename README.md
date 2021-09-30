@@ -274,9 +274,11 @@ Overflow condition : O( n ), a larger array is created and all elements are copi
 Stacks can be implemeted in 2 ways :-<br>
 * Stacks as arrays : <br>
 
-        int A[n]    // declaration of array that will act as stack
+        // declaration of array that will act as stack
+        int A[n]
         
-        top = -1    // pointer to the top of stack
+        // pointer to the top of stack
+        top = -1
         
         Push(x){
             top = top + 1
@@ -302,6 +304,14 @@ Stacks can be implemeted in 2 ways :-<br>
 
 * Stacks as linked lists : <br>
 
+        // structure for linked list
+        struct Node {
+            int data
+            struct Node* link
+        }
+        
+        Push(x) {
+            struct 
 
 <br/>
 <div align="right">

@@ -22,6 +22,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Miscellaneous Problems](#-miscellaneous-problems)
 
 
+
 ## 🟧 Introduction
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.

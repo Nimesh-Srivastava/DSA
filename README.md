@@ -301,8 +301,6 @@ Stacks can be implemeted in 2 ways :-<br>
                 return FALSE
         }
 
-<br>
-
 * Stacks as linked lists : <br>
 
         // structure for linked list

@@ -328,7 +328,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 | ID | Title | Solution | Time | Space | Difficulty | Tags | Note | 
 |----|-------|----------|------|-------|------------|------|------|
-| 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/0002.cpp) |||🟡|||
+| 0002 | [temp]() | [C++](./C++/000.cpp) |||🟡|||
 
 
 <br/>

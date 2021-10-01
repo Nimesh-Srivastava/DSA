@@ -1,5 +1,5 @@
 // logic : 
-// We iterate in reverse order
+// We iterate in reverse order since we need to find the next greater value
 // If stack.top() > prices[i], we pop the stack
 // If it is lower, we subtract it from price and push the price to stack
 

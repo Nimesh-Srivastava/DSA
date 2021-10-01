@@ -329,8 +329,7 @@ Stacks can be implemeted in 2 ways :-<br>
 |----|-------|----------|------|-------|------------|------|------|
 | 1614 | [Maximum nesting depth of the parantheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C++](./C++/1614.cpp) |||🟢|||
 | 1021 | [Remove outermost parantheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C++](./C++/1021.cpp) |||🟢|||
-| 1021 | [Remove outermost parantheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C++](./C++/1021.cpp) |||🟢|||
-[](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)
+| 1021 | [Remove outermost parantheses](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [C++](./C++/1021.cpp) |||🟢|||
 
 
 <br/>

@@ -349,6 +349,9 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 🟧 Dynamic Programming
 ![Count](https://img.shields.io/badge/Count-0-brown.svg?style=for-the-badge)&nbsp;
 
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 0764 | [Largest plus sign](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 
 <br/>
 <div align="right">

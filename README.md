@@ -347,7 +347,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 🟧 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-0-brown.svg?style=for-the-badge)&nbsp;
 
 
 <br/>

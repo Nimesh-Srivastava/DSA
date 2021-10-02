@@ -351,7 +351,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0764 | [Largest plus sign](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0764.cpp) |||🟡|||
+| 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
 
 <br/>
 <div align="right">

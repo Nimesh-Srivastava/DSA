@@ -78,7 +78,7 @@ Size of input is denoted by 'n'. <br>
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -155,7 +155,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -235,7 +235,7 @@ __Tail__ : last node in the list <br>
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -342,7 +342,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -357,7 +357,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
 
@@ -376,6 +376,6 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br/>
 <div align="right">
-    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+    <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>

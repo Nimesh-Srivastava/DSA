@@ -350,6 +350,12 @@ Stacks can be implemeted in 2 ways :-<br>
 ![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
 
+<br/>
+<div align="right">
+    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## 🟧 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
@@ -361,3 +367,10 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
 | 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/0006.cpp) |||🟡|||
 | 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/0008.cpp) |||🟡|||
+
+
+<br/>
+<div align="right">
+    <b><a href="#-index-of-content">⬆️ Back to Top</a></b>
+</div>
+<br/>

@@ -12,8 +12,8 @@ Use the index given below to search for problems and solutions. Problems are arr
 <br>
 <br>
 
-## 🟧 Index of Content
-
+## 🟧 Index
+### Theory
 * [Introduction](#-Introduction)<br>
 * [Big-O Notation](#-the-big-o-notation)<br>
 

@@ -353,7 +353,7 @@ Stacks can be implemeted in 2 ways :-<br>
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
 | 1143 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C++](./C++/1143.cpp) |||🟡|||
-| 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/0174.cpp) |||🟡|||
+| 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/0174.cpp) |||🔴|||
 
 <br/>
 <div align="right">

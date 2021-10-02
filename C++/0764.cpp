@@ -1,3 +1,5 @@
+//solved using dynamic programming
+
 class Solution {
 public:
     

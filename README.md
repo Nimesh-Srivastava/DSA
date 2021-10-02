@@ -121,7 +121,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1816  | [Truncate sentence](https://leetcode.com/problems/truncate-sentence) | [C++](./C++/1816.cpp) |||🟢|||
 |1979  | [Find greatest common divisor of array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [C++](./C++/1979.cpp) |||🟢|||
 |1629  | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/1629.cpp) |||🟢|||
-|1629  | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/1629.cpp) |||🟢|||
+|1629  | [Contains duplicate](https://leetcode.com/problems/slowest-key) | [C++](./C++/1629.cpp) |||🟢|||
 |0001  | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/0026.cpp) |      |   |🟢|||
 |0888  | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/0888.cpp) |||🟢|||

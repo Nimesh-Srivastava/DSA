@@ -23,6 +23,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Stacks](#-Stacks)<br>
 
 ### Algorithms
+* [Dynamic programming](#-dynamic-programming)<br>
 
 ### Extra
 * [Miscellaneous Problems](#-miscellaneous-problems)

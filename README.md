@@ -381,7 +381,20 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Depth First Search
+## 🟧 Strings
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 0463 | [Island perimeter](https://leetcode.com/problems/island-perimeter) | [C++](./C++/0463.cpp) |||🟢||Bruteforce,<br>DFS|
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 🟧 Hash Table
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 

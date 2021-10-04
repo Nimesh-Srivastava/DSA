@@ -27,7 +27,7 @@ public:
             dp[row - 1][i] = max(dp[row - 1][i + 1] - dungeon[row - 1][i], 1);
         
         
-        // calcultion for remaining cells row wise
+        // calcultion for remaining cells row wise, iterating from back
         for(int i = row - 2; i >= 0; i--)
             for(int j = col - 2; j >= 0; j--)
                 dp[i][j] = max(min(dp[i + 1][j], dp[i][j + 1]) - dungeon[i][j], 1);

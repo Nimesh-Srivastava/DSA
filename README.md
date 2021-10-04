@@ -24,6 +24,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 
 ### Algorithms
 * [Dynamic programming](#-dynamic-programming)<br>
+* [Depth First Search](#-depth-first-search)
 
 ### Extra
 * [Miscellaneous Problems](#-miscellaneous-problems)

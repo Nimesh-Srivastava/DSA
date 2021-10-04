@@ -370,7 +370,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0463 | [Island perimeter](https://leetcode.com/problems/island-perimeter) | [C++](./C++/0463.cpp) |||🟢||Bruteforce<br>DFS|
+| 0463 | [Island perimeter](https://leetcode.com/problems/island-perimeter) | [C++](./C++/0463.cpp) |||🟢||Bruteforce,<br>DFS|
 
 <br/>
 <div align="right">

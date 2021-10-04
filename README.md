@@ -382,11 +382,13 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 🟧 Strings
-![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0463 | [Island perimeter](https://leetcode.com/problems/island-perimeter) | [C++](./C++/0463.cpp) |||🟢||Bruteforce,<br>DFS|
+| 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
+| 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/0006.cpp) |||🟡|||
+| 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/0008.cpp) |||🟡|||
 
 <br/>
 <div align="right">
@@ -415,9 +417,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/0009.cpp) |||🟢|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡|||
-| 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
-| 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/0006.cpp) |||🟡|||
-| 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/0008.cpp) |||🟡|||
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game/) | [C++](./C++/0055.cpp) |||🟡|||
 
 

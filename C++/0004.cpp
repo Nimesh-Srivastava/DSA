@@ -7,8 +7,7 @@ public:
             return calc(nums1, nums2, ((nums1.size() + nums2.size()) / 2) + 1);
         else
             return (calc(nums1, nums2, (nums1.size() + nums2.size()) / 2) +
-                    calc(nums1, nums2, (nums1.size() + nums2.size()) / 2 + 1)) /
-                   2.0;
+                    calc(nums1, nums2, (nums1.size() + nums2.size()) / 2 + 1)) / 2.0;
     }
 
     int calc(vector<int> &a, vector<int> &b, int k)

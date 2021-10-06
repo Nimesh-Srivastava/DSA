@@ -17,7 +17,7 @@ public:
                 dp[i][j] = min(dp[i][j], right);
                 
                 down = mat[j][i] ? down+1 : 0;
-                dp[j][i] = min(dp[ii][i], down);
+                dp[j][i] = min(dp[j][i], down);
             }
         }
         

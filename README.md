@@ -398,7 +398,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 🟧 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

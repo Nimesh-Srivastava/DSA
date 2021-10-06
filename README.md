@@ -152,7 +152,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 |0018  | [4 Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||
-|0074  | [4 Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
+|0074  | [Search a 2D matrix](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/0036.cpp) |||🟡||hash maps, or<br>2D array|
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||

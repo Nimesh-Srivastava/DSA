@@ -25,7 +25,7 @@ public:
             
             up = 0, left = 0;
             
-            for(int ii=n-1; ii>=0; ii--){
+            for(int j=n-1; ii>=0; ii--){
                 
                 left = mat[i][ii] ? left+1 : 0;
                 dp[i][ii] = min(dp[i][ii], left);

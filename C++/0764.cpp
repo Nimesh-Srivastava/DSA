@@ -49,8 +49,8 @@ public:
         int result = 0;
         
         for(int i=0; i<n; i++){
-            for(int ii=0; ii<n; ii++){
-                result = max(result, dp[i][ii]);
+            for(int j=0; j<n; j++){
+                result = max(result, dp[i][j]);
             }
         }
         

@@ -105,7 +105,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-46-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-47-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -147,6 +147,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0645  | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/0645.cpp) |||🟢|||
 |0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/0414.cpp) |||🟢|||
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
+|0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
 |1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/1814.cpp) |||🟡|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 |0018  | [4 Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||

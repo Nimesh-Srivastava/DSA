@@ -25,13 +25,13 @@ public:
             
             up = 0, left = 0;
             
-            for(int j=n-1; ii>=0; ii--){
+            for(int j=n-1; j>=0; j--){
                 
-                left = mat[i][ii] ? left+1 : 0;
-                dp[i][ii] = min(dp[i][ii], left);
+                left = mat[i][j] ? left+1 : 0;
+                dp[i][j] = min(dp[i][j], left);
                 
-                up = mat[ii][i] ? up+1 : 0;
-                dp[ii][i] = min(dp[ii][i], up);
+                up = mat[j][i] ? up+1 : 0;
+                dp[j][i] = min(dp[j][i], up);
             }
         }
     }

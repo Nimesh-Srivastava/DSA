@@ -28,7 +28,7 @@ public:
             return true;
         
         //right neighbour
-        if(j < board[0].size() && !visited[i][j + 1] 
+        if(j < board[0].size() - 1 && !visited[i][j + 1] 
           && board[i][j + 1] == word[idx + 1] 
           && dfs(board, i, j + 1, word, idx + 1, visited))
             return true;

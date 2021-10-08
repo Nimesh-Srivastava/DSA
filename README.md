@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-90-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-91-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -21,6 +21,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-Stacks)<br>
+* [Trie (Prefix tree)](#-trie)<br>
 
 ### Algorithms
 * [Dynamic programming](#-dynamic-programming)<br>
@@ -347,6 +348,19 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1021 | [Remove outermost parantheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C++](./C++/1021.cpp) |||🟢|||
 | 1475 | [Final prices with a special discount in shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [C++](./C++/1475.cpp) |||🟢|||
 
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 🟧 Trie
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/0208.cpp) |||🟡|||
 
 <br/>
 <div align="right">

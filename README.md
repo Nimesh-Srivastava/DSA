@@ -427,6 +427,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 | 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/0009.cpp) |||🟢|||
+| 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game/) | [C++](./C++/0055.cpp) |||🟡|||
 

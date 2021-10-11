@@ -363,7 +363,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
+| 0543 | [Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](./C++/0543.cpp) |||🟢|||
 
 <br/>
 <div align="right">

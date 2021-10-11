@@ -12,7 +12,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 <br>
 <br>
 
-## 🟧 Index
+## 💢 Index
 ### Theory
 * [Introduction](#-Introduction)<br>
 * [Big-O Notation](#-the-big-o-notation)<br>
@@ -34,7 +34,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 <br>
 
 
-## 🟧 Introduction
+## 💢 Introduction
 ### What is data structure(DS)?
 A way of organizing data, so it can be used effectively.
 <br>
@@ -57,7 +57,7 @@ Some examples are :
 <br>
 
 
-## 🟧 The Big-O Notation
+## 💢 The Big-O Notation
 ### What is Big-O and why do we use it?
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
@@ -86,7 +86,7 @@ Size of input is denoted by 'n'. <br>
 </div>
 <br/>
 
-## 🟧 Arrays
+## 💢 Arrays
 ### Property
 Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array. <br>
 Used :- <br>
@@ -169,7 +169,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 </div>
 <br/>
 
-## 🟧 Linked Lists
+## 💢 Linked Lists
 ### What is it?
 A sequential list of data holding nodes that point to other nodes.
 <br>
@@ -249,7 +249,7 @@ __Tail__ : last node in the list <br>
 </div>
 <br/>
 
-## 🟧 Stacks
+## 💢 Stacks
 ### Stacks as ADT
 We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define stack only as mathematical model.
 <br>
@@ -358,7 +358,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Tree
+## 💢 Tree
 ![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
@@ -374,7 +374,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Trie
+## 💢 Trie
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
@@ -387,7 +387,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Dynamic Programming
+## 💢 Dynamic Programming
 ![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
@@ -405,7 +405,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Depth First Search
+## 💢 Depth First Search
 ![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
@@ -419,7 +419,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Strings
+## 💢 Strings
 ![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
@@ -438,7 +438,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 🟧 Miscellaneous problems
+## 💢 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 

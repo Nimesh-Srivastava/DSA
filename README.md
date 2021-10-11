@@ -363,6 +363,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 0144 | [Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [C++](./C++/0144.cpp) |||🟢|||
 | 0543 | [Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](./C++/0543.cpp) |||🟢|||
 
 <br/>

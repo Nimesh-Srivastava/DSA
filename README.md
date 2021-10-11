@@ -358,6 +358,19 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
+## 🟧 Tree
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/0208.cpp) |||🟡|||
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## 🟧 Trie
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 

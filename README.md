@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-94-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-95-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -20,7 +20,8 @@ Use the index given below to search for problems and solutions. Problems are arr
 ### Data Structures
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
-* [Stacks](#-Stacks)<br>
+* [Stacks](#-stacks)<br>
+* [Tree](#-tree)<br>
 * [Trie (Prefix tree)](#-trie)<br>
 
 ### Algorithms

@@ -363,7 +363,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/0208.cpp) |||🟡|||
+
 
 <br/>
 <div align="right">

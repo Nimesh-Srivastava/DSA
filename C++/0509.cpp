@@ -1,4 +1,4 @@
-// solution using recursion
+// solution using recursion, does not work for large n
 class Solution {
 public:
     int fib(int n) {

@@ -366,6 +366,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0144 | [Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [C++](./C++/0144.cpp) |||🟢|||
 | 0094 | [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./C++/0094.cpp) |||🟢|||
 | 0145 | [Binary tree postorder traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [C++](./C++/0145.cpp) |||🟢|||
+| 0104 | [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./C++/0104.cpp) |||🟢|||
 | 0543 | [Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](./C++/0543.cpp) |||🟢|||
 | 0102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/0102.cpp) |||🟡|||
 

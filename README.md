@@ -446,6 +446,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 | 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/0009.cpp) |||🟢|||
+| 0374 | [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C++](./C++/374.cpp) |||🟢|||
 | 0013 | [Roman to integer](https://leetcode.com/problems/roman-to-integer) | [C++](./C++/0013.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/0012.cpp) |||🟡|||

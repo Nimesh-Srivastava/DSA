@@ -370,6 +370,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0543 | [Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](./C++/0543.cpp) |||🟢|||
 | 0101 | [Symmetric tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/0101.cpp) |||🟢|||
 | 0102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/0102.cpp) |||🟡|||
+| 1008 | [Construct binary search tree from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](./C++/1008.cpp) |||🟡|||
 
 <br/>
 <div align="right">

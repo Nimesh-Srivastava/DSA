@@ -457,7 +457,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/0012.cpp) |||🟡|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|
-| 0055 | [Jump game](https://leetcode.com/problems/jump-game/) | [C++](./C++/0055.cpp) |||🟡|||
+| 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/0055.cpp) |||🟡|||
+| 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/0279.cpp) |||🟡||DP,<br>Mathematical|
 
 
 <br/>

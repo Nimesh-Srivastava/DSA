@@ -50,7 +50,7 @@ ADTs are implemented using data structures.<br>
 Some examples are :
 
 |  #  | ADT        |  Implementation(DS) |
-|-----| --------------- | -----------  |
+|:-----:| --------------- | -----------  |
 |  1  | Lists | Dynamic Array <br> Linked List |
 |  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
 |  3  | Maps | Hash table <br> Tree |
@@ -67,7 +67,7 @@ Size of input is denoted by 'n'. <br>
 ### Ascending order of complexity :
 
 |  #  | Notation        |  Name        |  Example (time)   |
-|-----| --------------- | -----------  | ----------- |
+|:-----:|---------------| -----------  | ----------- |
 |  1  |  O (1)          | Constant     | Accessing an array |
 |  2  |  O (log n)      | Logarithmic  | Binary search |
 |  3  |  O (n)          | Linear       | Traversing an array |
@@ -109,8 +109,8 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 ![Count](https://img.shields.io/badge/Count-49-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title                                   |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID   | Title           |  Solution       |  Time           | Space         | Difficulty    | Tags         | Note| 
+|:-----:|---------------- |:---------------:|---------------| --------------- |:-------------:|--------------|-----|
 |1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp) |||🟢| | |
 |1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp) |||🟢| | |
 |1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢| | |
@@ -215,7 +215,7 @@ __Tail__ : last node in the list <br>
 ![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|:-----:|---------------- |:---------------:| --------------- | --------------- |:-------------:|--------------|-----|
 | 1290 | [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++](./C++/1290.cpp) |||🟢||Bruteforce|
 | 0876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list) | [C++](./C++/0876.cpp) |||🟢||Bruteforce|
 | 0237 | [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list) | [C++](./C++/0237.cpp) |||🟢|||
@@ -238,7 +238,7 @@ __Tail__ : last node in the list <br>
 * Doubly linked list -
 
 |  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
-|------|---------|------------|--------|---------|--------------|--------|------|
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 1472 | [Design browser history](https://leetcode.com/problems/design-browser-history) | [C++](./C++/1472.cpp) |||🟡||Create list structure|
 | 0430 | [Flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C++](./C++/0430.cpp) |O(n)|O(n)|🟡||Recursion|
 
@@ -343,8 +343,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ### Problems on Stacks
 ![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
-| ID | Title | Solution | Time | Space | Difficulty | Tags | Note | 
-|----|-------|----------|------|-------|------------|------|------|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0020 | [Valid parantheses](https://leetcode.com/problems/valid-parentheses) | [C++](./C++/0020.cpp) |||🟢|||
 | 1614 | [Maximum nesting depth of the parantheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [C++](./C++/1614.cpp) |||🟢|||
 | 1021 | [Remove outermost parantheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C++](./C++/1021.cpp) |||🟢|||
@@ -361,8 +361,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Tree
 ![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0144 | [Binary tree preorder traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [C++](./C++/0144.cpp) |||🟢|||
 | 0094 | [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./C++/0094.cpp) |||🟢|||
 | 0145 | [Binary tree postorder traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [C++](./C++/0145.cpp) |||🟢|||
@@ -385,8 +385,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Trie
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/0208.cpp) |||🟡|||
 
 <br/>
@@ -398,8 +398,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Dynamic Programming
 ![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0338 | [Counting bits](https://leetcode.com/problems/counting-bits) | [C++](./C++/0338.cpp) |||🟢|||
 | 0509 | [Fibonacci number](https://leetcode.com/problems/fibonacci-number) | [C++](./C++/0509.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
@@ -416,8 +416,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Depth First Search
 ![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0463 | [Island perimeter](https://leetcode.com/problems/island-perimeter) | [C++](./C++/0463.cpp) |||🟢||Bruteforce,<br>DFS|
 | 0079 | [Word search](https://leetcode.com/problems/word-search) | [C++](./C++/0079.cpp) |||🟡||Optimised for space|
 
@@ -430,8 +430,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Strings
 ![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0242 | [Valid anagram](https://leetcode.com/problems/valid-anagram) | [C++](./C++/0242.cpp) |||🟢|||
 | 0387 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string) | [C++](./C++/0387.cpp) |||🟢|||
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/0383.cpp) |||🟢|||
@@ -449,8 +449,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
 
-|  ID  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tags         | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
+|:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
 | 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/0009.cpp) |||🟢|||

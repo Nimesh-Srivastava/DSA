@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-111-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-112-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -360,7 +360,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
 |:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
@@ -373,6 +373,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0101 | [Symmetric tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/0101.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/0112.cpp) |||🟢|||
 | 0226 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | [C++](./C++/0226.cpp) |||🟢|||
+| 0653 | [Two sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [C++](./C++/0653.cpp) |||🟢|||
 | 0102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/0102.cpp) |||🟡||queue|
 | 1008 | [Construct binary search tree from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](./C++/1008.cpp) |||🟡|||
 | 0701 | [Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C++](./C++/0701.cpp) |||🟡|||

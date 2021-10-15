@@ -7,12 +7,12 @@ public:
         int cool = 0;
         int prev = 0;
         
-        for(int i=0; i<prices.size(); i++){
+        for(auto c : prices){
             
             prev = sell;
-            sell = hold + prices[i];
+            sell = hold + c;
             
-            hold = max(hold, cool - prices[i]);
+            hold = max(hold, cool - c);
             cool = max(cool, prev);
         }
         

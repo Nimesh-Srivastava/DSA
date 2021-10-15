@@ -25,8 +25,8 @@ public:
     }
 };
 
-//Another solution
-class Solution2
+//Solution
+class Solution
 {
 public:
     vector<int> shuffle(vector<int> &nums, int n)

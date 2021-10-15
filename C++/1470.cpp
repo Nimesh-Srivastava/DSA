@@ -25,7 +25,7 @@ public:
     }
 };
 
-//Solution
+//Solution 2
 class Solution
 {
 public:

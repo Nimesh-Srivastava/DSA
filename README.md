@@ -466,6 +466,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/0055.cpp) |||🟡|||
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/0279.cpp) |||🟡||DP,<br>Mathematical|
+| 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/0123.cpp) |||🔴|||
 
 
 <br/>

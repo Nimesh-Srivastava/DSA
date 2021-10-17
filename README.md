@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-115-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-116-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -360,7 +360,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  |  Title  |  Solution  |  Time  |  Space  |  Difficulty  |  Tags  | Note | 
 |:------:|---------|:------------:|--------|---------|:--------------:|--------|------|
@@ -377,6 +377,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0235 | [Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [C++](./C++/0235.cpp) |||🟢|||
 | 0102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/0102.cpp) |||🟡||queue|
 | 1008 | [Construct binary search tree from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](./C++/1008.cpp) |||🟡|||
+| 0437 | [Path sum III](https://leetcode.com/problems/path-sum-iii) | [C++](./C++/0437.cpp) |||🟡|||
 | 0701 | [Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C++](./C++/0701.cpp) |||🟡|||
 | 0098 | [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./C++/0098.cpp) |||🟡|||
 

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-116-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-117-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -360,7 +360,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -370,6 +370,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0104 | [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./C++/0104.cpp) |||🟢|||
 | 0543 | [Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree) | [C++](./C++/0543.cpp) |||🟢|||
 | 0700 | [Search in a binary tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [C++](./C++/0700.cpp) |||🟢|||
+| 0993 | [Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree) | [C++](./C++/0993.cpp) |||🟢|||
 | 0101 | [Symmetric tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/0101.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/0112.cpp) |||🟢|||
 | 0226 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | [C++](./C++/0226.cpp) |||🟢|||

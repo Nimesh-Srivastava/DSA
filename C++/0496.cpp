@@ -74,6 +74,7 @@ public:
         
         vector<int> result;
         
+        //put index from nums1 into map to get next greater element
         for(int i=0; i<nums1.size(); i++)
             result.push_back(next_gr[map1[nums1[i]]]);
         

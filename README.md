@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-119-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-120-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -455,7 +455,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -470,6 +470,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/0055.cpp) |||🟡|||
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/0279.cpp) |||🟡||DP,<br>Mathematical|
+| 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/0380.cpp) |O(1)||🟡|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/0123.cpp) |||🔴|||
 
 <br/>

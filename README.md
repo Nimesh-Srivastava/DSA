@@ -422,12 +422,13 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [C++](./C++/0704.cpp) |||🟢|||
 | 0278 | [First bad version](https://leetcode.com/problems/first-bad-version) | [C++](./C++/0278.cpp) |||🟢|||
+|0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/0035.cpp) |||🟢|||
 
 <br/>
 <div align="right">

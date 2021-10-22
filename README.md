@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-124-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-125-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -108,7 +108,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-49-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-50-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -121,7 +121,8 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/1431.cpp)|||🟢| | |
 |1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/1512.cpp) |||🟢| |bruteforce,<br> hash table|
 |1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/1365.cpp) |||🟢| |frequency array|
-|1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/1528.cpp) |||🟢| ||
+|1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/1528.cpp) |||🟢|||
+|0136  | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/0136.cpp) |||🟢|||
 |1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/1720.cpp) |||🟢| |XOR property|
 |1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/1313.cpp) |O(n^2)||🟢|||
 |1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/1389.cpp) |O(n)||🟢|||

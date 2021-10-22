@@ -26,6 +26,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 
 ### Algorithms
 * [Dynamic programming](#-dynamic-programming)<br>
+* [Binary Search](#-binary-search)<br>
 * [Depth First Search](#-depth-first-search)<br>
 * [Strings](#-strings)<br>
 
@@ -413,6 +414,19 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
 | 1143 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C++](./C++/1143.cpp) |||🟡|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/0174.cpp) |||🔴|||
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Binary Search
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [C++](./C++/0704.cpp) |||🟢|||
 
 <br/>
 <div align="right">

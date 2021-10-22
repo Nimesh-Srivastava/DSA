@@ -108,7 +108,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-50-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-49-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -143,7 +143,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0121  | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./C++/0121.cpp) |||🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/0027.cpp) |||🟢|||
 |0744  | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/0744.cpp) |O(logn)||🟢|||
-|0035  | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/0035.cpp) |||🟢|||
 |0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/0053.cpp) |||🟢||Kadane's algorithm|
 |0066  | [Plus One](https://leetcode.com/problems/plus-one) | [C++](./C++/0066.cpp) |||🟢|||
 |0088  | [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) | [C++](./C++/0088.cpp) |||🟢|||

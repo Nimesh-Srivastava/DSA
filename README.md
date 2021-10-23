@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-182-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-183-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -108,19 +108,20 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-78-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp) |||🟢| | |
-|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp) |||🟢| | |
-|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢| | |
-|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/1672.cpp) |||🟢| |matrix|
-|0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/0566.cpp) |||🟢| | |
-|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/1470.cpp) |||🟢| | |
-|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/1431.cpp)|||🟢| | |
-|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/1512.cpp) |||🟢| |bruteforce,<br> hash table|
+|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp) |||🟢|||
+|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp) |||🟢|||
+|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢|||
+|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/1672.cpp) |||🟢||matrix|
+|0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/0566.cpp) |||🟢|||
+|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/1470.cpp) |||🟢|||
+|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/1431.cpp)|||🟢|||
+|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/1512.cpp) |||🟢||bruteforce,<br> hash table|
 |1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/1365.cpp) |||🟢| |frequency array|
+|0706  | [Design hashmap](https://leetcode.com/problems/design-hashmap) | [C++](./C++/0706.cpp) |||🟢|||
 |1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/1528.cpp) |||🟢|||
 |0136  | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/0136.cpp) |||🟢|||
 |1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/1720.cpp) |||🟢||XOR property|

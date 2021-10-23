@@ -30,3 +30,28 @@ public:
         std::reverse(arr.begin() + k, arr.end());
     }
 };
+
+
+//Solution 3:-
+class Solution {
+public:
+    void revArr(vector<int>& nums, int i, int j){
+        
+        while(i < j){
+            nums[i] += nums[j];
+            nums[j] = nums[i] - nums[j];
+            nums[i] -= nums[j];
+            i++;
+            j--;
+        }
+    }
+    
+    void rotate(vector<int>& nums, int k) {
+        
+        k %= nums.size();
+        
+        revArr(nums, 0, nums.size()-1);
+        revArr(nums, 0, k-1);
+        revArr(nums, k, nums.size()-1);
+    }
+};

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-178-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-179-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -108,7 +108,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-73-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-74-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -182,6 +182,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||
 |0031  | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/0031.cpp) |||🟡|||
 |0287  | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/0287.cpp) |||🟡|||
+|0154  | [Find minimum in rotated sorted array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C++](./C++/0154.cpp) |||🔴|||
 |0239  | [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum) | [C++](./C++/0239.cpp) |||🔴|||
 |0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|
 |0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/0992.cpp) |||🔴|||

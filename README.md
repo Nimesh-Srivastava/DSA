@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-181-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-182-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -108,7 +108,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-76-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -153,6 +153,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
 |0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
 |0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/0075.cpp) |||🟡|||
+|0056  | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/0056.cpp) |||🟡|||
 |0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
 |0540  | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/0540.cpp) |||🟡|||
 |1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/1814.cpp) |||🟡|||

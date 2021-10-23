@@ -1,4 +1,5 @@
 //Solution 1:-
+//T : O(n)
 class Solution {
 public:
     int findMin(vector<int>& nums) {
@@ -14,7 +15,8 @@ public:
 };
 
 
-//Solution 2:-
+//Solution 2:- (faster)
+//T : O(log n)
 class Solution {
 public:
     int findMin(vector<int>& nums) {

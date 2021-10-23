@@ -108,7 +108,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-52-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-54-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -156,12 +156,24 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 |0015  | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/0015.cpp) |||🟡|||
 |0018  | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
+|0039  | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/0039.cpp) |||🟡|||
+|0040  | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/0040.cpp) |||🟡|||
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||
 |0074  | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/0074.cpp) |||🟡|||
+|0152  | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/0152.cpp) |||🟡|||
 |0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [C++](./C++/0309.cpp) |||🟡|||
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/0036.cpp) |||🟡||hash maps, or<br>2D array|
+|0011  | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/0011.cpp) |||🟡|||
+|0204  | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/0204.cpp) |||🟡|||
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
+|0034  | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/0034.cpp) |||🟡|||
+|0078  | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/0078.cpp) |||🟡|||
+|0090  | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/0090.cpp) |||🟡|||
+|0046  | [Permutations](https://leetcode.com/problems/permutations) | [C++](./C++/0046.cpp) |||🟡|||
+|0047  | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/0047.cpp) |||🟡|||
+|0033  | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/0033.cpp) |||🟡|||
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||
+|0031  | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/0031.cpp) |||🟡|||
 |0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/0004.cpp) |||🔴||binary search,<br>careful of bounds|
 |0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/0992.cpp) |||🔴|||
 
@@ -216,7 +228,7 @@ __Tail__ : last node in the list <br>
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-19-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -231,7 +243,11 @@ __Tail__ : last node in the list <br>
 | 0234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/0234.cpp) |O(n)|O(1)|🟢||List reversal|
 | 0141 | [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) | [C++](./C++/0141.cpp) |||🟢|||
 | 0203 | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/0203.cpp) |||🟢|||
+| 0092 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](./C++/0092.cpp) |||🟡|||
+| 0142 | [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./C++/0142.cpp) |||🟡|||
+| 0143 | [Reorder cycle](https://leetcode.com/problems/reorder-list) | [C++](./C++/0143.cpp) |||🟡|||
 | 1669 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](./C++/1669.cpp) |||🟡|||
+| 0019 | [Remove n-th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/0019.cpp) |||🟡|||
 | 1721 | [Swapping nodes in a linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./C++/1721.cpp) |||🟡|||
 | 1019 | [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list) | [C++](./C++/1019.cpp) |O(n)||🟡||Typical problem,<br> *Important*|
 | 0328 | [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/0328.cpp) |O(n)|O(1)|🟡|||
@@ -354,6 +370,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1021 | [Remove outermost parantheses](https://leetcode.com/problems/remove-outermost-parentheses) | [C++](./C++/1021.cpp) |||🟢|||
 | 1475 | [Final prices with a special discount in shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [C++](./C++/1475.cpp) |||🟢|||
 | 0232 | [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [C++](./C++/0232.cpp) |||🟢|||
+| 0071 | [Simplify path](https://leetcode.com/problems/simplify-path) | [C++](./C++/0071.cpp) |||🟡|||
 
 
 <br/>
@@ -467,6 +484,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0848 | [Shifting letters](https://leetcode.com/problems/shifting-letters) | [C++](./C++/0848.cpp) |||🟡|||
 | 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/0006.cpp) |||🟡|||
 | 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/0008.cpp) |||🟡|||
+| 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/0076.cpp) |||🔴|||
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
 
 <br/>

@@ -159,9 +159,11 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0015  | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/0015.cpp) |||🟡|||
 |0018  | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
 |0039  | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/0039.cpp) |||🟡|||
+|1052  | [Grumpty bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C++](./C++/1052.cpp) |||🟡|||
 |0040  | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/0040.cpp) |||🟡|||
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||
 |0074  | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/0074.cpp) |||🟡|||
+|1823  | [Find the inner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/1823.cpp) |||🟡|||
 |0152  | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/0152.cpp) |||🟡|||
 |0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [C++](./C++/0309.cpp) |||🟡|||
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/0036.cpp) |||🟡||hash maps, or<br>2D array|
@@ -170,10 +172,12 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0034  | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/0034.cpp) |||🟡|||
 |0950  | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/0950.cpp) |||🟡|||
+|1343  | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/1343.cpp) |||🟡|||
 |0078  | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/0078.cpp) |||🟡|||
 |0090  | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/0090.cpp) |||🟡|||
 |0046  | [Permutations](https://leetcode.com/problems/permutations) | [C++](./C++/0046.cpp) |||🟡|||
 |0047  | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/0047.cpp) |||🟡|||
+|1248  | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/1248.cpp) |||🟡|||
 |0033  | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/0033.cpp) |||🟡|||
 |0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/0523.cpp) |||🟡|||
 |0031  | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/0031.cpp) |||🟡|||
@@ -406,15 +410,19 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0102 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/0102.cpp) |||🟡||queue|
 | 1008 | [Construct binary search tree from preorder traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [C++](./C++/1008.cpp) |||🟡|||
 | 0889 | [Construct binary tree from preorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [C++](./C++/0889.cpp) |||🟡|||
+| 0979 | [Distribute coins in binary tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) | [C++](./C++/0979.cpp) |||🟡|||
 | 0654 | [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree) | [C++](./C++/0654.cpp) |||🟡|||
 | 0662 | [Maximum width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [C++](./C++/0662.cpp) |||🟡|||
 | 0687 | [Longest univalue path](https://leetcode.com/problems/longest-univalue-path) | [C++](./C++/0687.cpp) |||🟡|||
+| 1104 | [Path in zigzag labled binary tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | [C++](./C++/1104.cpp) |||🟡|||
+| 1372 | [Longest zigzag path in a binary tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [C++](./C++/1372.cpp) |||🟡|||
 | 0437 | [Path sum III](https://leetcode.com/problems/path-sum-iii) | [C++](./C++/0437.cpp) |||🟡|||
+| 1339 | [Maximum product of splitted binary tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [C++](./C++/1339.cpp) |||🟡|||
 | 0814 | [Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning) | [C++](./C++/0814.cpp) |||🟡|||
+| 1448 | [Count good nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [C++](./C++/1448.cpp) |||🟡|||
 | 0894 | [All possible full binary trees](https://leetcode.com/problems/all-possible-full-binary-trees) | [C++](./C++/0894.cpp) |||🟡|||
 | 0701 | [Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C++](./C++/0701.cpp) |||🟡|||
 | 0098 | [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./C++/0098.cpp) |||🟡|||
-
 
 <br/>
 <div align="right">
@@ -463,6 +471,9 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0278 | [First bad version](https://leetcode.com/problems/first-bad-version) | [C++](./C++/0278.cpp) |||🟢|||
 | 0035 | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/0035.cpp) |||🟢|||
 | 0875 | [Koko eating banans](https://leetcode.com/problems/koko-eating-bananas) | [C++](./C++/0875.cpp) |||🟡|||
+| 1237 | [Find positive integer solution for a given equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [C++](./C++/1237.cpp) |||🟡|||
+| 1011 | [Capacity to ship packages within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C++](./C++/1011.cpp) |||🟡|||
+| 1901 | [Find a peak element II](https://leetcode.com/problems/find-a-peak-element-ii) | [C++](./C++/1901.cpp) |||🟡|||
 
 <br/>
 <div align="right">
@@ -497,9 +508,13 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
 | 0451 | [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [C++](./C++/0451.cpp) |||🟡|||
 | 0151 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./C++/0151.cpp) |||🟡|||
+| 1170 | [Compare strings by frequency of the smallest character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [C++](./C++/1170.cpp) |||🟡|||
 | 0848 | [Shifting letters](https://leetcode.com/problems/shifting-letters) | [C++](./C++/0848.cpp) |||🟡|||
+| 1358 | [Number of substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [C++](./C++/1358.cpp) |||🟡|||
 | 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/0006.cpp) |||🟡|||
+| 1456 | [Maximum number of vowels in a substring of a given length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [C++](./C++/1456.cpp) |||🟡|||
 | 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/0008.cpp) |||🟡|||
+| 2038 | [Remove colored pieces if both neighbors are the same color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [C++](./C++/2038.cpp) |||🟡|||
 | 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/0076.cpp) |||🔴|||
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
 

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-183-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-184-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -457,6 +457,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0509 | [Fibonacci number](https://leetcode.com/problems/fibonacci-number) | [C++](./C++/0509.cpp) |||🟢|||
 | 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 1137 | [N-th tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number) | [C++](./C++/1137.cpp) |||🟢|||
+| 0746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C++](./C++/0746.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
 | 1143 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C++](./C++/1143.cpp) |||🟡|||

@@ -449,12 +449,13 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0338 | [Counting bits](https://leetcode.com/problems/counting-bits) | [C++](./C++/0338.cpp) |||🟢|||
 | 0509 | [Fibonacci number](https://leetcode.com/problems/fibonacci-number) | [C++](./C++/0509.cpp) |||🟢|||
+| 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 1137 | [N-th tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number) | [C++](./C++/1137.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
@@ -530,12 +531,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/0007.cpp) |||🟢|||
-| 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/0070.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/0009.cpp) |||🟢|||
 | 0496 | [Next greater element I](https://leetcode.com/problems/next-greater-element-i) | [C++](./C++/0496.cpp) |||🟢||bruteforce, <br>stacks|
 | 0374 | [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C++](./C++/374.cpp) |||🟢|||

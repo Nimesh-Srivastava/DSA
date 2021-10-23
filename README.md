@@ -151,7 +151,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0645  | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/0645.cpp) |||🟢|||
 |0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/0414.cpp) |||🟢|||
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
-|0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |||🟢|||
+|0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
 |0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/0075.cpp) |||🟡|||
 |0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
 |0540  | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/0540.cpp) |||🟡|||

@@ -29,6 +29,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Binary Search](#-binary-search)<br>
 * [Depth First Search](#-depth-first-search)<br>
 * [Strings](#-strings)<br>
+* [Two pointers](#-two-pointers)<br>
 
 ### Extra
 * [Miscellaneous/Uncategorized Problems](#-miscellaneous-problems)
@@ -108,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-78-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -152,7 +153,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0645  | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/0645.cpp) |||🟢|||
 |0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/0414.cpp) |||🟢|||
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
-|0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
 |0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/0075.cpp) |||🟡|||
 |0056  | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/0056.cpp) |||🟡|||
 |0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
@@ -525,6 +525,20 @@ Stacks can be implemeted in 2 ways :-<br>
 | 2038 | [Remove colored pieces if both neighbors are the same color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [C++](./C++/2038.cpp) |||🟡|||
 | 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/0076.cpp) |||🔴|||
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Two pointers
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+|0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
+
 
 <br/>
 <div align="right">

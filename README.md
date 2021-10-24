@@ -560,6 +560,9 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0496 | [Next greater element I](https://leetcode.com/problems/next-greater-element-i) | [C++](./C++/0496.cpp) |||🟢||bruteforce, <br>stacks|
 | 0374 | [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C++](./C++/374.cpp) |||🟢|||
 | 0013 | [Roman to integer](https://leetcode.com/problems/roman-to-integer) | [C++](./C++/0013.cpp) |||🟢|||
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/1343A.cpp) |||🟢||bruteforce, <br>math|
+| 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/1525B.cpp) |||🟢||greedy|
+| 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/451A.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/0012.cpp) |||🟡|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|

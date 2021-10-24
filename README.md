@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-192-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-193-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-78-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-79-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -155,6 +155,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/0414.cpp) |||🟢|||
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
 |0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/0075.cpp) |||🟡|||
+|0059  | [Spiral matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [C++](./C++/0059.cpp) |||🟡|||
 |0056  | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/0056.cpp) |||🟡|||
 |0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
 |0540  | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/0540.cpp) |||🟡|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-188-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-189-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-78-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -163,6 +163,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0015  | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/0015.cpp) |||🟡|||
 |0018  | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
 |0039  | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/0039.cpp) |||🟡|||
+|0048  | [Rotate image](https://leetcode.com/problems/rotate-image) | [C++](./C++/0048.cpp) |||🟡|||
 |1052  | [Grumpty bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C++](./C++/1052.cpp) |||🟡|||
 |0040  | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/0040.cpp) |||🟡|||
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||

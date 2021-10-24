@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-76-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -158,7 +158,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
 |0540  | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/0540.cpp) |||🟡|||
 |1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/1814.cpp) |||🟡|||
-|0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 |0215  | [K-th largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./C++/0215.cpp) |||🟡|||
 |0015  | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/0015.cpp) |||🟡|||
 |0018  | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/0018.cpp) |||🟡|||
@@ -533,11 +532,12 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Two pointers
-![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 |0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
+|0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 
 
 <br/>

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-198-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-199-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -510,11 +510,10 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
-![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-| 0344 | [Reverse string](https://leetcode.com/problems/reverse-string) | [C++](./C++/0344.cpp) |||🟢|||
 | 0242 | [Valid anagram](https://leetcode.com/problems/valid-anagram) | [C++](./C++/0242.cpp) |||🟢|||
 | 0387 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string) | [C++](./C++/0387.cpp) |||🟢|||
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/0383.cpp) |||🟢|||
@@ -540,12 +539,14 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Two pointers
-![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 |0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/0977.cpp) |O(n)||🟢|||
 |0283  | [Move zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./C++/0283.cpp) |O(n)||🟢|||
+|0344 | [Reverse string](https://leetcode.com/problems/reverse-string) | [C++](./C++/0344.cpp) |||🟢|||
+|0557  | [Reverse in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C++](./C++/0557.cpp) |O(n)||🟢|||
 |0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/0167.cpp) |O(log n)||🟢|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/0189.cpp) |||🟡|||
 

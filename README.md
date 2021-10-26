@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-203-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-204-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-81-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-82-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -177,6 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/0036.cpp) |||🟡||hash maps, or<br>2D array|
 |0011  | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/0011.cpp) |||🟡|||
 |0204  | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/0204.cpp) |||🟡|||
+|0238  | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./C++/0238.cpp) |||🟡|||
 |0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/0128.cpp) |||🟡|||
 |0034  | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/0034.cpp) |||🟡|||
 |0950  | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/0950.cpp) |||🟡|||

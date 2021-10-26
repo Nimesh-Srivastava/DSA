@@ -114,7 +114,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 |1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp)<br>[C](./C/1929.c) |||🟢|||
-|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp) |||🟢|||
+|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp)<br>[C](./C/1920.c) |||🟢|||
 |1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢|||
 |1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/1672.cpp) |||🟢||matrix|
 |0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/0566.cpp) |||🟢|||

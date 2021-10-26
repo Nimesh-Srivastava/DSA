@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-204-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-205-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-82-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-83-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -156,6 +156,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/1909.cpp) |||🟢|||
 |0334  | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/0334.cpp) |||🟡|||
 |0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/0075.cpp) |||🟡|||
+|0560  | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k) | [C++](./C++/0560.cpp) |||🟡|||
 |0059  | [Spiral matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [C++](./C++/0059.cpp) |||🟡|||
 |0056  | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/0056.cpp) |||🟡|||
 |0435  | [Non-overlaping intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./C++/0435.cpp) |||🟡|||

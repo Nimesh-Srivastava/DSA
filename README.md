@@ -1,6 +1,6 @@
 # DSA learning and practice
 
-![Language](https://img.shields.io/badge/Language-C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Language](https://img.shields.io/badge/Language-C++/C-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Problems](https://img.shields.io/badge/Problems-207-brown.svg?style=for-the-badge)&nbsp;&nbsp;
@@ -115,7 +115,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 |1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C++](./C++/1929.cpp)<br>[C](./C/1929.c) |||🟢|||
 |1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C++](./C++/1920.cpp)<br>[C](./C/1920.c) |||🟢|||
-|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp) |||🟢|||
+|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./C++/1480.cpp)<br>[C](./C/1480.c) |||🟢|||
 |1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/1672.cpp) |||🟢||matrix|
 |0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/0566.cpp) |||🟢|||
 |1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/1470.cpp) |||🟢|||

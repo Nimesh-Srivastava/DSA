@@ -24,4 +24,5 @@ jobs:
             If you have created a new file, please refer to [this discussion](https://github.com/Nimesh-Srivastava/DSA/discussions/17#discussion-3652317) for proper naming of file. 
             
             A super linter will go through the commited file on your PR. It checks for any compilation or runtime errors. However, it is still in development and is not perfect, so it might fail the lint task. 
+            
             If that were to happen, wait for 2 days. Within that time the owner will manually review the changed file and merge the PR if everything is satisfactory.

@@ -1,3 +1,4 @@
+//Solution 1:-
 class Solution {
 public:
   int maxProduct(vector<int> &nums) {
@@ -14,4 +15,34 @@ public:
     }
     return product;
   }
+};
+
+
+//Solution 2:-
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        
+        int prod = 1;
+        int revProd = 1;
+        int maxVal = INT_MIN;
+        
+        for(int i = 0; i < nums.size(); i++){
+            
+            prod *= nums[i];
+            revProd *= nums[nums.size() - 1 - i];
+            
+            int tempMax = max(prod, revProd);
+            
+            maxVal = max(maxVal, tempMax);
+            
+            if(prod == 0)
+                prod = 1;
+            
+            if(revProd == 0)
+                revProd = 1;
+        }
+        
+        return maxVal;
+    }
 };

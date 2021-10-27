@@ -1,0 +1,25 @@
+name: Acknowledge PR / Issue
+
+on: [issues, pull_request]
+
+jobs:
+
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto Comment
+        uses: wow-actions/auto-comment@v1.0.7
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpened: |
+            👋 @{{ author }}
+            Thank you for raising an issue. Please make sure this issue is not similar to any other previous open or closed issues. 
+            If that isn't the case, sit back and relax. All issues will be addressed within 2 days of creation :v 
+
+          pullRequestOpened: |
+            Hello @{{ author }} 👋 
+            Thank you for contributing to the repo. 
+            If you have created a new file, please refer to [this discussion]() for naming conventions. 
+            A super linter will go through the commited file on your PR. It checks for any compilation or runtime errors. However, it is 
+            still in development and is not perfect, so it might fail the lint task. Don't worry in such a case. Wait for 2 days. Within that time 
+            I will manually review the changed file and merge.

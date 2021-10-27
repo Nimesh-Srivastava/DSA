@@ -21,7 +21,6 @@ jobs:
       - name: Lint Code Base
         uses: github/super-linter@v4
         env:
-          FILTER_REGEX_EXCLUDE: .*(\.md|\.github).*
-          VALIDATE_ALL_CODEBASE: true
+          FILTER_REGEX_INCLUDE: .*LeetCode/*.
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

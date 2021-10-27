@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-210-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-211-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -571,9 +571,15 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef series
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
+
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | BUYPLSE | [Buy please](https://www.codechef.com/CCSTART2/problems/BUYPLSE) | [C](./C/CodeChef/buyplse.c) |||🟢|||
+| ISBOTH | [Is both or not](https://www.codechef.com/CCSTART2/problems/ISBOTH) | [C](./C/CodeChef/isboth.c) |||🟢|||
+| DIFACTRS | [Factors finding](https://www.codechef.com/CCSTART2/problems/DIFACTRS) | [C](./C/CodeChef/difactrs.c) |||🟢|||
+| SECLAR | [Find second largest](https://www.codechef.com/CCSTART2/problems/SECLAR) | [C](./C/CodeChef/seclar.c) |||🟢|||
+| RNGEODD | [Range odd](https://www.codechef.com/CCSTART2/problems/RNGEODD) | [C](./C/CodeChef/rngeodd.c) |||🟢|||
 
 
 ## 💢 Miscellaneous problems

@@ -1,8 +1,9 @@
-name: Super-Linter
+name: Super-linter-on-requests
 
 on:
   push:
- 
+    branches-ignore: [master, main]
+    
   pull_request:
     branches: [master, main]
 
@@ -21,6 +22,7 @@ jobs:
       - name: Lint Code Base
         uses: github/super-linter@v4
         env:
-          FILTER_REGEX_INCLUDE: .*LeetCode/*.cpp
+          FILTER_REGEX_INCLUDE: .*.cpp|.*.c
+          VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

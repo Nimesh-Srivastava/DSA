@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-211-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-215-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -32,7 +32,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Two pointers](#-two-pointers)<br>
 
 ### Extra
-* [CodeChef DSA learning series](#-codechef-series)
+* [CodeChef DSA learning series](#-codechef-dsa-series)
 * [Miscellaneous/Uncategorized Problems](#-miscellaneous-problems)
 <br>
 
@@ -402,7 +402,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-29-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-30-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -570,7 +570,7 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 CodeChef series
+## 💢 CodeChef DSA series
 ![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -581,6 +581,12 @@ Stacks can be implemeted in 2 ways :-<br>
 | SECLAR | [Find second largest](https://www.codechef.com/CCSTART2/problems/SECLAR) | [C](./C/CodeChef/seclar.c) |||🟢|||
 | RNGEODD | [Range odd](https://www.codechef.com/CCSTART2/problems/RNGEODD) | [C](./C/CodeChef/rngeodd.c) |||🟢|||
 
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 💢 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;

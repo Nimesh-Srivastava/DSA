@@ -571,6 +571,7 @@ Stacks can be implemeted in 2 ways :-<br>
 ## 💢 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
 
+**LeetCode**
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1925 | [Count square sum triplets](https://leetcode.com/problems/count-square-sum-triples) | [C++](./C++/1925.cpp) |||🟢|||
@@ -579,15 +580,26 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0496 | [Next greater element I](https://leetcode.com/problems/next-greater-element-i) | [C++](./C++/0496.cpp) |||🟢||bruteforce, <br>stacks|
 | 0374 | [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C++](./C++/374.cpp) |||🟢|||
 | 0013 | [Roman to integer](https://leetcode.com/problems/roman-to-integer) | [C++](./C++/0013.cpp) |||🟢|||
-| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/1343A.cpp) |||🟢||bruteforce, <br>math|
-| 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/1525B.cpp) |||🟢||greedy|
-| 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/451A.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/0012.cpp) |||🟡|||
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/0279.cpp) |||🟡||DP,<br>Mathematical|
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/0380.cpp) |O(1)||🟡|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/0123.cpp) |||🔴|||
 
+<br>
+
+**Codeforces**
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/1343A.cpp) |||🟢||bruteforce, <br>math|
+| 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/1525B.cpp) |||🟢||greedy|
+| 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/451A.cpp) |||🟢|||
+
+<br>
+
+**CodeChef**
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>

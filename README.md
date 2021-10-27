@@ -527,7 +527,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/0383.cpp) |||🟢|||
 | 0394 | [Decode string](https://leetcode.com/problems/decode-string) | [C++](./C++/0394.cpp) |||🟡|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||sliding window|
-| 0567 | [Permutation in string](https://leetcode.com/problems/permutation-in-string) | [C++](./C++/0567.cpp) |||🟡|||
+| 0567 | [Permutation in string](https://leetcode.com/problems/permutation-in-string) | [C++](./C++/0567.cpp) |||🟡||sliding window|
 | 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
 | 0451 | [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [C++](./C++/0451.cpp) |||🟡|||
 | 0151 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./C++/0151.cpp) |||🟡|||

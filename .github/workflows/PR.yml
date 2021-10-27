@@ -1,16 +1,27 @@
-name: Automate
+name: Automatic event handler
 
 on:
   push:
+    branches:
+      - main
+      - master
   
   pull_request:
-    branches: [master, main]
+    branches:
+      - main
+      - master
+    
+  issues:
+    branches:
+      - main
+      - master
   
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/auto-comment@v1
+      - name: Auto Comment
+        uses: wow-actions/auto-comment@v1.0.7
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           issuesOpened: |
@@ -33,7 +44,7 @@ jobs:
       - name: Check PR code
         uses: actions/checkout@v2
         
-      - name: Super-Linter
+      - name: Lint code base
         uses: github/super-linter/slim@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

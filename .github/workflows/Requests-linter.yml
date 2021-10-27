@@ -23,5 +23,5 @@ jobs:
         env:
           FILTER_REGEX_INCLUDE: .*(.cpp|.c)
           VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: master
+          DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

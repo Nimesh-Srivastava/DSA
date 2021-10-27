@@ -109,7 +109,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-83-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-82-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -173,7 +173,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/0667.cpp) |||🟡|||
 |0074  | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/0074.cpp) |||🟡|||
 |1823  | [Find the inner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/1823.cpp) |||🟡|||
-|0152  | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/0152.cpp) |||🟡|||
 |0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [C++](./C++/0309.cpp) |||🟡|||
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/0036.cpp) |||🟡||hash maps, or<br>2D array|
 |0011  | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/0011.cpp) |||🟡|||
@@ -457,7 +456,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -468,6 +467,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C++](./C++/0746.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
 | 0918 | [Maximum sum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C++](./C++/0918.cpp) |||🟡|||
+| 0152 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/0152.cpp) |||🟡|||
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/0764.cpp) |||🟡|||
 | 1143 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C++](./C++/1143.cpp) |||🟡|||
 | 0198 | [House robber](https://leetcode.com/problems/house-robber) | [C++](./C++/0198.cpp) |||🟡|||

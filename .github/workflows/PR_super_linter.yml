@@ -18,6 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEFAULT_BRANCH: main
-          DISABLE_ERRORS: true
+          DISABLE_ERRORS: false
           VALIDATE_ALL_CODEBASE: false
           

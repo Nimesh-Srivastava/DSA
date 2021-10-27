@@ -1,0 +1,17 @@
+name: Clang-linter-review
+
+on: [pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code base
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: clang-tidy review
+        uses: ZedThree/clang-tidy-review@v0.7.0
+        id: review

@@ -1,0 +1,26 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Thank you for taking the time to maintain this repo. Please check if anything similar is already open. If there isn't, sit back and relax. All issues will be addressed within 2 business days."  
+        pr-message: |-
+          # Congrats for your first PR.
+          Take a moment to make sure this is in line with our [Contribution Guidelines](CONTRIBUTING.md).
+          
+          __Another Section__
+          Check this:
+          ```
+          I can even put block codes
+          ```
+          and
+          > Quotes!    

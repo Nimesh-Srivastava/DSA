@@ -12,10 +12,10 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           issuesOpened: |
-            👋 @{{ author }}
-            Thank you for raising an issue. 
+            Hello @{{ author }} 👋
+            Thank you for raising an issue.
             
-            Please make sure this issue is not similar to any other previous open or closed issues. If that isn't the case, sit back and relax. All issues will be addressed within 2 days of creation :v 
+            Please make sure this issue is not similar to any other previous open or closed issues. If that isn't the case, sit back and relax. All issues will be addressed within 2 days of creation ✌🏼 
 
           pullRequestOpened: |
             Hello @{{ author }} 👋 

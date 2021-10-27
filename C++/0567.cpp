@@ -1,3 +1,4 @@
+//Solution 1:-
 class Solution {
 public:
   bool checkInclusion(string s1, string s2) {
@@ -20,4 +21,61 @@ public:
     }
     return false;
   }
+};
+
+
+//Solution 2:-
+class Solution {
+    public:
+    bool checkInclusion(string s1, string s2) {
+        
+        if(s1.length() > s2.length())
+            return false;
+        
+        vector<int> chars(26, 0);
+        
+        for(auto c : s1)
+            chars[c - 'a']++;
+        
+        for(int i = 0; i < s1.length(); i++)
+            chars[s2[i] - 'a']--;
+        
+        bool found = true;
+        
+        for(auto c : chars){
+            if(c != 0){
+                found = false;
+                break;
+            }
+        }
+        
+        if(found)
+            return true;
+        
+        int start = 1;
+        
+        while(start <= s2.length() - s1.length()){
+            int pos1 = s2[start - 1] - 'a';
+            int pos2 = s2[start + s1.length() - 1] - 'a';
+            
+            chars[pos1]++;
+            chars[pos2]--;
+            
+            found = true;
+        
+            for(auto c : chars){
+                if(c != 0){
+                    found = false;
+                    break;
+                }
+            }
+            
+            if(found)
+                return true;
+            
+            start++;
+        }
+        
+        return false;
+    }
 };

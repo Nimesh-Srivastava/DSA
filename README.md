@@ -32,6 +32,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Two pointers](#-two-pointers)<br>
 
 ### Extra
+* [CodeChef DSA learning series](#-codechef-series)
 * [Miscellaneous/Uncategorized Problems](#-miscellaneous-problems)
 <br>
 
@@ -569,6 +570,12 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
+## 💢 CodeChef series
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| BUYPLSE | [Buy please](https://www.codechef.com/CCSTART2/problems/BUYPLSE) | [C](./C/CodeChef/buyplse.c) |||🟢|||
+
+
 ## 💢 Miscellaneous problems
 ![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
 
@@ -596,11 +603,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/Codeforces/1525B.cpp) |||🟢||greedy|
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/Codeforces/451A.cpp) |||🟢|||
 
-<br>
-
-**CodeChef**
-|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
-|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>

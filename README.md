@@ -518,7 +518,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
-![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -526,6 +526,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0387 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string) | [C++](./C++/0387.cpp) |||🟢|||
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/0383.cpp) |||🟢|||
 | 0394 | [Decode string](https://leetcode.com/problems/decode-string) | [C++](./C++/0394.cpp) |||🟡|||
+| 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||sliding window|
 | 0567 | [Permutation in string](https://leetcode.com/problems/permutation-in-string) | [C++](./C++/0567.cpp) |||🟡|||
 | 0005 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./C++/0005.cpp) |||🟡|||
 | 0451 | [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [C++](./C++/0451.cpp) |||🟡|||
@@ -566,7 +567,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -581,7 +582,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/451A.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/0012.cpp) |||🟡|||
-| 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/0003.cpp) |||🟡||hash table|
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/0279.cpp) |||🟡||DP,<br>Mathematical|
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/0380.cpp) |O(1)||🟡|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/0123.cpp) |||🔴|||

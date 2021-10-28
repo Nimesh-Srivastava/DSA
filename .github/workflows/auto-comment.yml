@@ -23,6 +23,4 @@ jobs:
             
             If you have created a new file, please refer to [this discussion](https://github.com/Nimesh-Srivastava/DSA/discussions/17#discussion-3652317) for proper naming of file. 
             
-            A super linter will go through the commited file on your PR. It's not perfect though, [see this](https://github.com/Nimesh-Srivastava/DSA/discussions/20#discussion-3652983).
-            
-            If that were to happen, wait for 2 days. Within that time the owner will manually review the changed file and merge the PR if everything is satisfactory.
+            A super linter will go through the commited file on your PR. It has some issues though, [see this](https://github.com/Nimesh-Srivastava/DSA/discussions/20#discussion-3652983).

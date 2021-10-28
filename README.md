@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-219-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-220-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -522,7 +522,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
-![Count](https://img.shields.io/badge/Count-20-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-21-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -538,6 +538,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0451 | [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [C++](./C++/LeetCode/0451.cpp) |||🟡|||
 | 0151 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./C++/LeetCode/0151.cpp) |||🟡|||
 | 1170 | [Compare strings by frequency of the smallest character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [C++](./C++/LeetCode/1170.cpp) |||🟡|||
+| 0290 | [Word pattern](https://leetcode.com/problems/word-pattern) | [C++](./C++/LeetCode/0290.cpp) |||🟡|||
 | 0848 | [Shifting letters](https://leetcode.com/problems/shifting-letters) | [C++](./C++/LeetCode/0848.cpp) |||🟡|||
 | 1358 | [Number of substrings containing all three characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | [C++](./C++/LeetCode/1358.cpp) |||🟡|||
 | 0006 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion) | [C++](./C++/LeetCode/0006.cpp) |||🟡|||

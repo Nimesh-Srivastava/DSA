@@ -457,7 +457,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-19-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -471,6 +471,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0152 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/LeetCode/0152.cpp) |||🟡|||
 | 1567 | [Maximum length of subarray with positive product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product) | [C++](./C++/LeetCode/LeetCode/1567.cpp) |||🟡|||
 | 0764 | [Largest plus sign](https://leetcode.com/problems/largest-plus-sign) | [C++](./C++/LeetCode/0764.cpp) |||🟡|||
+| 1014 | [Best sightseeing pair](https://leetcode.com/problems/best-sightseeing-pair) | [C++](./C++/LeetCode/1014.cpp) |||🟡|||
+| 0122 | [Best time to buy ans sell stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C++](./C++/LeetCode/0122.cpp) |||🟡|||
 | 1143 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence) | [C++](./C++/LeetCode/1143.cpp) |||🟡|||
 | 0198 | [House robber](https://leetcode.com/problems/house-robber) | [C++](./C++/LeetCode/0198.cpp) |||🟡|||
 | 0213 | [House robber II](https://leetcode.com/problems/house-robber-ii) | [C++](./C++/LeetCode/0213.cpp) |||🟡|||

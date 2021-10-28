@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-221-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-226-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -114,9 +114,9 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C&nbsp;&nbsp;&nbsp;&nbsp;](./C/LeetCode/1929.c),<br>[C++](./C++/LeetCode/1929.cpp) |||🟢|||
-|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C&nbsp;&nbsp;&nbsp;&nbsp;](./C/LeetCode/1920.c),<br>[C++](./C++/LeetCode/1920.cpp) |||🟢|||
-|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C&nbsp;&nbsp;&nbsp;&nbsp;](./C/LeetCode/1480.c),<br>[C++](./C++/LeetCode/1480.cpp) |||🟢|||
+|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C](./C/LeetCode/1929.c),<br>[C++](./C++/LeetCode/1929.cpp) |||🟢|||
+|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C](./C/LeetCode/1920.c),<br>[C++](./C++/LeetCode/1920.cpp) |||🟢|||
+|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C](./C/LeetCode/1480.c),<br>[C++](./C++/LeetCode/1480.cpp) |||🟢|||
 |1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/LeetCode/1672.cpp) |||🟢||matrix|
 |0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/LeetCode/0566.cpp) |||🟢|||
 |1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/LeetCode/1470.cpp) |||🟢|||
@@ -577,7 +577,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef DSA series
-![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -587,7 +587,10 @@ Stacks can be implemeted in 2 ways :-<br>
 | SECLAR | [Find second largest](https://www.codechef.com/CCSTART2/problems/SECLAR) | [C](./C/CodeChef/seclar.c) |||🟢|||
 | RNGEODD | [Range odd](https://www.codechef.com/CCSTART2/problems/RNGEODD) | [C](./C/CodeChef/rngeodd.c) |||🟢|||
 | VALTRI | [Raju and his trip](https://www.codechef.com/CCSTART2/problems/VALTRI) | [C](./C/CodeChef/valtri.c) |||🟢|||
-| REVMEE | [Reverse me](https://www.codechef.com/CCSTART2/problems/REVMEE) | [C](./C/CodeChef/revmee.c) |||🟢|||
+| REVMEE | [Reverse me](https://www.codechef.com/CCSTART2/problems/REVMEE) | [C](./C/CodeChef/revmee.c),<br>[C++](./C++/CodeChef/revmee.cpp) |||🟢|||
+| FINDMELI | [Find me](https://www.codechef.com/CCSTART2/problems/FINDMELI) | [C](./C/CodeChef/findmeli.c) |||🟢|||
+| TRIVALCH | [Valid triangle or not](https://www.codechef.com/CCSTART2/problems/TRIVALCH) | [C](./C/CodeChef/trivalch.c),<br>[C++](./C++/CodeChef/trivalch.cpp) |||🟢|||
+| REVSTRPT | [Reverse star pattern](https://www.codechef.com/CCSTART2/problems/REVSTRPT) | [C](./C/CodeChef/revstrpt.c),<br>[C++](./C++/CodeChef/revstrpt.cpp) |||🟢|||
 
 <br/>
 <div align="right">

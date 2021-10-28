@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-215-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-217-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -571,7 +571,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef DSA series
-![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -581,6 +581,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | SECLAR | [Find second largest](https://www.codechef.com/CCSTART2/problems/SECLAR) | [C](./C/CodeChef/seclar.c) |||🟢|||
 | RNGEODD | [Range odd](https://www.codechef.com/CCSTART2/problems/RNGEODD) | [C](./C/CodeChef/rngeodd.c) |||🟢|||
 | VALTRI | [Raju and his trip](https://www.codechef.com/CCSTART2/problems/VALTRI) | [C](./C/CodeChef/valtri.c) |||🟢|||
+| REVMEE | [Reverse me](https://www.codechef.com/CCSTART2/problems/REVMEE) | [C](./C/CodeChef/revmee.c) |||🟢|||
 
 <br/>
 <div align="right">

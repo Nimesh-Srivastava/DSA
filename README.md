@@ -580,7 +580,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | DIFACTRS | [Factors finding](https://www.codechef.com/CCSTART2/problems/DIFACTRS) | [C](./C/CodeChef/difactrs.c) |||🟢|||
 | SECLAR | [Find second largest](https://www.codechef.com/CCSTART2/problems/SECLAR) | [C](./C/CodeChef/seclar.c) |||🟢|||
 | RNGEODD | [Range odd](https://www.codechef.com/CCSTART2/problems/RNGEODD) | [C](./C/CodeChef/rngeodd.c) |||🟢|||
-
+| VALTRI | [Raju and his trip](https://www.codechef.com/CCSTART2/problems/VALTRI) | [C](./C/CodeChef/valtri.c) |||🟢|||
 
 <br/>
 <div align="right">

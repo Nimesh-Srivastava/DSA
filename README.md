@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-227-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-228-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -403,7 +403,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-30-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-31-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -415,6 +415,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0700 | [Search in a binary tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [C++](./C++/LeetCode/0700.cpp) |||🟢|||
 | 0993 | [Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree) | [C++](./C++/LeetCode/0993.cpp) |||🟢|||
 | 0101 | [Symmetric tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/LeetCode/0101.cpp) |||🟢|||
+| 0617 | [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](./C++/LeetCode/0617.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/LeetCode/0112.cpp) |||🟢|||
 | 0226 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | [C++](./C++/LeetCode/0226.cpp) |||🟢|||
 | 0653 | [Two sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [C++](./C++/LeetCode/0653.cpp) |||🟢|||
@@ -509,7 +510,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Depth First Search
-![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|

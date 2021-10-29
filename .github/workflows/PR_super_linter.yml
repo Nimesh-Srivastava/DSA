@@ -6,13 +6,17 @@ on:
   
 jobs:
       
-  lint:
+  check:
     runs-on: ubuntu-latest
     
     steps:
       - name: Check PR code
         uses: actions/checkout@v2
-        
+      
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
       - name: Lint code base
         uses: github/super-linter/slim@v4
         env:

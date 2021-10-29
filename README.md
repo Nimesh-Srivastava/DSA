@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-231-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-232-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -111,7 +111,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-82-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-80-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -147,7 +147,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/LeetCode/0026.cpp) |      |   |🟢|||
 |0888  | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/LeetCode/0888.cpp) |||🟢|||
 |0350  | [Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
-|0121  | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./C++/LeetCode/0121.cpp) |||🟢|||
 |0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
 |0744  | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/LeetCode/0744.cpp) |O(logn)||🟢|||
 |0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/LeetCode/0053.cpp) |||🟢||Kadane's algorithm|
@@ -175,7 +174,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/LeetCode/0667.cpp) |||🟡|||
 |0074  | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/LeetCode/0074.cpp) |||🟡|||
 |1823  | [Find the inner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/LeetCode/1823.cpp) |||🟡|||
-|0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [C++](./C++/LeetCode/0309.cpp) |||🟡|||
 |0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/LeetCode/0036.cpp) |||🟡||hash maps, or<br>2D array|
 |0011  | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/LeetCode/0011.cpp) |||🟡|||
 |0204  | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
@@ -459,7 +457,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-19-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-23-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -469,6 +467,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1137 | [N-th tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number) | [C++](./C++/LeetCode/1137.cpp) |||🟢|||
 | 0746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C++](./C++/LeetCode/0746.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/LeetCode/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
+| 0121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./C++/LeetCode/0121.cpp) |||🟢|||
 | 0918 | [Maximum sum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C++](./C++/LeetCode/0918.cpp) |||🟡|||
 | 0152 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/LeetCode/0152.cpp) |||🟡|||
 | 1567 | [Maximum length of subarray with positive product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product) | [C++](./C++/LeetCode/LeetCode/1567.cpp) |||🟡|||
@@ -481,6 +480,9 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0740 | [Delete and earn](https://leetcode.com/problems/delete-and-earn) | [C++](./C++/LeetCode/0740.cpp) |||🟡|||
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0055.cpp) |||🟡|||
 | 0045 | [Jump game II](https://leetcode.com/problems/jump-game-ii) | [C++](./C++/LeetCode/0045.cpp) |||🟡|||
+|0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)| [C++](./C++/LeetCode/0309.cpp) |||🟡|||
+| 0714 | [Best time to buy and sell stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./C++/LeetCode/0714.cpp) |||🟡|||
+| 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||
 
 <br/>
@@ -540,7 +542,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
-![Count](https://img.shields.io/badge/Count-23-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-24-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -617,7 +619,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -632,7 +634,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/LeetCode/0012.cpp) |||🟡|||
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/LeetCode/0279.cpp) |||🟡||DP,<br>Mathematical|
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
-| 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 
 <br>
 

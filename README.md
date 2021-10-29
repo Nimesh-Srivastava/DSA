@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-230-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-231-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -565,6 +565,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/LeetCode/0008.cpp) |||🟡|||
 | 2038 | [Remove colored pieces if both neighbors are the same color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [C++](./C++/LeetCode/2038.cpp) |||🟡|||
 | 0049 | [Group anagrams](https://leetcode.com/problems/group-anagrams) | [C++](./C++/LeetCode/0049.cpp) |||🟡|||
+| 0043 | [Multiply strings](https://leetcode.com/problems/multiply-strings) | [C++](./C++/LeetCode/0043.cpp) |||🟡|||
 | 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/LeetCode/0076.cpp) |||🔴|||
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/LeetCode/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
 

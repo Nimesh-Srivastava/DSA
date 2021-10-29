@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-226-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-227-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -28,6 +28,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Dynamic programming](#-dynamic-programming)<br>
 * [Binary Search](#-binary-search)<br>
 * [Depth First Search](#-depth-first-search)<br>
+* [Breadth First Search](#-breadth-first-search)<br>
 * [Strings](#-strings)<br>
 * [Two pointers](#-two-pointers)<br>
 
@@ -516,6 +517,19 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0733 | [Flood fill](https://leetcode.com/problems/flood-fill) | [C++](./C++/LeetCode/0733.cpp) |||🟢|||
 | 0079 | [Word search](https://leetcode.com/problems/word-search) | [C++](./C++/LeetCode/0079.cpp) |||🟡||Optimised for space|
 | 0695 | [Max area of island](https://leetcode.com/problems/max-area-of-island) | [C++](./C++/LeetCode/0695.cpp) |||🟡|||
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Breadth First Search
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0994 | [Rotting oranges](https://leetcode.com/problems/rotting-oranges) | [C++](./C++/LeetCode/0994.cpp) |||🟡|||
 
 <br/>
 <div align="right">

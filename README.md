@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-232-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-237-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -597,7 +597,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef DSA series
-![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -611,6 +611,11 @@ Stacks can be implemeted in 2 ways :-<br>
 | FINDMELI | [Find me](https://www.codechef.com/CCSTART2/problems/FINDMELI) | [C](./C/CodeChef/findmeli.c) |||🟢|||
 | TRIVALCH | [Valid triangle or not](https://www.codechef.com/CCSTART2/problems/TRIVALCH) | [C](./C/CodeChef/trivalch.c),<br>[C++](./C++/CodeChef/trivalch.cpp) |||🟢|||
 | REVSTRPT | [Reverse star pattern](https://www.codechef.com/CCSTART2/problems/REVSTRPT) | [C](./C/CodeChef/revstrpt.c),<br>[C++](./C++/CodeChef/revstrpt.cpp) |||🟢|||
+| ADDNATRL | [Add natural numbers](https://www.codechef.com/CCSTART2/problems/ADDNATRL) | [C](./C/CodeChef/addnatrl.c),<br>[C++](./C++/CodeChef/addnatrl.cpp) |||🟢|||
+| SUMEVOD | [Sum is everywhere](https://www.codechef.com/CCSTART2/problems/SUMEVOD) | [C](./C/CodeChef/sumevod.c) |||🟢|||
+| ANGTRICH | [Triangle with angle](https://www.codechef.com/CCSTART2/problems/ANGTRICH) | [C](./C/CodeChef/angtrich.c) |||🟢|||
+| EXTRICHK | [Triangle everywhere](https://www.codechef.com/CCSTART2/problems/EXTRICHK) | [C](./C/CodeChef/extrichk.c) |||🟢|||
+| SQUALPAT | [Alternative square pattern](https://www.codechef.com/CCSTART2/problems/SQALPAT) | [C](./C/CodeChef/squalpat.c) |||🟢|||
 
 <br/>
 <div align="right">

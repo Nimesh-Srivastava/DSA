@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-240-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-241-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -457,7 +457,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-23-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-24-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -480,7 +480,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0740 | [Delete and earn](https://leetcode.com/problems/delete-and-earn) | [C++](./C++/LeetCode/0740.cpp) |||🟡|||
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0055.cpp) |||🟡|||
 | 0045 | [Jump game II](https://leetcode.com/problems/jump-game-ii) | [C++](./C++/LeetCode/0045.cpp) |||🟡|||
-|0309  | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)| [C++](./C++/LeetCode/0309.cpp) |||🟡|||
+| 0139 | [Word break](https://leetcode.com/problems/word-break) | [C++](./C++/LeetCode/0139.cpp) |||🟡|||
+| 0309 | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)| [C++](./C++/LeetCode/0309.cpp) |||🟡|||
 | 0714 | [Best time to buy and sell stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./C++/LeetCode/0714.cpp) |||🟡|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-242-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-248-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -602,7 +602,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef DSA series
-![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-21-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -621,6 +621,12 @@ Stacks can be implemeted in 2 ways :-<br>
 | ANGTRICH | [Triangle with angle](https://www.codechef.com/CCSTART2/problems/ANGTRICH) | [C](./C/CodeChef/angtrich.c) |||🟢|||
 | EXTRICHK | [Triangle everywhere](https://www.codechef.com/CCSTART2/problems/EXTRICHK) | [C](./C/CodeChef/extrichk.c) |||🟢|||
 | SQUALPAT | [Alternative square pattern](https://www.codechef.com/CCSTART2/problems/SQALPAT) | [C](./C/CodeChef/squalpat.c) |||🟢|||
+| TEST | [Life, the universe, and everything](https://www.codechef.com/LRNDSA01/problems/TEST) | [C](./C/CodeChef/test.c),<br>[C++](./C++/CodeChef/test.cpp) |||🟢|||
+| FLOW007 | [Reverse the number](https://www.codechef.com/LRNDSA01/problems/FLOW007) | [C](./C/CodeChef/flow007.c),<br>[C++](./C++/CodeChef/flow007.cpp) |||🟢|||
+| LAPIN | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++](./C++/CodeChef/lapin.cpp) |||🟢|||
+| ZCO14003 | [Smart phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++](./C++/CodeChef/zco14003.cpp) |||🟢|||
+| CARVANS | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++](./C++/CodeChef/carvans.cpp) |||🟢|||
+| FACTRL | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./C++/CodeChef/factrl.cpp) |||🟢|||
 
 <br/>
 <div align="right">

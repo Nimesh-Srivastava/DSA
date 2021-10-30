@@ -626,7 +626,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | LAPIN | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++](./C++/CodeChef/lapin.cpp) |||🟢|||
 | ZCO14003 | [Smart phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++](./C++/CodeChef/zco14003.cpp) |||🟢|||
 | CARVANS | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++](./C++/CodeChef/carvans.cpp) |||🟢|||
-| FACTRL | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./C++/CodeChef/factrl.cpp) |||🟢|||
+| FCTRL | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./C++/CodeChef/fctrl.cpp) |||🟢|||
 
 <br/>
 <div align="right">

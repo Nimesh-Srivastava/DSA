@@ -21,7 +21,7 @@ public:
     
     bool comp(string& s, string& ans, int siz, int mid){
         
-        //key -> hash && hash -> starting index of substring
+        //key -> hash && hash = starting index of substring
         unordered_map<int, vector<int>> hashMap;
         
         //define hash of current window

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-251-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-252-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -25,12 +25,13 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Trie (Prefix tree)](#-trie)<br>
 
 ### Algorithms
-* [Dynamic programming](#-dynamic-programming)<br>
-* [Binary Search](#-binary-search)<br>
-* [Depth First Search](#-depth-first-search)<br>
-* [Breadth First Search](#-breadth-first-search)<br>
-* [Strings](#-strings)<br>
-* [Two pointers](#-two-pointers)<br>
+* [Dynamic programming](#-dynamic-programming)
+* [Binary Search](#-binary-search)
+* [Depth First Search](#-depth-first-search)
+* [Breadth First Search](#-breadth-first-search)
+* [Strings](#-strings)
+* [Two pointers](#-two-pointers)
+* [Backtracking](#-backtracking)<br>
 
 ### Extra
 * [CodeChef DSA learning series](#-codechef-dsa-series)
@@ -597,6 +598,19 @@ Stacks can be implemeted in 2 ways :-<br>
 |0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
 
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Backtracking
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0077 | [Combinations](https://leetcode.com/problems/combinations) | [C++](./C++/LeetCode/0077.cpp) |||🟢|||
 
 <br/>
 <div align="right">

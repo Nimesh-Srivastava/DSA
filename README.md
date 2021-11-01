@@ -112,7 +112,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-80-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-79-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -185,7 +185,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1343  | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/LeetCode/1343.cpp) |||🟡|||
 |0078  | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/LeetCode/0078.cpp) |||🟡|||
 |0090  | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
-|0046  | [Permutations](https://leetcode.com/problems/permutations) | [C++](./C++/LeetCode/0046.cpp) |||🟡|||
 |0047  | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/LeetCode/0047.cpp) |||🟡|||
 |1248  | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
 |0033  | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
@@ -606,11 +605,12 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Backtracking
-![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-| 0077 | [Combinations](https://leetcode.com/problems/combinations) | [C++](./C++/LeetCode/0077.cpp) |||🟢|||
+| 0077 | [Combinations](https://leetcode.com/problems/combinations) | [C++](./C++/LeetCode/0077.cpp) |||🟡|||
+| 0046 | [Permutations](https://leetcode.com/problems/permutations) | [C++](./C++/LeetCode/0046.cpp) |||🟡|||
 
 <br/>
 <div align="right">

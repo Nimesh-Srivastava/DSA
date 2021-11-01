@@ -607,7 +607,7 @@ Stacks can be implemeted in 2 ways :-<br>
 ![Count](https://img.shields.io/badge/Count-21-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
-|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+|-----|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | BUYPLSE | [Buy please](https://www.codechef.com/CCSTART2/problems/BUYPLSE) | [C](./C/CodeChef/buyplse.c) |||🟢|||
 | ISBOTH | [Is both or not](https://www.codechef.com/CCSTART2/problems/ISBOTH) | [C](./C/CodeChef/isboth.c) |||🟢|||
 | DIFACTRS | [Factors finding](https://www.codechef.com/CCSTART2/problems/DIFACTRS) | [C](./C/CodeChef/difactrs.c) |||🟢|||
@@ -657,7 +657,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 **Codeforces**
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
-|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+|-----|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/Codeforces/1343A.cpp) |||🟢||bruteforce, <br>math|
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/Codeforces/1525B.cpp) |||🟢||greedy|
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/Codeforces/451A.cpp) |||🟢|||

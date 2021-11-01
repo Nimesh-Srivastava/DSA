@@ -1,3 +1,4 @@
+//Solution 1 :-
 class Solution {
 public:
   void generate(vector<int> &arr, int k, vector<vector<int>> &perms) {
@@ -19,4 +20,35 @@ public:
     generate(nums, int(nums.size()), perms);
     return perms;
   }
+};
+
+
+//Solution 2 :-
+class Solution {
+    
+    vector<vector<int>> permutations;
+    
+public:
+    void backtrack(vector<int>& nums, int pos){
+        
+        if(pos == nums.size()){
+            permutations.push_back(nums);
+            return;
+        }
+        
+        for(int i = pos; i < nums.size(); i++){
+            swap(nums[i], nums[pos]);
+            
+            backtrack(nums, pos + 1);
+            
+            swap(nums[i], nums[pos]);
+        }
+    }
+    
+    vector<vector<int>> permute(vector<int>& nums) {
+        
+        backtrack(nums, 0);
+        
+        return permutations;
+    }
 };

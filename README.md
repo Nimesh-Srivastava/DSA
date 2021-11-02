@@ -112,7 +112,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-79-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -134,8 +134,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 |1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/LeetCode/1389.cpp) |O(n)||🟢|||
 |1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C++](./C++/LeetCode/1773.cpp) |||🟢|||
 |1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C++](./C++/LeetCode/1588.cpp) |||🟢|||
-|0118  | [Pascal's triangle](https://leetcode.com/problems/pascals-triangle) | [C++](./C++/LeetCode/0118.cpp) |||🟢|||
-|0119  | [Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C++](./C++/LeetCode/0119.cpp) |||🟢|||
 |1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/LeetCode/1656.cpp) |||🟢|||
 |1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/LeetCode/1662.cpp) |||🟢|||
 |1684  | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/LeetCode/1684.cpp) |||🟢|||
@@ -460,7 +458,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-30-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-32-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -468,6 +466,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0509 | [Fibonacci number](https://leetcode.com/problems/fibonacci-number) | [C++](./C++/LeetCode/0509.cpp) |||🟢|||
 | 0070 | [Climbing stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./C++/LeetCode/0070.cpp) |||🟢|||
 | 1137 | [N-th tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number) | [C++](./C++/LeetCode/1137.cpp) |||🟢|||
+| 0118 | [Pascal's triangle](https://leetcode.com/problems/pascals-triangle) | [C++](./C++/LeetCode/0118.cpp) |||🟢|||
+| 0119 | [Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [C++](./C++/LeetCode/0119.cpp) |||🟢|||
 | 0746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C++](./C++/LeetCode/0746.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/LeetCode/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
 | 0121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./C++/LeetCode/0121.cpp) |||🟢|||

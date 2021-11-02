@@ -653,7 +653,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | CARVANS | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C](./C/CodeChef/carvans.c),<br>[C++](./C++/CodeChef/carvans.cpp) |||🟢|||
 | FCTRL | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C](./C/CodeChef/fctrl.c),<br>[C++](./C++/CodeChef/fctrl.cpp) |||🟢|||
 | CONFLIP | [Coin flip](https://www.codechef.com/LRNDSA01/problems/CONFLIP) | [C](./C/CodeChef/conflip.c) |||🟢|||
-| LADDU | [Laddu](https://www.codechef.com/LRNDSA01/problems/LADDU) | [C++](./C++/CodeChef/laddu.c) |||🟢|||
+| LADDU | [Laddu](https://www.codechef.com/LRNDSA01/problems/LADDU) | [C++](./C++/CodeChef/laddu.cpp) |||🟢|||
 
 <br/>
 <div align="right">

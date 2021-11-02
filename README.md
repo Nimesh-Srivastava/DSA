@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-261-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-262-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -627,7 +627,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 CodeChef DSA series
-![Count](https://img.shields.io/badge/Count-22-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-23-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |-----|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -653,6 +653,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | CARVANS | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C](./C/CodeChef/carvans.c),<br>[C++](./C++/CodeChef/carvans.cpp) |||🟢|||
 | FCTRL | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C](./C/CodeChef/fctrl.c),<br>[C++](./C++/CodeChef/fctrl.cpp) |||🟢|||
 | CONFLIP | [Coin flip](https://www.codechef.com/LRNDSA01/problems/CONFLIP) | [C](./C/CodeChef/conflip.c) |||🟢|||
+| LADDU | [Laddu](https://www.codechef.com/LRNDSA01/problems/LADDU) | [C++](./C++/CodeChef/laddu.c) |||🟢|||
 
 <br/>
 <div align="right">

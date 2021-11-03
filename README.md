@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-265-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-266-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -246,7 +246,7 @@ __Tail__ : last node in the list <br>
 <br>
 
 ### Problems on linked lists
-![Count](https://img.shields.io/badge/Count-26-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-27-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -274,6 +274,7 @@ __Tail__ : last node in the list <br>
 | 0082 | [Remove duplicates from sorted list II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [C++](./C++/LeetCode/0082.cpp) |||🟡|||
 | 0024 | [Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C++](./C++/LeetCode/0024.cpp) |||🟡|||
 | 0707 | [Design linked list](https://leetcode.com/problems/design-linked-list) | [C++](./C++/LeetCode/0707.cpp) |||🟡|||
+| 0025 | [Reverse nodes in k-group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [C++](./C++/LeetCode/0025.cpp) |||🔴|||
 
 <br>
 

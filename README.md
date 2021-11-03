@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-263-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-264-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -31,6 +31,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Breadth First Search](#-breadth-first-search)
 * [Strings](#-strings)
 * [Two pointers](#-two-pointers)
+* [Bit manipulation](#-bit-manipulation)
 * [Backtracking](#-backtracking)<br>
 
 ### Extra
@@ -605,6 +606,18 @@ Stacks can be implemeted in 2 ways :-<br>
 |0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
 
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Bit manipulation
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0231 | [Power of two](https://leetcode.com/problems/power-of-two) | [C++](./C++/LeetCode/0231.cpp) |O(n),<br>O(1)||🟢|||
 
 <br/>
 <div align="right">

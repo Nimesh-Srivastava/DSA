@@ -263,7 +263,7 @@ __Tail__ : last node in the list <br>
 | 0203 | [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/LeetCode/0203.cpp) |||🟢|||
 | 0092 | [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](./C++/LeetCode/0092.cpp) |||🟡|||
 | 0142 | [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./C++/LeetCode/0142.cpp) |||🟡|||
-| 0143 | [Reorder cycle](https://leetcode.com/problems/reorder-list) | [C++](./C++/LeetCode/0143.cpp) |||🟡|||
+| 0143 | [Reorder list](https://leetcode.com/problems/reorder-list) | [C++](./C++/LeetCode/0143.cpp) |||🟡|||
 | 1669 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](./C++/LeetCode/1669.cpp) |||🟡|||
 | 0019 | [Remove n-th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/LeetCode/0019.cpp) |||🟡|||
 | 1721 | [Swapping nodes in a linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./C++/LeetCode/1721.cpp) |||🟡|||

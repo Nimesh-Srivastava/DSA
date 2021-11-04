@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-268-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-269-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -616,12 +616,13 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Bit manipulation
-![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0231 | [Power of two](https://leetcode.com/problems/power-of-two) | [C++](./C++/LeetCode/0231.cpp) |O(n),<br>O(1)||🟢|||
 | 0191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits) | [C++](./C++/LeetCode/0191.cpp) |||🟢|||
+| 0190 | [Reverse bits](https://leetcode.com/problems/reverse-bits) | [C++](./C++/LeetCode/0190.cpp) |O(1)||🟢|||
 
 <br/>
 <div align="right">

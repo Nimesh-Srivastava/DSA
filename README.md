@@ -21,6 +21,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-stacks)<br>
+* [Queues](#-queue)<br>
 * [Tree](#-tree)<br>
 * [Trie (Prefix tree)](#-trie)<br>
 

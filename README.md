@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-269-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-270-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -384,7 +384,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br>
 
 ### Problems on Stacks
-![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -395,6 +395,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0232 | [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [C++](./C++/LeetCode/0232.cpp) |||🟢|||
 | 0155 | [Min stack](https://leetcode.com/problems/min-stack) | [C++](./C++/LeetCode/0155.cpp) |||🟢|||
 | 0071 | [Simplify path](https://leetcode.com/problems/simplify-path) | [C++](./C++/LeetCode/0071.cpp) |||🟡|||
+| 1249 | [Minimum remove to make valid parantheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [C++](./C++/LeetCode/1249.cpp) |||🟡|||
 
 
 <br/>

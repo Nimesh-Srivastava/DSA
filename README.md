@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-276-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-277-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -480,7 +480,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-36-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-37-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -493,6 +493,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [C++](./C++/LeetCode/0746.cpp) |||🟢|||
 | 1025 | [Divisor game](https://leetcode.com/problems/divisor-game) | [C++](./C++/LeetCode/1025.cpp) |O(n^2)<br>O(1)||🟢||Trick solution|
 | 0121 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./C++/LeetCode/0121.cpp) |||🟢|||
+| 0062 | [Unique paths](https://leetcode.com/problems/unique-paths) | [C++](./C++/LeetCode/0062.cpp) |||🟡|||
 | 0063 | [Unique paths II](https://leetcode.com/problems/unique-paths-ii) | [C++](./C++/LeetCode/0063.cpp) |||🟡|||
 | 0918 | [Maximum sum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C++](./C++/LeetCode/0918.cpp) |||🟡|||
 | 0152 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/LeetCode/0152.cpp) |||🟡|||

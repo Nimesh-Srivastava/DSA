@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-277-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-278-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -529,13 +529,14 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-9-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [C++](./C++/LeetCode/0704.cpp) |||🟢|||
 | 0278 | [First bad version](https://leetcode.com/problems/first-bad-version) | [C++](./C++/LeetCode/0278.cpp) |||🟢|||
 | 0035 | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/LeetCode/0035.cpp) |||🟢|||
+| 0441 | [Arranging coins](https://leetcode.com/problems/arranging-coins) | [C++](./C++/LeetCode/0441.cpp) |||🟢|||
 | 0875 | [Koko eating banans](https://leetcode.com/problems/koko-eating-bananas) | [C++](./C++/LeetCode/0875.cpp) |||🟡|||
 | 1237 | [Find positive integer solution for a given equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [C++](./C++/LeetCode/1237.cpp) |||🟡|||
 | 0240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./C++/LeetCode/0240.cpp) |||🟡|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-279-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-280-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -419,7 +419,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-36-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-37-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -459,6 +459,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0894 | [All possible full binary trees](https://leetcode.com/problems/all-possible-full-binary-trees) | [C++](./C++/LeetCode/0894.cpp) |||🟡|||
 | 0701 | [Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [C++](./C++/LeetCode/0701.cpp) |||🟡|||
 | 0098 | [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./C++/LeetCode/0098.cpp) |||🟡|||
+| 0199 | [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view) | [C++](./C++/LeetCode/0199.cpp) |||🟡||DFS,<br>BFS|
 
 <br/>
 <div align="right">

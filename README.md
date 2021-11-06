@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-280-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-281-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -419,7 +419,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-37-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-38-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -452,6 +452,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0129 | [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [C++](./C++/LeetCode/0129.cpp) |||🟡|||
 | 1104 | [Path in zigzag labled binary tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | [C++](./C++/LeetCode/1104.cpp) |||🟡|||
 | 1372 | [Longest zigzag path in a binary tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [C++](./C++/LeetCode/1372.cpp) |||🟡|||
+| 0113 | [Path sum II](https://leetcode.com/problems/path-sum-ii) | [C++](./C++/LeetCode/0113.cpp) |||🟡|||
 | 0437 | [Path sum III](https://leetcode.com/problems/path-sum-iii) | [C++](./C++/LeetCode/0437.cpp) |||🟡|||
 | 1339 | [Maximum product of splitted binary tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [C++](./C++/LeetCode/1339.cpp) |||🟡|||
 | 0814 | [Binary tree pruning](https://leetcode.com/problems/binary-tree-pruning) | [C++](./C++/LeetCode/0814.cpp) |||🟡|||

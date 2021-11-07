@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-284-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-285-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -419,7 +419,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-39-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-40-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -462,6 +462,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0098 | [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./C++/LeetCode/0098.cpp) |||🟡|||
 | 0199 | [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view) | [C++](./C++/LeetCode/0199.cpp) |||🟡||DFS,<br>BFS|
 | 0450 | [Delete node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [C++](./C++/LeetCode/0450.cpp) |||🟡|||
+| 0230 | [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [C++](./C++/LeetCode/0230.cpp) |||🟡|||
 
 <br/>
 <div align="right">

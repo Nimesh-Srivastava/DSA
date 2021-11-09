@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-293-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-294-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -488,12 +488,12 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Graph
-![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge) | [C++](./C++/LeetCode/0997.cpp) |||🟢|||
-
+| 1557 | [Minimum number of vertices to reach all nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [C++](./C++/LeetCode/1557.cpp) |||🟡|||
 
 <br/>
 <div align="right">

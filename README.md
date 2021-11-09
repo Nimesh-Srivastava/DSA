@@ -24,6 +24,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Queues](#-queue)<br>
 * [Tree](#-tree)<br>
 * [Trie (Prefix tree)](#-trie)<br>
+* [Graph](#-graph)<br>
 
 ### Algorithms
 * [Dynamic programming](#-dynamic-programming)
@@ -114,7 +115,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-76-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -152,7 +153,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0744 | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/LeetCode/0744.cpp) |O(logn)||🟢|||
 | 0053 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/LeetCode/0053.cpp) |||🟢||Kadane's algorithm|
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | [C++](./C++/LeetCode/0066.cpp) |||🟢|||
-| 0997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge) | [C++](./C++/LeetCode/0997.cpp) |||🟢|||
 | 0088 | [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) | [C++](./C++/LeetCode/0088.cpp) |||🟢|||
 | 0645 | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/LeetCode/0645.cpp) |||🟢|||
 | 0414 | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/LeetCode/0414.cpp) |||🟢|||
@@ -480,6 +480,20 @@ Stacks can be implemeted in 2 ways :-<br>
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/LeetCode/0208.cpp) |||🟡|||
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Graph
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge) | [C++](./C++/LeetCode/0997.cpp) |||🟢|||
+
 
 <br/>
 <div align="right">

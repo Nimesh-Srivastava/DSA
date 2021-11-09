@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-291-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-292-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -651,7 +651,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Bit manipulation
-![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -659,6 +659,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits) | [C++](./C++/LeetCode/0191.cpp) |||🟢|||
 | 0190 | [Reverse bits](https://leetcode.com/problems/reverse-bits) | [C++](./C++/LeetCode/0190.cpp) |O(1)||🟢|||
 | 0260 | [Single number III](https://leetcode.com/problems/single-number-iii) | [C++](./C++/LeetCode/0260.cpp) |O(1)||🟡|||
+| 1178 | [Number of valid words for each puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle) | [C++](./C++/LeetCode/1178.cpp) |||🔴|||
 
 <br/>
 <div align="right">

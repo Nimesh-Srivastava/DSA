@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-292-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-293-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -114,86 +114,87 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-76-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-|1929  | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C](./C/LeetCode/1929.c),<br>[C++](./C++/LeetCode/1929.cpp) |||🟢|||
-|1920  | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C](./C/LeetCode/1920.c),<br>[C++](./C++/LeetCode/1920.cpp) |||🟢|||
-|1480  | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C](./C/LeetCode/1480.c),<br>[C++](./C++/LeetCode/1480.cpp) |||🟢|||
-|1672  | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/LeetCode/1672.cpp) |||🟢||matrix|
-|0566  | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/LeetCode/0566.cpp) |||🟢|||
-|1470  | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/LeetCode/1470.cpp) |||🟢|||
-|1431  | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/LeetCode/1431.cpp)|||🟢|||
-|1512  | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/LeetCode/1512.cpp) |||🟢||bruteforce,<br> hash table|
-|1365  | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/LeetCode/1365.cpp) |||🟢| |frequency array|
-|0706  | [Design hashmap](https://leetcode.com/problems/design-hashmap) | [C++](./C++/LeetCode/0706.cpp) |||🟢|||
-|1528  | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/LeetCode/1528.cpp) |||🟢|||
-|0136  | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/LeetCode/0136.cpp) |||🟢|||
-|1720  | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/LeetCode/1720.cpp) |||🟢||XOR property|
-|0169  | [Majority element](https://leetcode.com/problems/majority-element) | [C++](./C++/LeetCode/0169.cpp) |||🟢||Moore's Voting algo|
-|1313  | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/LeetCode/1313.cpp) |O(n^2)||🟢|||
-|1389  | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/LeetCode/1389.cpp) |O(n)||🟢|||
-|1773  | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C++](./C++/LeetCode/1773.cpp) |||🟢|||
-|1588  | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C++](./C++/LeetCode/1588.cpp) |||🟢|||
-|1656  | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/LeetCode/1656.cpp) |||🟢|||
-|1662  | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/LeetCode/1662.cpp) |||🟢|||
-|1684  | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/LeetCode/1684.cpp) |||🟢|||
-|1913  | [Maximum product difference between two pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [C++](./C++/LeetCode/1913.cpp) |O(nlogn),<br>O(n)||🟢|||
-|1816  | [Truncate sentence](https://leetcode.com/problems/truncate-sentence) | [C++](./C++/LeetCode/1816.cpp) |||🟢|||
-|1979  | [Find greatest common divisor of array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [C++](./C++/LeetCode/1979.cpp) |||🟢|||
-|1629  | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/LeetCode/1629.cpp) |||🟢|||
-|0217  | [Contains duplicate](https://leetcode.com/problems/contains-duplicate) | [C++](./C++/LeetCode/0217.cpp) |O(n)||🟢|||
-|0001  | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/LeetCode/0001.cpp) |O(n)|O(1)|🟢| | hash table|
-|0026  | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/LeetCode/0026.cpp) |      |   |🟢|||
-|0888  | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/LeetCode/0888.cpp) |||🟢|||
-|0350  | [Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
-|0027  | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
-|0744  | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/LeetCode/0744.cpp) |O(logn)||🟢|||
-|0053  | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/LeetCode/0053.cpp) |||🟢||Kadane's algorithm|
-|0066  | [Plus One](https://leetcode.com/problems/plus-one) | [C++](./C++/LeetCode/0066.cpp) |||🟢|||
-|0088  | [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) | [C++](./C++/LeetCode/0088.cpp) |||🟢|||
-|0645  | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/LeetCode/0645.cpp) |||🟢|||
-|0414  | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/LeetCode/0414.cpp) |||🟢|||
-|1909  | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/LeetCode/1909.cpp) |||🟢|||
-|0334  | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/LeetCode/0334.cpp) |||🟡|||
-|0075  | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/LeetCode/0075.cpp) |||🟡|||
-|0560  | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k) | [C++](./C++/LeetCode/0560.cpp) |||🟡|||
-|0059  | [Spiral matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [C++](./C++/LeetCode/0059.cpp) |||🟡|||
-|0056  | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/LeetCode/0056.cpp) |||🟡|||
-|0435  | [Non-overlaping intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./C++/LeetCode/0435.cpp) |||🟡|||
-|0442  | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/LeetCode/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
-|0540  | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/LeetCode/0540.cpp) |||🟡|||
-|1814  | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/LeetCode/1814.cpp) |||🟡|||
-|0215  | [K-th largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./C++/LeetCode/0215.cpp) |||🟡|||
-|0015  | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/LeetCode/0015.cpp) |||🟡|||
-|0018  | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/LeetCode/0018.cpp) |||🟡|||
-|0039  | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/LeetCode/0039.cpp) |||🟡|||
-|0048  | [Rotate image](https://leetcode.com/problems/rotate-image) | [C++](./C++/LeetCode/0048.cpp) |||🟡|||
-|1052  | [Grumpty bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C++](./C++/LeetCode/1052.cpp) |||🟡|||
-|0040  | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/LeetCode/0040.cpp) |||🟡|||
-|0667  | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/LeetCode/0667.cpp) |||🟡|||
-|0074  | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/LeetCode/0074.cpp) |||🟡|||
-|0036  | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/LeetCode/0036.cpp) |||🟡||hash maps, or<br>2D array|
-|0011  | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/LeetCode/0011.cpp) |||🟡|||
-|0204  | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
-|0238  | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./C++/LeetCode/0238.cpp) |||🟡|||
-|0128  | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/LeetCode/0128.cpp) |||🟡|||
-|0034  | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
-|0950  | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/LeetCode/0950.cpp) |||🟡|||
-|1343  | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/LeetCode/1343.cpp) |||🟡|||
-|0078  | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/LeetCode/0078.cpp) |||🟡|||
-|0090  | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
-|0047  | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/LeetCode/0047.cpp) |||🟡|||
-|1248  | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
-|0033  | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
-|0523  | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||
-|0031  | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/LeetCode/0031.cpp) |||🟡|||
-|0287  | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/LeetCode/0287.cpp) |||🟡|||
-|0154  | [Find minimum in rotated sorted array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C++](./C++/LeetCode/0154.cpp) |||🔴|||
-|0239  | [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum) | [C++](./C++/LeetCode/0239.cpp) |||🔴|||
-|0004  | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/LeetCode/0004.cpp) |||🔴||binary search,<br>careful of bounds|
-|0992  | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/LeetCode/0992.cpp) |||🔴|||
+| 1929 | [Concatenation of array](https://leetcode.com/problems/concatenation-of-array) | [C](./C/LeetCode/1929.c),<br>[C++](./C++/LeetCode/1929.cpp) |||🟢|||
+| 1920 | [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation) | [C](./C/LeetCode/1920.c),<br>[C++](./C++/LeetCode/1920.cpp) |||🟢|||
+| 1480 | [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array) | [C](./C/LeetCode/1480.c),<br>[C++](./C++/LeetCode/1480.cpp) |||🟢|||
+| 1672 | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/LeetCode/1672.cpp) |||🟢||matrix|
+| 0566 | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/LeetCode/0566.cpp) |||🟢|||
+| 1470 | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/LeetCode/1470.cpp) |||🟢|||
+| 1431 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/LeetCode/1431.cpp)|||🟢|||
+| 1512 | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/LeetCode/1512.cpp) |||🟢||bruteforce,<br> hash table|
+| 1365 | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/LeetCode/1365.cpp) |||🟢| |frequency array|
+| 0706 | [Design hashmap](https://leetcode.com/problems/design-hashmap) | [C++](./C++/LeetCode/0706.cpp) |||🟢|||
+| 1528 | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/LeetCode/1528.cpp) |||🟢|||
+| 0136 | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/LeetCode/0136.cpp) |||🟢|||
+| 1720 | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/LeetCode/1720.cpp) |||🟢||XOR property|
+| 0169 | [Majority element](https://leetcode.com/problems/majority-element) | [C++](./C++/LeetCode/0169.cpp) |||🟢||Moore's Voting algo|
+| 1313 | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/LeetCode/1313.cpp) |O(n^2)||🟢|||
+| 1389 | [Create taget array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [C++](./C++/LeetCode/1389.cpp) |O(n)||🟢|||
+| 1773 | [Count items maching a rule](https://leetcode.com/problems/count-items-matching-a-rule) | [C++](./C++/LeetCode/1773.cpp) |||🟢|||
+| 1588 | [Sum of all odd length arrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [C++](./C++/LeetCode/1588.cpp) |||🟢|||
+| 1656 | [Design an ordered stream](https://leetcode.com/problems/design-an-ordered-stream) | [C++](./C++/LeetCode/1656.cpp) |||🟢|||
+| 1662 | [Check if two atring arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./C++/LeetCode/1662.cpp) |||🟢|||
+| 1684 | [Count the number of consistent strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./C++/LeetCode/1684.cpp) |||🟢|||
+| 1913 | [Maximum product difference between two pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [C++](./C++/LeetCode/1913.cpp) |O(nlogn),<br>O(n)||🟢|||
+| 1816 | [Truncate sentence](https://leetcode.com/problems/truncate-sentence) | [C++](./C++/LeetCode/1816.cpp) |||🟢|||
+| 1979 | [Find greatest common divisor of array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [C++](./C++/LeetCode/1979.cpp) |||🟢|||
+| 1629 | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/LeetCode/1629.cpp) |||🟢|||
+| 0217 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate) | [C++](./C++/LeetCode/0217.cpp) |O(n)||🟢|||
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/LeetCode/0001.cpp) |O(n)|O(1)|🟢| | hash table|
+| 0026 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/LeetCode/0026.cpp) |      |   |🟢|||
+| 0888 | [Fair candy swap](https://leetcode.com/problems/fair-candy-swap) | [C++](./C++/LeetCode/0888.cpp) |||🟢|||
+| 0350 | [Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [C++](./C++/LeetCode/0027.cpp) |||🟢|||
+| 0744 | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [C++](./C++/LeetCode/0744.cpp) |O(logn)||🟢|||
+| 0053 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./C++/LeetCode/0053.cpp) |||🟢||Kadane's algorithm|
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one) | [C++](./C++/LeetCode/0066.cpp) |||🟢|||
+| 0997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge) | [C++](./C++/LeetCode/0997.cpp) |||🟢|||
+| 0088 | [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) | [C++](./C++/LeetCode/0088.cpp) |||🟢|||
+| 0645 | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/LeetCode/0645.cpp) |||🟢|||
+| 0414 | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/LeetCode/0414.cpp) |||🟢|||
+| 1909 | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/LeetCode/1909.cpp) |||🟢|||
+| 0334 | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/LeetCode/0334.cpp) |||🟡|||
+| 0075 | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/LeetCode/0075.cpp) |||🟡|||
+| 0560 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k) | [C++](./C++/LeetCode/0560.cpp) |||🟡|||
+| 0059 | [Spiral matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [C++](./C++/LeetCode/0059.cpp) |||🟡|||
+| 0056 | [Merge intervals](https://leetcode.com/problems/merge-intervals) | [C++](./C++/LeetCode/0056.cpp) |||🟡|||
+| 0435 | [Non-overlaping intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./C++/LeetCode/0435.cpp) |||🟡|||
+| 0442 | [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./C++/LeetCode/0442.cpp) |||🟡||sort,<br>hash maps,<br>logic|
+| 0540 | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/LeetCode/0540.cpp) |||🟡|||
+| 1814 | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/LeetCode/1814.cpp) |||🟡|||
+| 0215 | [K-th largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./C++/LeetCode/0215.cpp) |||🟡|||
+| 0015 | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/LeetCode/0015.cpp) |||🟡|||
+| 0018 | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/LeetCode/0018.cpp) |||🟡|||
+| 0039 | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/LeetCode/0039.cpp) |||🟡|||
+| 0048 | [Rotate image](https://leetcode.com/problems/rotate-image) | [C++](./C++/LeetCode/0048.cpp) |||🟡|||
+| 1052 | [Grumpty bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C++](./C++/LeetCode/1052.cpp) |||🟡|||
+| 0040 | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/LeetCode/0040.cpp) |||🟡|||
+| 0667 | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/LeetCode/0667.cpp) |||🟡|||
+| 0074 | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/LeetCode/0074.cpp) |||🟡|||
+| 0036 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/LeetCode/0036.cpp) |||🟡||hash maps, or<br>2D array|
+| 0011 | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/LeetCode/0011.cpp) |||🟡|||
+| 0204 | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
+| 0238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./C++/LeetCode/0238.cpp) |||🟡|||
+| 0128 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/LeetCode/0128.cpp) |||🟡|||
+| 0034 | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
+| 0950 | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/LeetCode/0950.cpp) |||🟡|||
+| 1343 | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/LeetCode/1343.cpp) |||🟡|||
+| 0078 | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/LeetCode/0078.cpp) |||🟡|||
+| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/LeetCode/0047.cpp) |||🟡|||
+| 1248 | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
+| 0033 | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
+| 0523 | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||
+| 0031 | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/LeetCode/0031.cpp) |||🟡|||
+| 0287 | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/LeetCode/0287.cpp) |||🟡|||
+| 0154 | [Find minimum in rotated sorted array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C++](./C++/LeetCode/0154.cpp) ||| 🔴|||
+| 0239 | [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum) | [C++](./C++/LeetCode/0239.cpp) |||🔴|||
+| 0004 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/LeetCode/0004.cpp) |||🔴||binary search,<br>careful of bounds|
+| 0992 | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/LeetCode/0992.cpp) |||🔴|||
 
 
 

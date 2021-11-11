@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-302-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-303-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -506,7 +506,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-46-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-47-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -552,6 +552,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0376 | [Wiggle subsequence](https://leetcode.com/problems/wiggle-subsequence) | [C++](./C++/LeetCode/0376.cpp) |||🟡|||
 | 0322 | [Coin change](https://leetcode.com/problems/coin-change) | [C++](./C++/LeetCode/0322.cpp) |||🟡|||
 | 0518 | [Coin change 2](https://leetcode.com/problems/coin-change-2) | [C++](./C++/LeetCode/0518.cpp) |||🟡|||
+| 0377 | [Combination sum IV](https://leetcode.com/problems/combination-sum-iv) | [C++](./C++/LeetCode/0377.cpp) |||🟡|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||
 | 0072 | [Edit distance](https://leetcode.com/problems/edit-distance) | [C++](./C++/LeetCode/0072.cpp) |||🔴|||

@@ -506,7 +506,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-48-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-49-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -554,6 +554,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0518 | [Coin change 2](https://leetcode.com/problems/coin-change-2) | [C++](./C++/LeetCode/0518.cpp) |||🟡|||
 | 0377 | [Combination sum IV](https://leetcode.com/problems/combination-sum-iv) | [C++](./C++/LeetCode/0377.cpp) |||🟡|||
 | 0343 | [Integer break](https://leetcode.com/problems/integer-break) | [C++](./C++/LeetCode/0343.cpp) |||🟡||Mathematical,<br>DP|
+| 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/LeetCode/0279.cpp) |||🟡||Mathematical,<br>DP|
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||
 | 0072 | [Edit distance](https://leetcode.com/problems/edit-distance) | [C++](./C++/LeetCode/0072.cpp) |||🔴|||
@@ -743,7 +744,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -756,7 +757,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0013 | [Roman to integer](https://leetcode.com/problems/roman-to-integer) | [C++](./C++/LeetCode/0013.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/LeetCode/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/LeetCode/0012.cpp) |||🟡|||
-| 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/LeetCode/0279.cpp) |||🟡||DP,<br>Mathematical|
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
 
 <br>

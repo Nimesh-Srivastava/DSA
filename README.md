@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-300-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-301-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -115,7 +115,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-77-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-78-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -128,6 +128,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1431 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/LeetCode/1431.cpp)|||🟢|||
 | 1512 | [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./C++/LeetCode/1512.cpp) |||🟢||bruteforce,<br> hash table|
 | 1365 | [How many numbers are smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./C++/LeetCode/1365.cpp) |||🟢| |frequency array|
+| 1413 | [Minimum value to get positive step by step sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [C++](./C++/LeetCode/1413.cpp) |||🟢|||
 | 0706 | [Design hashmap](https://leetcode.com/problems/design-hashmap) | [C++](./C++/LeetCode/0706.cpp) |||🟢|||
 | 1528 | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/LeetCode/1528.cpp) |||🟢|||
 | 0136 | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/LeetCode/0136.cpp) |||🟢|||

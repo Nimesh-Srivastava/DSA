@@ -54,12 +54,9 @@ public:
             int min_val = INT_MAX;
             
             for(int j = 1; j*j <= i; j++){
-                
                 min_val = min(min_val, dp[i - (j*j)]);
-                // cout<<"min_val : "<<min_val<<endl;
                 
                 dp[i] = 1 + min_val;
-                // cout<<"dp["<<i<<"] : "<<dp[i]<<endl;
             }
         }
         

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-305-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-306-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -694,13 +694,14 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Backtracking
-![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [C++](./C++/LeetCode/0077.cpp) |||🟡|||
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | [C++](./C++/LeetCode/0046.cpp) |||🟡|||
 | 0784 | [Letter case permutation](https://leetcode.com/problems/letter-case-permutation) | [C++](./C++/LeetCode/0784.cpp) |||🟡|||
+| 1286 | [Iterator for combination](https://leetcode.com/problems/iterator-for-combination) | [C++](./C++/LeetCode/1286.cpp) |||🟡|||
 
 <br/>
 <div align="right">

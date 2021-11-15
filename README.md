@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-306-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-307-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -506,7 +506,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-49-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-50-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -542,6 +542,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0264 | [Ugly number II](https://leetcode.com/problems/ugly-number-ii) | [C++](./C++/LeetCode/0264.cpp) |||🟡|||
 | 0096 | [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees) | [C++](./C++/LeetCode/0096.cpp) |||🟡|||
 | 0120 | [Triangle](https://leetcode.com/problems/triangle) | [C++](./C++/LeetCode/0120.cpp) |||🟡|||
+| 0368 | [Largest divisible subset](https://leetcode.com/problems/largest-divisible-subset) | [C++](./C++/LeetCode/0368.cpp) |||🟡|||
 | 0931 | [Minimum falling path sum](https://leetcode.com/problems/minimum-falling-path-sum) | [C++](./C++/LeetCode/0931.cpp) |||🟡|||
 | 1314 | [Matrix block sum](https://leetcode.com/problems/matrix-block-sum) | [C++](./C++/LeetCode/1314.cpp) |||🟡|||
 | 0304 | [Range sum query 2D - immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [C++](./C++/LeetCode/0304.cpp) |||🟡|||

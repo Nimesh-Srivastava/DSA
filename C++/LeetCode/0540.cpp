@@ -1,3 +1,4 @@
+//Solution 1 :-
 class Solution {
 public:
   int singleNonDuplicate(vector<int> &arr) {
@@ -23,3 +24,6 @@ public:
     return arr[low];
   }
 };
+
+//Solution 2 :-
+//(XOR sum)

@@ -25,6 +25,7 @@ public:
   }
 };
 
+
 //Solution 2 :-
 //(XOR sum)
 class Solution {

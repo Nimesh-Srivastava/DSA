@@ -27,3 +27,14 @@ public:
 
 //Solution 2 :-
 //(XOR sum)
+class Solution {
+public:
+    int singleNonDuplicate(vector<int>& nums) {
+        int sum = 0;
+        
+        for(auto& c : nums)
+            sum = sum ^ c;
+        
+        return sum;
+    }
+};

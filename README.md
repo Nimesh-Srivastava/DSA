@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-312-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-313-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -664,7 +664,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Two pointers
-![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -674,6 +674,7 @@ Stacks can be implemeted in 2 ways :-<br>
 |0557  | [Reverse in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C++](./C++/LeetCode/0557.cpp) |O(n)||🟢|||
 |0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
+|0986  | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
 
 <br/>
 <div align="right">

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-314-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-315-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -115,7 +115,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-81-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-82-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -195,6 +195,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0523 | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||
 | 0031 | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/LeetCode/0031.cpp) |||🟡|||
 | 0287 | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/LeetCode/0287.cpp) |||🟡|||
+| 0721 | [Accounts merge](https://leetcode.com/problems/accounts-merge) | [C++](./C++/LeetCode/0721.cpp) |||🟡||Union find|
 | 0154 | [Find minimum in rotated sorted array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C++](./C++/LeetCode/0154.cpp) ||| 🔴|||
 | 0952 | [Largest componenet size by common factor](https://leetcode.com/problems/largest-component-size-by-common-factor) | [C++](./C++/LeetCode/0952.cpp) |||🔴|||
 | 0239 | [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum) | [C++](./C++/LeetCode/0239.cpp) |||🔴|||

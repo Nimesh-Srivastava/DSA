@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-315-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-316-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -511,7 +511,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-50-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-51-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -562,6 +562,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0343 | [Integer break](https://leetcode.com/problems/integer-break) | [C++](./C++/LeetCode/0343.cpp) |||🟡||Mathematical,<br>DP|
 | 0279 | [Perfect squares](https://leetcode.com/problems/perfect-squares) | [C++](./C++/LeetCode/0279.cpp) |||🟡||Mathematical,<br>DP|
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
+| 0085 | [Maximal rectangle](https://leetcode.com/problems/maximal-rectangle) | [C++](./C++/LeetCode/0085.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||
 | 0072 | [Edit distance](https://leetcode.com/problems/edit-distance) | [C++](./C++/LeetCode/0072.cpp) |||🔴|||
 | 0042 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water) | [C++](./C++/LeetCode/0042.cpp) |||🔴||Microsoft|

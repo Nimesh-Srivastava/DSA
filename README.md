@@ -605,6 +605,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0079 | [Word search](https://leetcode.com/problems/word-search) | [C++](./C++/LeetCode/0079.cpp) |||🟡||Optimised for space|
 | 0695 | [Max area of island](https://leetcode.com/problems/max-area-of-island) | [C++](./C++/LeetCode/0695.cpp) |||🟡|||
 | 0130 | [Surrounding regions](https://leetcode.com/problems/surrounded-regions) | [C++](./C++/LeetCode/0130.cpp) |||🟡|||
+| 0337 | [House robber III](https://leetcode.com/problems/house-robber-iii) | [C++](./C++/LeetCode/0337.cpp) |||🟡|||
 | 0980 | [Unique paths III](https://leetcode.com/problems/unique-paths-iii) | [C++](./C++/LeetCode/0980.cpp) |||🔴|||
 
 <br/>

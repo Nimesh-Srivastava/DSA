@@ -39,6 +39,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 ### Extra
 * [CodeChef DSA learning series](#-codechef-dsa-series)
 * [Miscellaneous/Uncategorized Problems](#-miscellaneous-problems)
+* [Love Babbar 450 questions DSA sheet](#-love-babbar-450)
 <br>
 
 
@@ -763,8 +764,8 @@ Stacks can be implemeted in 2 ways :-<br>
 ![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
-|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
-|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+|  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1925 | [Count square sum triplets](https://leetcode.com/problems/count-square-sum-triples) | [C++](./C++/LeetCode/1925.cpp) |||🟢|||
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/LeetCode/0007.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/LeetCode/0009.cpp) |||🟢|||
@@ -783,6 +784,20 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/Codeforces/1343A.cpp) |||🟢||bruteforce, <br>math|
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/Codeforces/1525B.cpp) |||🟢||greedy|
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/Codeforces/451A.cpp) |||🟢|||
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
+## 💢 Love Babbar 450
+![Count](https://img.shields.io/badge/Count-0-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 0001 | []() | [C++]() |||🟢|||
 
 <br/>
 <div align="right">

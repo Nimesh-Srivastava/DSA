@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-323-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-324-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -578,7 +578,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -592,6 +592,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1011 | [Capacity to ship packages within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C++](./C++/LeetCode/1011.cpp) |||🟡|||
 | 1901 | [Find a peak element II](https://leetcode.com/problems/find-a-peak-element-ii) | [C++](./C++/LeetCode/1901.cpp) |||🟡|||
 | 0668 | [Kth smallest number in multiplication table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) | [C++](./C++/LeetCode/0668.cpp) |||🔴|||
+| 0878 | [Nth magical number](https://leetcode.com/problems/nth-magical-number) | [C++](./C++/LeetCode/0878.cpp) |||🔴|||
 
 <br/>
 <div align="right">

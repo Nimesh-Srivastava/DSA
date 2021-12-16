@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-daily-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-328-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-329-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -499,7 +499,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Graph
-![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -507,6 +507,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1557 | [Minimum number of vertices to reach all nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [C++](./C++/LeetCode/1557.cpp) |||🟡|||
 | 0841 | [Keys and rooms](https://leetcode.com/problems/keys-and-rooms) | [C++](./C++/LeetCode/0841.cpp) |||🟡|||
 | 0797 | [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](./C++/LeetCode/0797.cpp) |||🟡|||
+| 0310 | [Minimum height trees](https://leetcode.com/problems/minimum-height-trees) | [C++](./C++/LeetCode/0310.cpp) |||🟡|||
 
 <br/>
 <div align="right">

@@ -11,6 +11,3 @@ int kthSmallest(int arr[], int l, int r, int k) {
         
         return nums[k - 1];
 }
-
-
-//Solution 2 :-

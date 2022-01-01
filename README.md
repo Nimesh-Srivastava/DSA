@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-331-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-332-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -518,7 +518,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
-![Count](https://img.shields.io/badge/Count-53-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-54-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -575,6 +575,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||
 | 0072 | [Edit distance](https://leetcode.com/problems/edit-distance) | [C++](./C++/LeetCode/0072.cpp) |||🔴|||
 | 0042 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water) | [C++](./C++/LeetCode/0042.cpp) |||🔴||Microsoft|
+| 0312 | [Burst balloons](https://leetcode.com/problems/burst-balloons) | [C++](./C++/LeetCode/0312.cpp) |||🔴|||
 
 <br/>
 <div align="right">

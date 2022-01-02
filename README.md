@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-332-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-333-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -116,7 +116,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-84-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-85-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -193,6 +193,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/LeetCode/0047.cpp) |||🟡|||
 | 0347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements) | [C++](./C++/LeetCode/0347.cpp) |||🟡|||
+| 1010 | [Pairs of songs with total durations divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [C++](./C++/LeetCode/1010.cpp) |||🟡|||
 | 1248 | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
 | 0033 | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
 | 0523 | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||

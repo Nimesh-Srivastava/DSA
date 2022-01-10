@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-337-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-338-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -645,7 +645,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
-![Count](https://img.shields.io/badge/Count-27-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-28-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -653,6 +653,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0387 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string) | [C++](./C++/LeetCode/0387.cpp) |||🟢|||
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/LeetCode/0383.cpp) |||🟢|||
 | 0290 | [Word pattern](https://leetcode.com/problems/word-pattern) | [C++](./C++/LeetCode/0290.cpp) |||🟢|||
+| 0067 | [Add binary](https://leetcode.com/problems/add-binary) | [C++](./C++/LeetCode/0067.cpp) |||🟢|||
 | 1446 | [Consecutive characters](https://leetcode.com/problems/consecutive-characters) | [C++](./C++/LeetCode/1446.cpp) |||🟢|||
 | 0415 | [Add strings](https://leetcode.com/problems/add-strings) | [C++](./C++/LeetCode/0415.cpp) |||🟡|||
 | 0409 | [Longest palindrome](https://leetcode.com/problems/longest-palindrome) | [C++](./C++/LeetCode/0409.cpp) |||🟡|||

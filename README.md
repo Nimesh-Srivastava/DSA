@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-338-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-339-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -433,7 +433,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
-![Count](https://img.shields.io/badge/Count-46-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-47-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -449,6 +449,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0617 | [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](./C++/LeetCode/0617.cpp) |||🟢|||
 | 0404 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves) | [C++](./C++/LeetCode/0404.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/LeetCode/0112.cpp) |||🟢|||
+| 1022 | [Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [C++](./C++/LeetCode/1022.cpp) |||🟢|||
 | 0938 | [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](./C++/LeetCode/0938.cpp) |||🟢|||
 | 0108 | [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [C++](./C++/LeetCode/0108.cpp) |||🟢|||
 | 0226 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | [C++](./C++/LeetCode/0226.cpp) |||🟢|||

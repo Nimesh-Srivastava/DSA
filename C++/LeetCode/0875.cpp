@@ -1,3 +1,4 @@
+//Solution 1 :-
 class Solution {
 public:
   int numberOfHours(const std::vector<int> &arr, int k) {
@@ -19,4 +20,28 @@ public:
     }
     return low;
   }
+};
+
+//Solution 2 :-
+class Solution {
+public:
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int left = 1, right = 1000000000;
+        
+        while (left < right) {
+            int mid = (left + right) / 2;
+            int total = 0;
+            
+            for (int p : piles)
+                total += (p + mid - 1) / mid;
+            
+            if (total > h)
+                left = mid + 1;
+            
+            else
+                right = mid;
+        }
+        
+        return left;
+    }
 };

@@ -116,7 +116,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-84-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -182,7 +182,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1052 | [Grumpty bookstore owner](https://leetcode.com/problems/grumpy-bookstore-owner) | [C++](./C++/LeetCode/1052.cpp) |||🟡|||
 | 0040 | [Combination sum II](https://leetcode.com/problems/combination-sum-ii) | [C++](./C++/LeetCode/0040.cpp) |||🟡|||
 | 0667 | [Beautiful arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [C++](./C++/LeetCode/0667.cpp) |||🟡|||
-| 0074 | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/LeetCode/0074.cpp) |||🟡|||
 | 0036 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/LeetCode/0036.cpp) |||🟡||hash maps, or<br>2D array|
 | 0011 | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/LeetCode/0011.cpp) |||🟡|||
 | 0204 | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
@@ -196,7 +195,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements) | [C++](./C++/LeetCode/0347.cpp) |||🟡|||
 | 1010 | [Pairs of songs with total durations divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [C++](./C++/LeetCode/1010.cpp) |||🟡|||
 | 1248 | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
-| 0033 | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
 | 0523 | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||
 | 0031 | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/LeetCode/0031.cpp) |||🟡|||
 | 0287 | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/LeetCode/0287.cpp) |||🟡|||
@@ -588,7 +586,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -598,6 +596,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0441 | [Arranging coins](https://leetcode.com/problems/arranging-coins) | [C++](./C++/LeetCode/0441.cpp) |||🟢|||
 | 0875 | [Koko eating banans](https://leetcode.com/problems/koko-eating-bananas) | [C++](./C++/LeetCode/0875.cpp) |||🟡|||
 | 0034 | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
+| 0033 | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||
+| 0074 | [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix)| [C++](./C++/LeetCode/0074.cpp) |||🟡|||
 | 1237 | [Find positive integer solution for a given equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [C++](./C++/LeetCode/1237.cpp) |||🟡|||
 | 0240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./C++/LeetCode/0240.cpp) |||🟡|||
 | 1011 | [Capacity to ship packages within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C++](./C++/LeetCode/1011.cpp) |||🟡|||

@@ -116,7 +116,7 @@ Used :- <br>
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br>
 <br>
-![Count](https://img.shields.io/badge/Count-87-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -188,7 +188,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0204 | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
 | 0238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./C++/LeetCode/0238.cpp) |||🟡|||
 | 0128 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/LeetCode/0128.cpp) |||🟡|||
-| 0034 | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
 | 0950 | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/LeetCode/0950.cpp) |||🟡|||
 | 1343 | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/LeetCode/1343.cpp) |||🟡|||
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/LeetCode/0078.cpp) |||🟡|||
@@ -589,7 +588,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -598,6 +597,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0035 | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/LeetCode/0035.cpp) |||🟢|||
 | 0441 | [Arranging coins](https://leetcode.com/problems/arranging-coins) | [C++](./C++/LeetCode/0441.cpp) |||🟢|||
 | 0875 | [Koko eating banans](https://leetcode.com/problems/koko-eating-bananas) | [C++](./C++/LeetCode/0875.cpp) |||🟡|||
+| 0034 | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
 | 1237 | [Find positive integer solution for a given equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation) | [C++](./C++/LeetCode/1237.cpp) |||🟡|||
 | 0240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./C++/LeetCode/0240.cpp) |||🟡|||
 | 1011 | [Capacity to ship packages within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [C++](./C++/LeetCode/1011.cpp) |||🟡|||

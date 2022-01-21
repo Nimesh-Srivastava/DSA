@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-342-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-343-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -587,7 +587,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
-![Count](https://img.shields.io/badge/Count-15-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -596,6 +596,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0035 | [Search insert position](https://leetcode.com/problems/search-insert-position) | [C++](./C++/LeetCode/0035.cpp) |||🟢|||
 | 0441 | [Arranging coins](https://leetcode.com/problems/arranging-coins) | [C++](./C++/LeetCode/0441.cpp) |||🟢|||
 | 0875 | [Koko eating banans](https://leetcode.com/problems/koko-eating-bananas) | [C++](./C++/LeetCode/0875.cpp) |||🟡|||
+| 0162 | [Peak element](https://leetcode.com/problems/find-peak-element) | [C++](./C++/LeetCode/0162.cpp) |||🟡|||
 | 0153 | [Find minimum in rotqted sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [C++](./C++/LeetCode/0153.cpp) |||🟡|||
 | 0034 | [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./C++/LeetCode/0034.cpp) |||🟡|||
 | 0033 | [Search in sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./C++/LeetCode/0033.cpp) |||🟡|||

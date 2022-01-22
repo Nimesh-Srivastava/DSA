@@ -175,7 +175,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0540 | [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [C++](./C++/LeetCode/0540.cpp) |||🟡||Binary search,<br>XOR sum|
 | 1814 | [Count nice pairs](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [C++](./C++/LeetCode/1814.cpp) |||🟡|||
 | 0215 | [K-th largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./C++/LeetCode/0215.cpp) |||🟡|||
-| 0015 | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/LeetCode/0015.cpp) |||🟡|||
+| 0015 | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/LeetCode/0015.cpp) |||🟡||Two pointer|
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/LeetCode/0018.cpp) |||🟡|||
 | 0039 | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/LeetCode/0039.cpp) |||🟡|||
 | 0048 | [Rotate image](https://leetcode.com/problems/rotate-image) | [C++](./C++/LeetCode/0048.cpp) |||🟡|||

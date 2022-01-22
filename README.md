@@ -282,7 +282,7 @@ __Tail__ : last node in the list <br>
 | 0328 | [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/LeetCode/0328.cpp) |O(n)|O(1)|🟡|||
 | 0002 | [Add two numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./C++/LeetCode/0002.cpp) |||🟡|||
 | 0445 | [Add two numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [C++](./C++/LeetCode/0445.cpp) |||🟡|||
-| 0082 | [Remove duplicates from sorted list II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [C++](./C++/LeetCode/0082.cpp) |||🟡|||
+| 0082 | [Remove duplicates from sorted list II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [C++](./C++/LeetCode/0082.cpp) |||🟡||Two pointer|
 | 0024 | [Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [C++](./C++/LeetCode/0024.cpp) |||🟡|||
 | 0707 | [Design linked list](https://leetcode.com/problems/design-linked-list) | [C++](./C++/LeetCode/0707.cpp) |||🟡|||
 | 0382 | [Linked list random node](https://leetcode.com/problems/linked-list-random-node) | [C++](./C++/LeetCode/0382.cpp) |||🟡||Reservoir sampling|

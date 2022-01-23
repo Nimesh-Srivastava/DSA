@@ -692,7 +692,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Two pointers
-![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -703,6 +703,7 @@ Stacks can be implemeted in 2 ways :-<br>
 |0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
 |0986  | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
+| 0844 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare) | [C++](./C++/LeetCode/0844.cpp) |||🟡|||
 
 <br/>
 <div align="right">
@@ -783,7 +784,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-12-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -797,7 +798,6 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/LeetCode/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/LeetCode/0012.cpp) |||🟡|||
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
-| 0844 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare) | [C++](./C++/LeetCode/0844.cpp) |||🟡|||
 
 <br>
 

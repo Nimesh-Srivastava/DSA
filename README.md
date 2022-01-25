@@ -13,20 +13,32 @@ Use the index given below to search for problems and solutions. Problems are arr
 <br>
 
 ## 💢 Index
-### Theory
-* [Introduction](#-Introduction)<br>
-* [Big-O Notation](#-the-big-o-notation)<br>
 
-### Data Structures
+<details>
+    <summary><b>Theory</b></summary>
+<br>
+
+* [Introduction](#-Introduction)<br>
+* [Big-O Notation](#-the-big-o-notation)
+<br>
+</details>
+<details>
+    <summary><b>Data Structures</b></summary>
+<br>
+
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-stacks)<br>
 * [Queues](#-queue)<br>
 * [Tree](#-tree)<br>
 * [Trie (Prefix tree)](#-trie)<br>
-* [Graph](#-graph)<br>
+* [Graph](#-graph)
+<br>
+</details>
+<details>
+    <summary><b>Algorithms</b></summary>
+<br>
 
-### Algorithms
 * [Dynamic programming](#-dynamic-programming)
 * [Binary Search](#-binary-search)
 * [Sliding Window](#-sliding-window)
@@ -35,25 +47,36 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Strings](#-strings)
 * [Two pointers](#-two-pointers)
 * [Bit manipulation](#-bit-manipulation)
-* [Backtracking](#-backtracking)<br>
+* [Backtracking](#-backtracking)
+<br>
+</details>
+<details>
+    <summary><b>Extra</b></summary>
+<br>
 
-### Extra
 * [CodeChef DSA learning series](#-codechef-dsa-series)
 * [Miscellaneous/Uncategorized Problems](#-miscellaneous-problems)
 * [Love Babbar 450 questions DSA sheet](#-love-babbar-450)
 <br>
-
+</details>
 
 ## 💢 Introduction
-### What is data structure(DS)?
+
+<details>
+    <summary><b>What is data structure(DS)?</b></summary>
 A way of organizing data, so it can be used effectively.
 <br>
-
-### Why do we use them?
+</details>
+<details>
+    <summary><b>Why do we use them?</b></summary>
+    
 * To create fast and powerful algorithms
 * To make code easier for understanding
-
-### What is abstract data type(ADT)?
+<br>
+</details>
+<details>
+    <summary><b>What is abstract data type(ADT)?</b></summary>
+    
 An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.<br>
 ADTs are implemented using data structures.<br>
 <br>
@@ -65,16 +88,26 @@ Some examples are :
 |  2  | Queue | Array based queue <br> Stack based queue <br> Linked List based queue |
 |  3  | Maps | Hash table <br> Tree |
 <br>
+</details>
 
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 💢 The Big-O Notation
-### What is Big-O and why do we use it?
+
+<details>
+    <summary><b>What is Big-O and why do we use it?</b></summary>
+    
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
-Size of input is denoted by 'n'. <br>
+Size of input is denoted by 'n'.
 <br>
-
-### Ascending order of complexity :
+</details>
+<details>
+    <summary><b>Ascending order of complexity</b></summary>
 
 |  #  | Notation        |  Name        |  Example (time)   |
 |:-----:|---------------| -----------  | ----------- |
@@ -89,6 +122,7 @@ Size of input is denoted by 'n'. <br>
 | ... |  |  |  |
 |  8  |  O (b^n)        | Exponential  | All subsets of a set -> O (2^n) |
 |  9  |  O (n!)         | Factorial    | All permutations of a string |
+</details>
 
 <br/>
 <div align="right">
@@ -97,26 +131,38 @@ Size of input is denoted by 'n'. <br>
 <br/>
 
 ## 💢 Arrays
-### Property
-Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array. <br>
-Used :- <br>
+
+<details>
+<summary><b>Property</b></summary>
+    
+Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array.
+<br>    
+</details>
+<details>
+<summary><b>Used</b></summary>
+    
 * for sorting
 * to access sequential data
 * as buffer by I/O routines
 * as lookup / inverse lookup tables
 * to return multiple values from a function
 * as *cache* in dynamic programming
+</details>
+<details>
+    <summary><b>Types of arrays</b></summary>
 
-### Types
-♦️*Static* : fixed length<br>
+* Static : fixed length<br>
 
-♦️*Dynamic* : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied. <br>
+* Dynamic : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied. 
+</details>
+<details>
+<summary><b>PROBLEMS on arrays</b></summary>
 <br>
 
-### Problems on arrays
 Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
+
 <br>
-<br>
+
 ![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -208,8 +254,8 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0004 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/LeetCode/0004.cpp) |||🔴||binary search,<br>careful of bounds|
 | 0992 | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/LeetCode/0992.cpp) |||🔴|||
 
-
-
+</details>
+    
 <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
@@ -217,37 +263,42 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 <br/>
 
 ## 💢 Linked Lists
-### What is it?
+
+<details>
+    <summary><b>What is it?</b></summary>
+
 A sequential list of data holding nodes that point to other nodes.
 <br>
-<br>
+</details>
+<details>
+    <summary><b>Uses</b></summary>
 
-### Uses
 * Stack, queue, list, circular list implementation
 * Adjancy list for graphs
 * Separate chaining to deal with hashing collisions
+</details>
+<details>
+    <summary><b>Properties</b></summary>
 
-<br>
-
-### Properties
 * __Node__ : contains data and pointer <br>
 * __Pointer__ : reference to another node <br>
 * __Head__ : first node in the list <br>
 * __Tail__ : last node in the list <br>
+</details>
+<details>
+    <summary><b>Types</b></summary>
 
-<br>
-
-### Types
-* Singly linked list : reference to next node only <br>
-* Doubly linked list : reference to next and previous nodes <br>
-
+* Singly linked list : reference to next node only
+* Doubly linked list : reference to next and previous nodes
+    
 | Type | Pros       | Cons        |
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
 |  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
-<br>
+</details>
+<details>
+    <summary><b>Complexity Analysis</b></summary>
 
-### Complexity Analysis
 | Action | Singly LL | Doubly LL  |
 |-----|:---------------:|:-----------:| 
 | Search | O (n) | O (n) |
@@ -256,9 +307,12 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at head | O (1) | O (1) |
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
+</details>
+<details>
+    <summary><b>PROBLEMS on linked lists</b></summary>
+
 <br>
 
-### Problems on linked lists
 ![Count](https://img.shields.io/badge/Count-28-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -297,8 +351,8 @@ A sequential list of data holding nodes that point to other nodes.
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1472 | [Design browser history](https://leetcode.com/problems/design-browser-history) | [C++](./C++/LeetCode/1472.cpp) |||🟡||Create list structure|
-| 0430 | [Flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C++](./C++/LeetCode/0430.cpp) |O(n)|O(n)|🟡||Recursion|
-
+| 0430 | [Flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C++](./C++/LeetCode/0430.cpp) |O(n)|O(n)|🟡||Recursion|    
+</details>
 
 <br/>
 <div align="right">
@@ -307,46 +361,55 @@ A sequential list of data holding nodes that point to other nodes.
 <br/>
 
 ## 💢 Stacks
-### Stacks as ADT
+
+<details>
+    <summary><b>Stacks as ADT</b></summary>
+
 We only care about the features and operations of stacks. We don't care about the implementation details. Therefore, I am going to define stack only as mathematical model.
 <br>
-<br>
+</details>
+<details>
+    <summary><b>Definition</b></summary>
 
-### Definition
 A list with restriction of insertion and deletion from one end only.
 <br>
-<br>
-
-### Property
+</details>
+<details>
+    <summary><b>Property</b></summary>
+    
 Elements are inserted and removed from the same end, also called, the *top* of stack. This is not just a property, but a constraint of stack. Hence, stack is called, LAST-IN-FIRST-OUT, or, LIFO, collection of items.
 <br>
-<br>
-
-### Operations
+</details>
+<details>
+    <summary><b>Operations</b></summary>
+    
 * Push( ) : for insertion of an element
 * Pop( ) : for deletion of an element
 
 Apart from the above mentioned fundamental operations, there can be other operations as well, like :-<br>
 * Top( ) : return the top element of stack
 * IsEmpty( ) : return TRUE if stack is empty, FALSE if not
-
-<br>
-
-### Complexity Analysis
+</details>
+<details>
+    <summary><b>Complexity Analysis</b></summary>
+ 
 All opertaions mentioned above are performed in constant, or, O( 1 ) time.
 
 Overflow condition : O( n ), a larger array is created and all elements are copied. This only happens in array implementation of stack.
 <br>
-<br>
+</details>
+<details>
+    <summary><b>Uses</b></summary>
 
-### Uses
 * Function calls / Recursion in dynamic memory allocation
 * implement Undo operation
 * balance of brackets by a compiler
+</details>
+<details>
+    <summary><b>Implementation of stacks</b></summary>
 
 <br>
-
-### Implementation of stacks
+    
 Stacks can be implemeted in 2 ways :-<br>
 * Stacks using arrays : <br>
 
@@ -395,9 +458,12 @@ Stacks can be implemeted in 2 ways :-<br>
             top = top->link
             free(temp)
         }
-<br>
+</details>
+<details>
+    <summary><b>PROBLEMS on Stacks</b></summary>
 
-### Problems on Stacks
+<br>
+    
 ![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -412,6 +478,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1249 | [Minimum remove to make valid parantheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [C++](./C++/LeetCode/1249.cpp) |||🟡|||
 | 0739 | [Daily temperatures](https://leetcode.com/problems/daily-temperatures) | [C++](./C++/LeetCode/0739.cpp) |||🟡|||
 | 0227 | [Basic calculator II](https://leetcode.com/problems/basic-calculator-ii) | [C++](./C++/LeetCode/0227.cpp) |||🟡|||
+    
+</details>
 
 <br/>
 <div align="right">
@@ -425,7 +493,6 @@ Stacks can be implemeted in 2 ways :-<br>
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1823 | [Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/LeetCode/1823.cpp) |||🟡|||
-
 
 <br/>
 <div align="right">

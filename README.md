@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-352-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-353-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -633,7 +633,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Depth First Search
-![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -646,6 +646,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1306 | [Jump game III](https://leetcode.com/problems/jump-game-iii) | [C++](./C++/LeetCode/1306.cpp) |||🟡|||
 | 1291 | [Sequential digits](https://leetcode.com/problems/sequential-digits) | [C++](./C++/LeetCode/1291.cpp) |||🟡|||
 | 0200 | [Number of islands](https://leetcode.com/problems/number-of-islands) | [C++](./C++/LeetCode/0200.cpp) |||🟡|||
+| 0547 | [Number of provinces](https://leetcode.com/problems/number-of-provinces) | [C++](./C++/LeetCode/0547.cpp) |||🟡|||
 | 0980 | [Unique paths III](https://leetcode.com/problems/unique-paths-iii) | [C++](./C++/LeetCode/0980.cpp) |||🔴|||
 
 <br/>

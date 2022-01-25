@@ -491,11 +491,18 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Queue
+
+<details>
+    <summary><b>PROBLEMS on queue</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1823 | [Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/LeetCode/1823.cpp) |||🟡|||
+
+</details>
 
 <br/>
 <div align="right">
@@ -504,6 +511,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Tree
+
+<details>
+    <summary><b>PROBLEMS on tree</b></summary>
+<br>
+    
 ![Count](https://img.shields.io/badge/Count-47-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -555,6 +567,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0173 | [Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [C++](./C++/LeetCode/0173.cpp) |||🟡|||
 | 0236 | [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./C++/LeetCode/0236.cpp) |||🟡|||
 | 0297 | [Serialize and deserialize binary tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](./C++/LeetCode/0297.cpp) |||🟡|||
+</details>
 
 <br/>
 <div align="right">
@@ -563,11 +576,17 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Trie
+
+<details>
+    <summary><b>PROBLEMS on trie</b></summary>
+<br>
+    
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0208 | [Implement trie](https://leetcode.com/problems/implement-trie-prefix-tree) | [C++](./C++/LeetCode/0208.cpp) |||🟡|||
+</details>
 
 <br/>
 <div align="right">
@@ -576,6 +595,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Graph
+
+<details>
+    <summary><b>PROBLEMS on graph</b></summary>
+<br>
+    
 ![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -585,6 +609,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0841 | [Keys and rooms](https://leetcode.com/problems/keys-and-rooms) | [C++](./C++/LeetCode/0841.cpp) |||🟡|||
 | 0797 | [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target) | [C++](./C++/LeetCode/0797.cpp) |||🟡|||
 | 0310 | [Minimum height trees](https://leetcode.com/problems/minimum-height-trees) | [C++](./C++/LeetCode/0310.cpp) |||🟡|||
+</details>
 
 <br/>
 <div align="right">
@@ -593,6 +618,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Dynamic Programming
+
+<details>
+    <summary><b>PROBLEMS on dynamic programming</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-55-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -652,6 +682,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0072 | [Edit distance](https://leetcode.com/problems/edit-distance) | [C++](./C++/LeetCode/0072.cpp) |||🔴|||
 | 0042 | [Trapping rain water](https://leetcode.com/problems/trapping-rain-water) | [C++](./C++/LeetCode/0042.cpp) |||🔴||Microsoft|
 | 0312 | [Burst balloons](https://leetcode.com/problems/burst-balloons) | [C++](./C++/LeetCode/0312.cpp) |||🔴|||
+</details>
 
 <br/>
 <div align="right">
@@ -660,6 +691,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Binary Search
+
+<details>
+    <summary><b>PROBLEMS on binary search</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -680,6 +716,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1901 | [Find a peak element II](https://leetcode.com/problems/find-a-peak-element-ii) | [C++](./C++/LeetCode/1901.cpp) |||🟡|||
 | 0668 | [Kth smallest number in multiplication table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) | [C++](./C++/LeetCode/0668.cpp) |||🔴|||
 | 0878 | [Nth magical number](https://leetcode.com/problems/nth-magical-number) | [C++](./C++/LeetCode/0878.cpp) |||🔴|||
+</details>
 
 <br/>
 <div align="right">
@@ -688,6 +725,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Sliding Window
+
+<details>
+    <summary><b>PROBLEMS on sliding window</b></summary>
+<br>
+    
 ![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -696,6 +738,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0713 | [Subarray product less than k](https://leetcode.com/problems/subarray-product-less-than-k) | [C++](./C++/LeetCode/0713.cpp) |||🟡|||
 | 0209 | [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C++](./C++/LeetCode/0209.cpp) |||🟡|||
 
+</details>
+
 <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
@@ -703,6 +747,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Depth First Search
+
+<details>
+    <summary><b>PROBLEMS on DFS</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -718,6 +767,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0200 | [Number of islands](https://leetcode.com/problems/number-of-islands) | [C++](./C++/LeetCode/0200.cpp) |||🟡|||
 | 0547 | [Number of provinces](https://leetcode.com/problems/number-of-provinces) | [C++](./C++/LeetCode/0547.cpp) |||🟡|||
 | 0980 | [Unique paths III](https://leetcode.com/problems/unique-paths-iii) | [C++](./C++/LeetCode/0980.cpp) |||🔴|||
+</details>
 
 <br/>
 <div align="right">
@@ -726,6 +776,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Breadth First Search
+
+<details>
+    <summary><b>PROBLEMS on BFS</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -733,6 +788,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0994 | [Rotting oranges](https://leetcode.com/problems/rotting-oranges) | [C++](./C++/LeetCode/0994.cpp) |||🟡|||
 | 0116 | [Polpulating next right pointers in each node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [C++](./C++/LeetCode/0116.cpp) |||🟡|||
 | 0542 | [01 matrix](https://leetcode.com/problems/01-matrix) | [C++](./C++/LeetCode/0542.cpp) |||🟡|||
+</details>
 
 <br/>
 <div align="right">
@@ -741,6 +797,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Strings
+
+<details>
+    <summary><b>PROBLEMS on strings</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-29-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -774,6 +835,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/LeetCode/0076.cpp) |||🔴|||
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/LeetCode/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
 | 1044 | [Longest duplicate substring](https://leetcode.com/problems/longest-duplicate-substring) | [C++](./C++/LeetCode/1044.cpp) |||🔴||Very hard,<br>rolling hash (sliding window)|
+</details>
 
 <br/>
 <div align="right">
@@ -782,6 +844,11 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Two pointers
+
+<details>
+    <summary><b>PROBLEMS on two pointers</b></summary>
+<br>
+
 ![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -794,6 +861,8 @@ Stacks can be implemeted in 2 ways :-<br>
 |0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
 |0986  | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
 | 0844 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare) | [C++](./C++/LeetCode/0844.cpp) |||🟡|||
+
+</details>
 
 <br/>
 <div align="right">

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-353-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-354-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -548,6 +548,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0106 | [Construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [C++](./C++/LeetCode/0106.cpp) |||🟡|||
 | 0979 | [Distribute coins in binary tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) | [C++](./C++/LeetCode/0979.cpp) |||🟡|||
 | 0654 | [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree) | [C++](./C++/LeetCode/0654.cpp) |||🟡|||
+| 1305 | [All elements in two binary search trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [C++](./C++/LeetCode/1305.cpp) |||🟡|||
 | 0662 | [Maximum width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [C++](./C++/LeetCode/0662.cpp) |||🟡|||
 | 0687 | [Longest univalue path](https://leetcode.com/problems/longest-univalue-path) | [C++](./C++/LeetCode/0687.cpp) |||🟡|||
 | 0129 | [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [C++](./C++/LeetCode/0129.cpp) |||🟡|||

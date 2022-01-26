@@ -67,22 +67,26 @@ Use the index given below to search for problems and solutions. Problems are arr
 
 <details>
     <summary><b>What is data structure(DS)?</b></summary>
-A way of organizing data, so it can be used effectively.
 <br>
+
+* A way of organizing data, so it can be used effectively
 </details>
 <details>
     <summary><b>Why do we use them?</b></summary>
-    
+<br>
+
 * To create fast and powerful algorithms
 * To make code easier for understanding
 <br>
 </details>
 <details>
     <summary><b>What is abstract data type(ADT)?</b></summary>
-    
-An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.<br>
-ADTs are implemented using data structures.<br>
 <br>
+
+* An abstraction of a DS which provides only an interface. An interface is not specific to any programming language, instead, it's completely free of all of them.
+* ADTs are implemented using data structures
+<br>
+
 Some examples are :
 
 |  #  | ADT        |  Implementation(DS) |
@@ -103,7 +107,8 @@ Some examples are :
 
 <details>
     <summary><b>What is Big-O and why do we use it?</b></summary>
-    
+<br>
+
 Big-O notation helps us identify the time and space complexity of an algorithm. There are many other notations as well, like, Big-Theta, or, Big-Omega, but we use Big-O because it deals with the worst case scenario of an algorithm, i.e., when the size of input tends to infinity.<br>
 
 Size of input is denoted by 'n'.
@@ -111,6 +116,7 @@ Size of input is denoted by 'n'.
 </details>
 <details>
     <summary><b>Ascending order of complexity</b></summary>
+<br>
 
 |  #  | Notation        |  Name        |  Example (time)   |
 |:-----:|---------------| -----------  | ----------- |
@@ -137,12 +143,14 @@ Size of input is denoted by 'n'.
 
 <details>
 <summary><b>Property</b></summary>
-    
-Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array.
+<br>
+
+* Each and every element is indexable(can be referenced with a number) from range 0 to n-1. 'n' is the size of array.
 <br>    
 </details>
 <details>
 <summary><b>Used</b></summary>
+<br>
     
 * for sorting
 * to access sequential data
@@ -150,13 +158,15 @@ Each and every element is indexable(can be referenced with a number) from range 
 * as lookup / inverse lookup tables
 * to return multiple values from a function
 * as *cache* in dynamic programming
+<br>
 </details>
 <details>
     <summary><b>Types of arrays</b></summary>
-
+<br>
+    
 * Static : fixed length<br>
-
-* Dynamic : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied. 
+* Dynamic : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied.
+<br>
 </details>
 <details>
 <summary><b>PROBLEMS on arrays</b></summary>
@@ -269,28 +279,34 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <details>
     <summary><b>What is it?</b></summary>
-
-A sequential list of data holding nodes that point to other nodes.
+<br>
+    
+* A sequential list of data holding nodes that point to other nodes.
 <br>
 </details>
 <details>
     <summary><b>Uses</b></summary>
-
+<br>
+    
 * Stack, queue, list, circular list implementation
 * Adjancy list for graphs
 * Separate chaining to deal with hashing collisions
+<br>
 </details>
 <details>
     <summary><b>Properties</b></summary>
+<br>
 
-* __Node__ : contains data and pointer <br>
-* __Pointer__ : reference to another node <br>
-* __Head__ : first node in the list <br>
-* __Tail__ : last node in the list <br>
+* __Node__ : contains data and pointer
+* __Pointer__ : reference to another node
+* __Head__ : first node in the list
+* __Tail__ : last node in the list
+<br>
 </details>
 <details>
     <summary><b>Types</b></summary>
-
+<br>
+    
 * Singly linked list : reference to next node only
 * Doubly linked list : reference to next and previous nodes
     
@@ -298,10 +314,12 @@ A sequential list of data holding nodes that point to other nodes.
 |-----| --------------- | -----------  | 
 |  Singly  |  Less memory usage, <br> Simple implementation | Difficult to access previous element    |
 |  Doubly  |  Backward traversal possible          | Takes much more memory <br> (Pointers can take lot of memory) | 
+<br>
 </details>
 <details>
     <summary><b>Complexity Analysis</b></summary>
-
+<br>
+    
 | Action | Singly LL | Doubly LL  |
 |-----|:---------------:|:-----------:| 
 | Search | O (n) | O (n) |
@@ -310,6 +328,7 @@ A sequential list of data holding nodes that point to other nodes.
 | Remove at head | O (1) | O (1) |
 | Remove at tail | O (n) | O (1) |
 | Remove in between | O (n) | O (n) |
+<br>
 </details>
 <details>
     <summary><b>PROBLEMS on linked lists</b></summary>

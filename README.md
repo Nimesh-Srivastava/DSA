@@ -14,7 +14,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 
 ## 💢 Index
 
-<details>
+<details open>
     <summary><b>Theory</b></summary>
 <br>
 
@@ -22,7 +22,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Big-O Notation](#-the-big-o-notation)
 <br>
 </details>
-<details>
+<details open>
     <summary><b>Data Structures</b></summary>
 <br>
 
@@ -35,7 +35,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Graph](#-graph)
 <br>
 </details>
-<details>
+<details open>
     <summary><b>Algorithms</b></summary>
 <br>
 
@@ -50,7 +50,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Backtracking](#-backtracking)
 <br>
 </details>
-<details>
+<details open>
     <summary><b>Extra</b></summary>
 <br>
 

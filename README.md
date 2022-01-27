@@ -782,7 +782,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0733 | [Flood fill](https://leetcode.com/problems/flood-fill) | [C++](./C++/LeetCode/0733.cpp) |||🟢|||
 | 0079 | [Word search](https://leetcode.com/problems/word-search) | [C++](./C++/LeetCode/0079.cpp) |||🟡||Optimised for space|
 | 0695 | [Max area of island](https://leetcode.com/problems/max-area-of-island) | [C++](./C++/LeetCode/0695.cpp) |||🟡|||
-| 0130 | [Surrounding regions](https://leetcode.com/problems/surrounded-regions) | [C++](./C++/LeetCode/0130.cpp) |||🟡|||
+| 0130 | [Surrounded regions](https://leetcode.com/problems/surrounded-regions) | [C++](./C++/LeetCode/0130.cpp) |||🟡|||
 | 0337 | [House robber III](https://leetcode.com/problems/house-robber-iii) | [C++](./C++/LeetCode/0337.cpp) |||🟡|||
 | 1306 | [Jump game III](https://leetcode.com/problems/jump-game-iii) | [C++](./C++/LeetCode/1306.cpp) |||🟡|||
 | 1291 | [Sequential digits](https://leetcode.com/problems/sequential-digits) | [C++](./C++/LeetCode/1291.cpp) |||🟡|||

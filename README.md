@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-357-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-358-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -803,7 +803,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on BFS</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -811,6 +811,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0116 | [Polpulating next right pointers in each node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [C++](./C++/LeetCode/0116.cpp) |||🟡|||
 | 0542 | [01 matrix](https://leetcode.com/problems/01-matrix) | [C++](./C++/LeetCode/0542.cpp) |||🟡|||
 | 0117 | [Populating next right pointers in each node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [C++](./C++/LeetCode/0117.cpp) |||🟡|||
+| 1091 | [Shortest path in binary matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [C++](./C++/LeetCode/1091.cpp) |||🟡|||
 </details>
 
 <br/>

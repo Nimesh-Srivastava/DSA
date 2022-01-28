@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-85-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -252,7 +252,6 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0950 | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/LeetCode/0950.cpp) |||🟡|||
 | 1343 | [Number of sub-arrays of size k and average greater than or equal to threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [C++](./C++/LeetCode/1343.cpp) |||🟡|||
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | [C++](./C++/LeetCode/0078.cpp) |||🟡|||
-| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [C++](./C++/LeetCode/0047.cpp) |||🟡|||
 | 0347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements) | [C++](./C++/LeetCode/0347.cpp) |||🟡|||
 | 1010 | [Pairs of songs with total durations divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [C++](./C++/LeetCode/1010.cpp) |||🟡|||
@@ -914,7 +913,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Backtracking
-![Count](https://img.shields.io/badge/Count-6-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -923,6 +922,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0784 | [Letter case permutation](https://leetcode.com/problems/letter-case-permutation) | [C++](./C++/LeetCode/0784.cpp) |||🟡|||
 | 1286 | [Iterator for combination](https://leetcode.com/problems/iterator-for-combination) | [C++](./C++/LeetCode/1286.cpp) |||🟡|||
 | 0131 | [Palindrome partitioning](https://leetcode.com/problems/palindrome-partitioning) | [C++](./C++/LeetCode/0131.cpp) |||🟡|||
+| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [C++](./C++/LeetCode/0051.cpp) |||🔴||Typical, Important|
 
 <br/>

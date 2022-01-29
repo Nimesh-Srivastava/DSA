@@ -1,3 +1,4 @@
+//Solution 1 :-
 class Solution {
 public:
   void backtrack(vector<int> &arr, vector<vector<int>> &ans, vector<int> &curr,
@@ -24,4 +25,36 @@ public:
     backtrack(arr, ans, curr, used);
     return ans;
   }
+};
+
+
+//Solution 2 :-
+class Solution {
+public:
+    void generatePermutations(vector<int> nums, vector<vector<int>>& output, int idx) {
+        
+        if (idx == size(nums))
+            output.emplace_back(nums);
+            
+        for (int i = idx; i < size(nums); ++i) {
+            
+            if (i != idx && nums[i] == nums[idx])
+                continue;
+            
+            swap(nums[i], nums[idx]);
+            
+            generatePermutations(nums, output, idx + 1);
+        }
+    }
+    
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+        
+        vector<vector<int>> result;
+        
+        sort(begin(nums), end(nums));
+        
+        generatePermutations(nums, result, 0);
+        
+        return result;
+    }
 };

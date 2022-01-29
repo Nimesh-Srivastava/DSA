@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-359-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-360-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -485,7 +485,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 <br>
     
-![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -499,6 +499,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1249 | [Minimum remove to make valid parantheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [C++](./C++/LeetCode/1249.cpp) |||🟡|||
 | 0739 | [Daily temperatures](https://leetcode.com/problems/daily-temperatures) | [C++](./C++/LeetCode/0739.cpp) |||🟡|||
 | 0227 | [Basic calculator II](https://leetcode.com/problems/basic-calculator-ii) | [C++](./C++/LeetCode/0227.cpp) |||🟡|||
+| 0084 | [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [C++](./C++/LeetCode/0084.cpp) |||🔴|||
     
 </details>
 

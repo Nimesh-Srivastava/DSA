@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-360-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-361-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -915,7 +915,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Backtracking
-![Count](https://img.shields.io/badge/Count-7-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -925,6 +925,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1286 | [Iterator for combination](https://leetcode.com/problems/iterator-for-combination) | [C++](./C++/LeetCode/1286.cpp) |||🟡|||
 | 0131 | [Palindrome partitioning](https://leetcode.com/problems/palindrome-partitioning) | [C++](./C++/LeetCode/0131.cpp) |||🟡|||
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [C++](./C++/LeetCode/0090.cpp) |||🟡|||
+| 0017 | [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](./C++/LeetCode/0017.cpp) |||🟡|||
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [C++](./C++/LeetCode/0051.cpp) |||🔴||Typical, Important|
 
 <br/>

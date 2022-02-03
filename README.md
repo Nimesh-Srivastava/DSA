@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-362-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-363-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-85-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -238,6 +238,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0215 | [K-th largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./C++/LeetCode/0215.cpp) |||🟡|||
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | [C++](./C++/LeetCode/0015.cpp) |||🟡||Two pointer|
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | [C++](./C++/LeetCode/0018.cpp) |||🟡|||
+| 0454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | [C++](./C++/LeetCode/0454.cpp) |||🟡|||
 | 0039 | [Combination sum](https://leetcode.com/problems/combination-sum) | [C++](./C++/LeetCode/0039.cpp) |||🟡|||
 | 0048 | [Rotate image](https://leetcode.com/problems/rotate-image) | [C++](./C++/LeetCode/0048.cpp) |||🟡|||
 | 1094 | [Car pooling](https://leetcode.com/problems/car-pooling) | [C++](./C++/LeetCode/1094.cpp) |||🟡|||

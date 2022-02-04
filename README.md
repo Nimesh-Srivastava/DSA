@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-363-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-364-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-86-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-87-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -226,6 +226,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0334 | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/LeetCode/0334.cpp) |||🟡|||
 | 0075 | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/LeetCode/0075.cpp) |||🟡|||
 | 0134 | [Gas station](https://leetcode.com/problems/gas-station) | [C++](./C++/LeetCode/0134.cpp) |||🟡|||
+| 0525 | [Contiguous array](https://leetcode.com/problems/contiguous-array) | [C++](./C++/LeetCode/0525.cpp) |||🟡|||
 | 0849 | [Maximize distant to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person) | [C++](./C++/LeetCode/0849.cpp) |||🟡|||
 | 0973 | [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin) | [C++](./C++/LeetCode/0973.cpp) |||🟡|||
 | 0560 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k) | [C++](./C++/LeetCode/0560.cpp) |||🟡|||

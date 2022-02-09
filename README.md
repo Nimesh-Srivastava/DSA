@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-365-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-366-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-87-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-88-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -186,6 +186,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1672 | [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./C++/LeetCode/1672.cpp) |||🟢||matrix|
 | 0566 | [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix) | [C++](./C++/LeetCode/0566.cpp) |||🟢|||
 | 1470 | [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) | [C++](./C++/LeetCode/1470.cpp) |||🟢|||
+| 0532 | [K-diff pairs in an array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [C++](./C++/LeetCode/0532.cpp) |||🟢|||
 | 1200 | [Minimum absolute difference](https://leetcode.com/problems/minimum-absolute-difference) | [C++](./C++/LeetCode/1200.cpp) |||🟢|||
 | 1217 | [Minimum cost to move chips to the same position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [C++](./C++/LeetCode/1217.cpp) |||🟢|||
 | 1431 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [C++](./C++/LeetCode/1431.cpp)|||🟢|||

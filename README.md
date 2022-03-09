@@ -650,7 +650,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on dynamic programming</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-55-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-56-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|

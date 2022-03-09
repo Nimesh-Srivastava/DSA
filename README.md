@@ -666,6 +666,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0392 | [Is subsequence](https://leetcode.com/problems/is-subsequence) | [C++](./C++/LeetCode/0392.cpp) |||🟢|||
 | 0062 | [Unique paths](https://leetcode.com/problems/unique-paths) | [C++](./C++/LeetCode/0062.cpp) |||🟡|||
 | 0063 | [Unique paths II](https://leetcode.com/problems/unique-paths-ii) | [C++](./C++/LeetCode/0063.cpp) |||🟡|||
+| 0799 | [Champagne tower](https://leetcode.com/problems/champagne-tower) | [C++](./C++/LeetCode/0799.cpp) |||🟡|||
 | 0918 | [Maximum sum circular subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | [C++](./C++/LeetCode/0918.cpp) |||🟡|||
 | 0152 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray) | [C++](./C++/LeetCode/0152.cpp) |||🟡|||
 | 1567 | [Maximum length of subarray with positive product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product) | [C++](./C++/LeetCode/LeetCode/1567.cpp) |||🟡|||

@@ -834,7 +834,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-31-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-32-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -846,6 +846,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0067 | [Add binary](https://leetcode.com/problems/add-binary) | [C++](./C++/LeetCode/0067.cpp) |||🟢|||
 | 0520 | [Detect capital](https://leetcode.com/problems/detect-capital) | [C++](./C++/LeetCode/0520.cpp) |||🟢|||
 | 1446 | [Consecutive characters](https://leetcode.com/problems/consecutive-characters) | [C++](./C++/LeetCode/1446.cpp) |||🟢|||
+| 0680 | [Valid palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [C++](./C++/LeetCode/0680.cpp) |||🟢|||
 | 0415 | [Add strings](https://leetcode.com/problems/add-strings) | [C++](./C++/LeetCode/0415.cpp) |||🟡|||
 | 0409 | [Longest palindrome](https://leetcode.com/problems/longest-palindrome) | [C++](./C++/LeetCode/0409.cpp) |||🟡|||
 | 0394 | [Decode string](https://leetcode.com/problems/decode-string) | [C++](./C++/LeetCode/0394.cpp) |||🟡|||

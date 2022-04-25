@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-90-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-91-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -227,6 +227,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1909 | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/LeetCode/1909.cpp) |||🟢|||
 | 0334 | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/LeetCode/0334.cpp) |||🟡|||
 | 0075 | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/LeetCode/0075.cpp) |||🟡|||
+| 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [C++](./C++/LeetCode/0284.cpp) |||🟡|||
 | 0923 | [3Sum with multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [C++](./C++/LeetCode/0923.cpp) |||🟡|||
 | 0134 | [Gas station](https://leetcode.com/problems/gas-station) | [C++](./C++/LeetCode/0134.cpp) |||🟡|||
 | 0525 | [Contiguous array](https://leetcode.com/problems/contiguous-array) | [C++](./C++/LeetCode/0525.cpp) |||🟡|||

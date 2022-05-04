@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-375-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-376-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -886,17 +886,18 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on two pointers</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-9-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-|0977  | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/LeetCode/0977.cpp) |O(n)||🟢|||
-|0283  | [Move zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./C++/LeetCode/0283.cpp) |O(n)||🟢|||
-|0344 | [Reverse string](https://leetcode.com/problems/reverse-string) | [C++](./C++/LeetCode/0344.cpp) |||🟢|||
-|0557  | [Reverse in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C++](./C++/LeetCode/0557.cpp) |O(n)||🟢|||
-|0167  | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
-|0189  | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
-|0986  | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
+| 0977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array) | [C++](./C++/LeetCode/0977.cpp) |O(n)||🟢|||
+| 0283 | [Move zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./C++/LeetCode/0283.cpp) |O(n)||🟢|||
+| 0344 | [Reverse string](https://leetcode.com/problems/reverse-string) | [C++](./C++/LeetCode/0344.cpp) |||🟢|||
+| 0557 | [Reverse in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C++](./C++/LeetCode/0557.cpp) |O(n)||🟢|||
+| 0167 | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
+| 0189 | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
+| 1679 | [Max number of K-Sum pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [C++](./C++/LeetCode/1679.cpp) |||🟡|||
+| 0986 | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
 | 0844 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare) | [C++](./C++/LeetCode/0844.cpp) |||🟡|||
 
 </details>

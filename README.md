@@ -896,7 +896,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0557 | [Reverse in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [C++](./C++/LeetCode/0557.cpp) |O(n)||🟢|||
 | 0167 | [Two sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [C++](./C++/LeetCode/0167.cpp) |O(log n)||🟢|||
 | 0189 | [Rotate array](https://leetcode.com/problems/rotate-array) | [C++](./C++/LeetCode/0189.cpp) |||🟡|||
-| 1679 | [Max number of K-Sum pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [C++](./C++/LeetCode/1679.cpp) |||🟡|||
+| 1679 | [Max number of K-Sum pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [C++](./C++/LeetCode/1679.cpp) |O(n log n)||🟡|||
 | 0986 | [Interval list intersections](https://leetcode.com/problems/interval-list-intersections) | [C++](./C++/LeetCode/0986.cpp) |||🟡|||
 | 0844 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare) | [C++](./C++/LeetCode/0844.cpp) |||🟡|||
 

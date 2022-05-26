@@ -168,7 +168,7 @@ Size of input is denoted by 'n'.
 * Dynamic : variable length; implemented using static array; when size capacity is reached, a new static array of double size is created and elements are copied.
 <br>
 </details>
-<details>
+<details open>
 <summary><b>PROBLEMS on arrays</b></summary>
 <br>
 
@@ -335,7 +335,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | Remove in between | O (n) | O (n) |
 <br>
 </details>
-<details>
+<details open>
     <summary><b>PROBLEMS on linked lists</b></summary>
 
 <br>
@@ -488,7 +488,7 @@ Stacks can be implemeted in 2 ways :-<br>
             free(temp)
         }
 </details>
-<details>
+<details open>
     <summary><b>PROBLEMS on Stacks</b></summary>
 
 <br>
@@ -519,7 +519,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Queue
 
-<details>
+<details open>
     <summary><b>PROBLEMS on queue</b></summary>
 <br>
 
@@ -540,7 +540,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Tree
 
-<details>
+<details open>
     <summary><b>PROBLEMS on tree</b></summary>
 <br>
     
@@ -607,7 +607,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Trie
 
-<details>
+<details open>
     <summary><b>PROBLEMS on trie</b></summary>
 <br>
     
@@ -628,7 +628,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Graph
 
-<details>
+<details open>
     <summary><b>PROBLEMS on graph</b></summary>
 <br>
     
@@ -651,7 +651,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Dynamic Programming
 
-<details>
+<details open>
     <summary><b>PROBLEMS on dynamic programming</b></summary>
 <br>
 
@@ -725,7 +725,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Binary Search
 
-<details>
+<details open>
     <summary><b>PROBLEMS on binary search</b></summary>
 <br>
 
@@ -760,7 +760,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Sliding Window
 
-<details>
+<details open>
     <summary><b>PROBLEMS on sliding window</b></summary>
 <br>
     
@@ -782,7 +782,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Depth First Search
 
-<details>
+<details open>
     <summary><b>PROBLEMS on DFS</b></summary>
 <br>
 
@@ -812,7 +812,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Breadth First Search
 
-<details>
+<details open>
     <summary><b>PROBLEMS on BFS</b></summary>
 <br>
 
@@ -835,7 +835,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Strings
 
-<details>
+<details open>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
@@ -885,7 +885,7 @@ Stacks can be implemeted in 2 ways :-<br>
 
 ## 💢 Two pointers
 
-<details>
+<details open>
     <summary><b>PROBLEMS on two pointers</b></summary>
 <br>
 

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-380-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-381-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -912,7 +912,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Bit manipulation
-![Count](https://img.shields.io/badge/Count-8-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-9-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -920,6 +920,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits) | [C++](./C++/LeetCode/0191.cpp) |||🟢|||
 | 0190 | [Reverse bits](https://leetcode.com/problems/reverse-bits) | [C++](./C++/LeetCode/0190.cpp) |O(1)||🟢|||
 | 0461 | [Hamming distance](https://leetcode.com/problems/hamming-distance) | [C++](./C++/LeetCode/0461.cpp) |||🟢|||
+| 0268 | [Missing number](https://leetcode.com/problems/missing-number) | [C++](./C++/LeetCode/0268.cpp) |||🟢|||
 | 1342 | [Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [C++](./C++/LeetCode/1342.cpp) |||🟢|||
 | 1009 | [Complement of base 10 integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./C++/LeetCode/1009.cpp) |||🟢||2 solutions|
 | 0260 | [Single number III](https://leetcode.com/problems/single-number-iii) | [C++](./C++/LeetCode/0260.cpp) |O(1)||🟡|||

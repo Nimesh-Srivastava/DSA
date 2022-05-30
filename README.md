@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-381-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-382-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -912,7 +912,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Bit manipulation
-![Count](https://img.shields.io/badge/Count-10-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-11-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -925,6 +925,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1009 | [Complement of base 10 integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./C++/LeetCode/1009.cpp) |||🟢||2 solutions|
 | 0260 | [Single number III](https://leetcode.com/problems/single-number-iii) | [C++](./C++/LeetCode/0260.cpp) |O(1)||🟡|||
 | 0318 | [Maximum product of word lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [C++](./C++/LeetCode/0318.cpp) |||🟡|||
+| 0029 | [Divide two integers](https://leetcode.com/problems/divide-two-integers) | [C++](./C++/LeetCode/0029.cpp) |O(1)||🟡|||
 | 1178 | [Number of valid words for each puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle) | [C++](./C++/LeetCode/1178.cpp) |||🔴|||
 
 <br/>

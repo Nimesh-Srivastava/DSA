@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-384-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-385-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -176,7 +176,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-92-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-93-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -200,6 +200,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1528 | [Shuffle string](https://leetcode.com/problems/shuffle-string) | [C++](./C++/LeetCode/1528.cpp) |||🟢|||
 | 1491 | [Average salary excluding the minimum and maximum salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [C++](./C++/LeetCode/1491.cpp) |||🟢|||
 | 0136 | [Single number](https://leetcode.com/problems/single-number) | [C++](./C++/LeetCode/0136.cpp) |||🟢|||
+| 1332 | [Remove palindromic subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [C++](./C++/LeetCode/0136.cpp) |||🟢|||
 | 1720 | [Decode XORed array](https://leetcode.com/problems/decode-xored-array) | [C++](./C++/LeetCode/1720.cpp) |||🟢||XOR property|
 | 0169 | [Majority element](https://leetcode.com/problems/majority-element) | [C++](./C++/LeetCode/0169.cpp) |||🟢||Moore's Voting algo|
 | 1313 | [Decompress run-length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list) | [C++](./C++/LeetCode/1313.cpp) |O(n^2)||🟢|||

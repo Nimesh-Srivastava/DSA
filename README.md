@@ -766,13 +766,14 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on sliding window</b></summary>
 <br>
     
-![Count](https://img.shields.io/badge/Count-3-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0438 | [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [C++](./C++/LeetCode/0438.cpp) |||🟡|||
 | 0713 | [Subarray product less than k](https://leetcode.com/problems/subarray-product-less-than-k) | [C++](./C++/LeetCode/0713.cpp) |||🟡|||
 | 0209 | [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [C++](./C++/LeetCode/0209.cpp) |||🟡|||
+| 1658 | [Minimum operations to reduce x to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [C++](./C++/LeetCode/1658.cpp) |||🟡|||
 
 </details>
 

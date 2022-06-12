@@ -995,7 +995,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-13-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -1010,6 +1010,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/LeetCode/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/LeetCode/0012.cpp) |||🟡|||
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
+| 1695 | [Maximum erasure value](https://leetcode.com/problems/maximum-erasure-value) | [C++](./C++/LeetCode/1695.cpp) |||🟡|||
 
 <br>
 

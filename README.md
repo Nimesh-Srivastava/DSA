@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-387-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-388-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -657,7 +657,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on dynamic programming</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-56-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-57-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -687,6 +687,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0055.cpp) |||🟡|||
 | 0045 | [Jump game II](https://leetcode.com/problems/jump-game-ii) | [C++](./C++/LeetCode/0045.cpp) |||🟡|||
 | 0139 | [Word break](https://leetcode.com/problems/word-break) | [C++](./C++/LeetCode/0139.cpp) |||🟡|||
+| 1048 | [Longest string chain](https://leetcode.com/problems/longest-string-chain) | [C++](./C++/LeetCode/1048.cpp) |||🟡|||
 | 0309 | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)| [C++](./C++/LeetCode/0309.cpp) |||🟡|||
 | 0714 | [Best time to buy and sell stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./C++/LeetCode/0714.cpp) |||🟡|||
 | 0413 | [Arithmetic slices](https://leetcode.com/problems/arithmetic-slices) | [C++](./C++/LeetCode/0413.cpp) |||🟡|||

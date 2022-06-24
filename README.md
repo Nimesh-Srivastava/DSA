@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-390-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-391-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -532,6 +532,26 @@ Stacks can be implemeted in 2 ways :-<br>
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0225 | [Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues)| [C++](./C++/LeetCode/0225.cpp) |||🟢|||
 | 1823 | [Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [C++](./C++/LeetCode/1823.cpp) |||🟡|||
+
+</details>
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## 💢 Heap
+
+<details open>
+    <summary><b>PROBLEMS on heap</b></summary>
+<br>
+
+![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+
+|  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
+|:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
+| 1354 | [Construct target array with multiple sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)| [C++](./C++/LeetCode/0225.cpp) |||🔴|||
 
 </details>
 

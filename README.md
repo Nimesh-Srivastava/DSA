@@ -30,7 +30,7 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-stacks)<br>
 * [Queues](#-queue)<br>
-* [Heap(prority queue)](#-heap)<br>
+* [Heap (Prority queue)](#-heap)<br>
 * [Tree](#-tree)<br>
 * [Trie (Prefix tree)](#-trie)<br>
 * [Graph](#-graph)

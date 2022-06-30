@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-393-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-394-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-95-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-96-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -269,6 +269,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1248 | [Count number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | [C++](./C++/LeetCode/1248.cpp) |||🟡|||
 | 0523 | [Continuous subarray sum](https://leetcode.com/problems/continuous-subarray-sum) | [C++](./C++/LeetCode/0523.cpp) |||🟡|||
 | 0031 | [Next permutation](https://leetcode.com/problems/next-permutation) | [C++](./C++/LeetCode/0031.cpp) |||🟡|||
+| 0406 | [Queue reconstruction by height](https://leetcode.com/problems/queue-reconstruction-by-height) | [C++](./C++/LeetCode/0406.cpp) |||🟡|||
 | 0287 | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./C++/LeetCode/0287.cpp) |||🟡|||
 | 0721 | [Accounts merge](https://leetcode.com/problems/accounts-merge) | [C++](./C++/LeetCode/0721.cpp) |||🟡||Union find|
 | 0154 | [Find minimum in rotated sorted array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | [C++](./C++/LeetCode/0154.cpp) ||| 🔴|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-394-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-395-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-96-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-97-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -258,6 +258,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0036 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | [C++](./C++/LeetCode/0036.cpp) |||🟡||hash maps, or<br>2D array|
 | 0011 | [Container with most water](https://leetcode.com/problems/container-with-most-water) | [C++](./C++/LeetCode/0011.cpp) |||🟡|||
 | 0204 | [Count primes](https://leetcode.com/problems/count-primes) | [C++](./C++/LeetCode/0204.cpp) |||🟡|||
+| 0462 | [Minimum moves to equal array elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [C++](./C++/LeetCode/0462.cpp) |||🟡|||
 | 0238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./C++/LeetCode/0238.cpp) |||🟡|||
 | 0128 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./C++/LeetCode/0128.cpp) |||🟡|||
 | 0950 | [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [C++](./C++/LeetCode/0950.cpp) |||🟡|||

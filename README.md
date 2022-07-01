@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-395-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-396-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-97-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-98-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -226,6 +226,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | [C++](./C++/LeetCode/0066.cpp) |||🟢|||
 | 0088 | [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) | [C++](./C++/LeetCode/0088.cpp) |||🟢|||
 | 0645 | [Set mismatch](https://leetcode.com/problems/set-mismatch) | [C++](./C++/LeetCode/0645.cpp) |||🟢|||
+| 1710 | [Maximum units on a truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [C++](./C++/LeetCode/1710.cpp) |||🟢|||
 | 0414 | [Third maximum number](https://leetcode.com/problems/third-maximum-number) | [C++](./C++/LeetCode/0414.cpp) |||🟢|||
 | 1909 | [Remove one element to make array strictly increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) | [C++](./C++/LeetCode/1909.cpp) |||🟢|||
 | 1423 | [Maximum points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [C++](./C++/LeetCode/1423.cpp) |||🟡|||

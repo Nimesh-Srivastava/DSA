@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-398-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-399-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -685,7 +685,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on dynamic programming</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-58-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-59-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -741,6 +741,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0416 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum) | [C++](./C++/LeetCode/0416.cpp) |||🟡|||
 | 0576 | [Out of boundary paths](https://leetcode.com/problems/out-of-boundary-paths) | [C++](./C++/LeetCode/0576.cpp) |||🟡|||
 | 1510 | [Stone game IV](https://leetcode.com/problems/stone-game-iv) | [C++](./C++/LeetCode/1510.cpp) |||🔴|||
+| 0629 | [K inverse pairs array](https://leetcode.com/problems/k-inverse-pairs-array) | [C++](./C++/LeetCode/0629.cpp) |||🔴|||
 | 0123 | [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [C++](./C++/LeetCode/0123.cpp) |||🔴|||
 | 0085 | [Maximal rectangle](https://leetcode.com/problems/maximal-rectangle) | [C++](./C++/LeetCode/0085.cpp) |||🔴|||
 | 0174 | [Dungeon game](https://leetcode.com/problems/dungeon-game) | [C++](./C++/LeetCode/0174.cpp) |||🔴|||

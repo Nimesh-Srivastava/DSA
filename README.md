@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-399-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-400-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-98-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-99-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -279,6 +279,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0239 | [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum) | [C++](./C++/LeetCode/0239.cpp) |||🔴|||
 | 0004 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [C++](./C++/LeetCode/0004.cpp) |||🔴||binary search,<br>careful of bounds|
 | 0992 | [Subarrays with k different integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | [C++](./C++/LeetCode/0992.cpp) |||🔴|||
+| 1074 | [Number of submatrices that sum to target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [C++](./C++/LeetCode/1074.cpp) |O(n2*m)||🔴||prefix sum|
 
 </details>
     

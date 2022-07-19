@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-400-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-401-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -874,12 +874,13 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-32-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-33-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 0389 | [Find the difference](https://leetcode.com/problems/find-the-difference) | [C++](./C++/LeetCode/0389.cpp) |||🟢|||
 | 0242 | [Valid anagram](https://leetcode.com/problems/valid-anagram) | [C++](./C++/LeetCode/0242.cpp) |||🟢|||
+| 0014 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix) | [C++](./C++/LeetCode/0014.cpp) |||🟢|||
 | 0387 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string) | [C++](./C++/LeetCode/0387.cpp) |||🟢|||
 | 0383 | [Ransom note](https://leetcode.com/problems/ransom-note) | [C++](./C++/LeetCode/0383.cpp) |||🟢|||
 | 0290 | [Word pattern](https://leetcode.com/problems/word-pattern) | [C++](./C++/LeetCode/0290.cpp) |||🟢|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-404-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-405-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -1056,7 +1056,8 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | [C++](./C++/Codeforces/1343A.cpp) |||🟢||bruteforce, <br>math|
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | [C++](./C++/Codeforces/1525B.cpp) |||🟢||greedy|
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/Codeforces/451A.cpp) |||🟢|||
-| 806A | [Yes or yes](https://codeforces.com/contest/1703/problem/A) | [C++](./C++/Codeforces/806A.cpp) |||🟢|||
+| 1703A | [Yes or yes](https://codeforces.com/contest/1703/problem/A) | [C++](./C++/Codeforces/1703/1703A.cpp) |||🟢|#806,<br>div4||
+| 1703B | [ICPC balloons](https://codeforces.com/contest/1703/problem/B) | [C++](./C++/Codeforces/1703/1703B.cpp) |||🟢|#806,<br>div4||
 
 <br/>
 <div align="right">

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-405-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-406-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -1031,7 +1031,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -1058,6 +1058,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 451A | [Game with Sticks](https://codeforces.com/contest/451/problem/A) | [C++](./C++/Codeforces/451A.cpp) |||🟢|||
 | 1703A | [Yes or yes](https://codeforces.com/contest/1703/problem/A) | [C++](./C++/Codeforces/1703/1703A.cpp) |||🟢|div4||
 | 1703B | [ICPC balloons](https://codeforces.com/contest/1703/problem/B) | [C++](./C++/Codeforces/1703/1703B.cpp) |||🟢|div4||
+| 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | [C++](./C++/Codeforces/1703/1703C.cpp) |||🟢|div4||
 
 <br/>
 <div align="right">

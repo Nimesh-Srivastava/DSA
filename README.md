@@ -1031,7 +1031,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-14-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-16-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |

@@ -1,4 +1,4 @@
-//Solution 1 :-
+// Solution 1 :-
 class Solution {
 public:
   vector<int> searchRange(vector<int> &arr, int target) {
@@ -35,7 +35,8 @@ public:
   }
 };
 
-//Solution 2 :-
+
+// Solution 2 :-
 class Solution {
 public:
     int bSearch(vector<int>& nums, int target, string pos){
@@ -69,5 +70,35 @@ public:
     
     vector<int> searchRange(vector<int>& nums, int target) {
         return {bSearch(nums, target, "one"), bSearch(nums, target, "two")};   
+    }
+};
+
+
+// Solution 3 :-
+class Solution {
+public:
+    vector<int> searchRange(vector<int>& nums, int target) {
+        
+        int p1 = -1;
+        for(int i = 0; i < nums.size(); i++) {
+            if (nums[i] == target) {
+                p1 = i;
+                break;
+            }
+        }
+        
+        int p2 = p1;
+        
+        if (p1 == -1)
+            return {-1, -1};
+        
+        while(nums[p2] == target) {
+            p2++;
+            
+            if (p2 >= nums.size())
+                break;
+        }
+        
+        return {p1, p2 - 1};
     }
 };

@@ -369,7 +369,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0143 | [Reorder list](https://leetcode.com/problems/reorder-list) | [C++](./C++/LeetCode/0143.cpp) |||🟡|||
 | 0148 | [Sort list](https://leetcode.com/problems/sort-list) | [C++](./C++/LeetCode/0148.cpp) |||🟡|||
 | 0086 | [Partition list](https://leetcode.com/problems/partition-list) | [C++](./C++/LeetCode/0086.cpp) |||🟡|||
-| 0114 | [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [C++](./C++/LeetCode/0114.cpp) |||🟡|||
+| 0114 | [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [C++](./C++/LeetCode/0114.cpp) |||🟡||Morris traversal|
 | 1669 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](./C++/LeetCode/1669.cpp) |||🟡|||
 | 0019 | [Remove n-th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/LeetCode/0019.cpp) |||🟡|||
 | 1721 | [Swapping nodes in a linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./C++/LeetCode/1721.cpp) |||🟡|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-406-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-407-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -349,7 +349,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-31-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-32-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -369,6 +369,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0143 | [Reorder list](https://leetcode.com/problems/reorder-list) | [C++](./C++/LeetCode/0143.cpp) |||🟡|||
 | 0148 | [Sort list](https://leetcode.com/problems/sort-list) | [C++](./C++/LeetCode/0148.cpp) |||🟡|||
 | 0086 | [Partition list](https://leetcode.com/problems/partition-list) | [C++](./C++/LeetCode/0086.cpp) |||🟡|||
+| 0114 | [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [C++](./C++/LeetCode/0114.cpp) |||🟡|||
 | 1669 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists) | [C++](./C++/LeetCode/1669.cpp) |||🟡|||
 | 0019 | [Remove n-th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/LeetCode/0019.cpp) |||🟡|||
 | 1721 | [Swapping nodes in a linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [C++](./C++/LeetCode/1721.cpp) |||🟡|||

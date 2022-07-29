@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-408-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-409-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -877,7 +877,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-34-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-35-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -894,6 +894,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0415 | [Add strings](https://leetcode.com/problems/add-strings) | [C++](./C++/LeetCode/0415.cpp) |||🟡|||
 | 0409 | [Longest palindrome](https://leetcode.com/problems/longest-palindrome) | [C++](./C++/LeetCode/0409.cpp) |||🟡|||
 | 0394 | [Decode string](https://leetcode.com/problems/decode-string) | [C++](./C++/LeetCode/0394.cpp) |||🟡|||
+| 0890 | [Find and replace pattern](https://leetcode.com/problems/find-and-replace-pattern) | [C++](./C++/LeetCode/0890.cpp) |||🟡|||
 | 1663 | [Smallest string with a given numeric value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | [C++](./C++/LeetCode/1663.cpp) |||🟡|||
 | 0003 | [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./C++/LeetCode/0003.cpp) |||🟡||sliding window|
 | 0567 | [Permutation in string](https://leetcode.com/problems/permutation-in-string) | [C++](./C++/LeetCode/0567.cpp) |||🟡||sliding window|

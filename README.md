@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-407-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-408-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -29,11 +29,11 @@ Use the index given below to search for problems and solutions. Problems are arr
 * [Arrays](#-arrays)<br>
 * [Linked Lists](#-linked-lists)<br>
 * [Stacks](#-stacks)<br>
-* [Queues](#-queue)<br>
-* [Heap (Prority queue)](#-heap)<br>
-* [Tree](#-tree)<br>
-* [Trie (Prefix tree)](#-trie)<br>
-* [Graph](#-graph)
+* [Queues](#-queues)<br>
+* [Heaps (Prority queues)](#-heaps)<br>
+* [Trees](#-trees)<br>
+* [Tries (Prefix trees)](#-tries)<br>
+* [Graphs](#-graphs)
 <br>
 </details>
 <details open>
@@ -528,10 +528,10 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 Queue
+## 💢 Queues
 
 <details open>
-    <summary><b>PROBLEMS on queue</b></summary>
+    <summary><b>PROBLEMS on queues</b></summary>
 <br>
 
 ![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
@@ -549,10 +549,10 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 Heap
+## 💢 Heaps
 
 <details open>
-    <summary><b>PROBLEMS on heap</b></summary>
+    <summary><b>PROBLEMS on heaps</b></summary>
 <br>
 
 ![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
@@ -569,13 +569,13 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 Tree
+## 💢 Trees
 
 <details open>
-    <summary><b>PROBLEMS on tree</b></summary>
+    <summary><b>PROBLEMS on trees</b></summary>
 <br>
     
-![Count](https://img.shields.io/badge/Count-50-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-51-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -591,6 +591,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0617 | [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](./C++/LeetCode/0617.cpp) |||🟢|||
 | 0404 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves) | [C++](./C++/LeetCode/0404.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/LeetCode/0112.cpp) |||🟢|||
+| 0589 | [N-ary tree preorder traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [C++](./C++/LeetCode/0589.cpp) |||🟢|||
 | 0572 | [Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree) | [C++](./C++/LeetCode/0572.cpp) |||🟢|||
 | 1022 | [Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [C++](./C++/LeetCode/1022.cpp) |||🟢|||
 | 0938 | [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [C++](./C++/LeetCode/0938.cpp) |||🟢|||
@@ -637,10 +638,10 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 Trie
+## 💢 Tries
 
 <details open>
-    <summary><b>PROBLEMS on trie</b></summary>
+    <summary><b>PROBLEMS on tries</b></summary>
 <br>
     
 ![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
@@ -659,10 +660,10 @@ Stacks can be implemeted in 2 ways :-<br>
 </div>
 <br/>
 
-## 💢 Graph
+## 💢 Graphs
 
 <details open>
-    <summary><b>PROBLEMS on graph</b></summary>
+    <summary><b>PROBLEMS on graphs</b></summary>
 <br>
     
 ![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;

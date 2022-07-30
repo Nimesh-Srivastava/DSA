@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-409-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-410-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -877,7 +877,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-35-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-36-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -910,6 +910,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0008 | [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [C++](./C++/LeetCode/0008.cpp) |||🟡|||
 | 2038 | [Remove colored pieces if both neighbors are the same color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [C++](./C++/LeetCode/2038.cpp) |||🟡|||
 | 0049 | [Group anagrams](https://leetcode.com/problems/group-anagrams) | [C++](./C++/LeetCode/0049.cpp) |||🟡|||
+| 0916 | [Word subsets](https://leetcode.com/problems/word-subsets) | [C++](./C++/LeetCode/0916.cpp) |||🟡||Hash maps|
 | 0792 | [Number of matching subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [C++](./C++/LeetCode/0792.cpp) |||🟡|||
 | 0043 | [Multiply strings](https://leetcode.com/problems/multiply-strings) | [C++](./C++/LeetCode/0043.cpp) |||🟡|||
 | 0187 | [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences) | [C++](./C++/LeetCode/0187.cpp) |||🟡|||

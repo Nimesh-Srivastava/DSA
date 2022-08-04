@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-411-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-412-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -1050,6 +1050,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1523 | [Count odd numbers in an integer interval](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [C++](./C++/LeetCode/1523.cpp) |||🟢|||
 | 0201 | [Bitwise AND of number range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | [C++](./C++/LeetCode/0201.cpp) |||🟡|||
 | 0012 | [Integer to roman](https://leetcode.com/problems/integer-to-roman) | [C++](./C++/LeetCode/0012.cpp) |||🟡|||
+| 0858 | [Mirror reflection](https://leetcode.com/problems/mirror-reflection) | [C++](./C++/LeetCode/0858.cpp) |||🟡|||
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
 | 1695 | [Maximum erasure value](https://leetcode.com/problems/maximum-erasure-value) | [C++](./C++/LeetCode/1695.cpp) |||🟡|||
 

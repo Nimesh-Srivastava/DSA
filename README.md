@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-413-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-414-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-101-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-102-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -236,6 +236,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [C++](./C++/LeetCode/0284.cpp) |||🟡|||
 | 0923 | [3Sum with multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [C++](./C++/LeetCode/0923.cpp) |||🟡|||
 | 0134 | [Gas station](https://leetcode.com/problems/gas-station) | [C++](./C++/LeetCode/0134.cpp) |||🟡|||
+| 0054 | [Spiral matrix](https://leetcode.com/problems/spiral-matrix) | [C++](./C++/LeetCode/0054.cpp) |||🟡|||
 | 0525 | [Contiguous array](https://leetcode.com/problems/contiguous-array) | [C++](./C++/LeetCode/0525.cpp) |||🟡|||
 | 0849 | [Maximize distant to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person) | [C++](./C++/LeetCode/0849.cpp) |||🟡|||
 | 0973 | [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin) | [C++](./C++/LeetCode/0973.cpp) |||🟡|||

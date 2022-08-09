@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-414-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-415-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -692,7 +692,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on dynamic programming</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-59-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-60-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -719,6 +719,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0198 | [House robber](https://leetcode.com/problems/house-robber) | [C++](./C++/LeetCode/0198.cpp) |||🟡|||
 | 0213 | [House robber II](https://leetcode.com/problems/house-robber-ii) | [C++](./C++/LeetCode/0213.cpp) |||🟡|||
 | 0740 | [Delete and earn](https://leetcode.com/problems/delete-and-earn) | [C++](./C++/LeetCode/0740.cpp) |||🟡|||
+| 0823 | [Binary trees with factors](https://leetcode.com/problems/binary-trees-with-factors) | [C++](./C++/LeetCode/0823.cpp) |||🟡|||
 | 0055 | [Jump game](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0055.cpp) |||🟡|||
 | 0045 | [Jump game II](https://leetcode.com/problems/jump-game-ii) | [C++](./C++/LeetCode/0045.cpp) |||🟡|||
 | 0139 | [Word break](https://leetcode.com/problems/word-break) | [C++](./C++/LeetCode/0139.cpp) |||🟡|||

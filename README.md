@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-416-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-417-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -1040,13 +1040,14 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-17-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-18-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
 | 1925 | [Count square sum triplets](https://leetcode.com/problems/count-square-sum-triples) | [C++](./C++/LeetCode/1925.cpp) |||🟢|||
 | 0007 | [Reverse integer](https://leetcode.com/problems/reverse-integer) | [C++](./C++/LeetCode/0007.cpp) |||🟢|||
+| 0326 | [Power of three](https://leetcode.com/problems/power-of-three) | [C++](./C++/LeetCode/0326.cpp) |||🟢|||
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C++](./C++/LeetCode/0009.cpp) |||🟢|||
 | 0496 | [Next greater element I](https://leetcode.com/problems/next-greater-element-i) | [C++](./C++/LeetCode/0496.cpp) |||🟢||bruteforce, <br>stacks|
 | 0374 | [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [C++](./C++/LeetCode/0374.cpp) |||🟢|||

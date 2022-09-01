@@ -1,3 +1,4 @@
+// Solution 1 :-
 class Solution {
 private:
   int m_sum = 0;
@@ -16,4 +17,32 @@ public:
     countGood(root);
     return m_sum;
   }
+};
+
+
+// Solution 2 :-
+class Solution {
+public:
+    int traverse(TreeNode* root, int maxVal) {
+        
+        if (!root)
+            return 0;
+        
+        int goodNode = 0;
+        
+        if (root -> val >= maxVal) {
+            goodNode++;
+            maxVal = root -> val;
+        }
+        
+        return goodNode + traverse(root -> left, maxVal) + traverse(root -> right, maxVal);
+    }
+    
+    int goodNodes(TreeNode* root) {
+        
+        if (!root)
+            return 0;
+        
+        return traverse(root, root -> val);
+    }
 };

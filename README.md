@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-417-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-418-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -578,7 +578,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on trees</b></summary>
 <br>
     
-![Count](https://img.shields.io/badge/Count-51-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-52-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -594,6 +594,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0617 | [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees) | [C++](./C++/LeetCode/0617.cpp) |||🟢|||
 | 0404 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves) | [C++](./C++/LeetCode/0404.cpp) |||🟢|||
 | 0112 | [Path sum](https://leetcode.com/problems/path-sum) | [C++](./C++/LeetCode/0112.cpp) |||🟢|||
+| 0637 | [Average of levels in binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [C++](./C++/LeetCode/0637.cpp) |||🟢|||
 | 0589 | [N-ary tree preorder traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [C++](./C++/LeetCode/0589.cpp) |||🟢|||
 | 0572 | [Subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree) | [C++](./C++/LeetCode/0572.cpp) |||🟢|||
 | 1022 | [Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [C++](./C++/LeetCode/1022.cpp) |||🟢|||

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-418-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-419-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -558,11 +558,12 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on heaps</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-1-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-2-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
-| 1354 | [Construct target array with multiple sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)| [C++](./C++/LeetCode/0225.cpp) |||🔴|||
+| 1354 | [Construct target array with multiple sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)| [C++](./C++/LeetCode/1354.cpp) |||🔴|||
+| 1383 | [Maximum performance of a team](https://leetcode.com/problems/maximum-performance-of-a-team)| [C++](./C++/LeetCode/1383.cpp) |||🔴|||
 
 </details>
 

@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-419-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-420-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -649,7 +649,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on tries</b></summary>
 <br>
     
-![Count](https://img.shields.io/badge/Count-4-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-5-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -657,6 +657,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0421 | [Maximum xor of two numbers in an array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) | [C++](./C++/LeetCode/0421.cpp) |||🟡|||
 | 0211 | [Design add and search word data structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [C++](./C++/LeetCode/0211.cpp) |||🟡|||
 | 0745 | [Prefix and suffix search](https://leetcode.com/problems/prefix-and-suffix-search) | [C++](./C++/LeetCode/0745.cpp) |||🟡|||
+| 0336 | [Palindrome pairs](https://leetcode.com/problems/palindrome-pairs) | [C++](./C++/LeetCode/0336.cpp) |||🔴|||
 </details>
 
 <br/>

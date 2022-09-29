@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-420-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-421-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-102-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-103-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -232,6 +232,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1423 | [Maximum points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [C++](./C++/LeetCode/1423.cpp) |||🟡|||
 | 0334 | [Increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [C++](./C++/LeetCode/0334.cpp) |||🟡|||
 | 0075 | [Sort colors](https://leetcode.com/problems/sort-colors) | [C++](./C++/LeetCode/0075.cpp) |||🟡|||
+| 0658 | [Find k closest elements](https://leetcode.com/problems/find-k-closest-elements) | [C++](./C++/LeetCode/0658.cpp) |||🟡||Binary Search|
 | 0665 | [Non-decreasing array](https://leetcode.com/problems/non-decreasing-array) | [C++](./C++/LeetCode/0665.cpp) |||🟡|||
 | 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [C++](./C++/LeetCode/0284.cpp) |||🟡|||
 | 0923 | [3Sum with multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | [C++](./C++/LeetCode/0923.cpp) |||🟡|||

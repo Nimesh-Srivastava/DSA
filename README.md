@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-422-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-423-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -886,7 +886,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-36-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-37-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -901,6 +901,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 1446 | [Consecutive characters](https://leetcode.com/problems/consecutive-characters) | [C++](./C++/LeetCode/1446.cpp) |||🟢|||
 | 0680 | [Valid palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [C++](./C++/LeetCode/0680.cpp) |||🟢|||
 | 0415 | [Add strings](https://leetcode.com/problems/add-strings) | [C++](./C++/LeetCode/0415.cpp) |||🟡|||
+| 1328 | [Break a palindrome](https://leetcode.com/problems/break-a-palindrome) | [C++](./C++/LeetCode/1328.cpp) |||🟡|||
 | 0409 | [Longest palindrome](https://leetcode.com/problems/longest-palindrome) | [C++](./C++/LeetCode/0409.cpp) |||🟡|||
 | 0394 | [Decode string](https://leetcode.com/problems/decode-string) | [C++](./C++/LeetCode/0394.cpp) |||🟡|||
 | 0890 | [Find and replace pattern](https://leetcode.com/problems/find-and-replace-pattern) | [C++](./C++/LeetCode/0890.cpp) |||🟡|||

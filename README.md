@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-425-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-426-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -887,7 +887,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on strings</b></summary>
 <br>
 
-![Count](https://img.shields.io/badge/Count-38-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-39-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -927,6 +927,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0043 | [Multiply strings](https://leetcode.com/problems/multiply-strings) | [C++](./C++/LeetCode/0043.cpp) |||🟡|||
 | 0187 | [Repeated DNA sequences](https://leetcode.com/problems/repeated-dna-sequences) | [C++](./C++/LeetCode/0187.cpp) |||🟡|||
 | 0076 | [Minimmum window substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./C++/LeetCode/0076.cpp) |||🔴|||
+| 0212 | [Word Search](https://leetcode.com/problems/word-search-ii) | [C++](./C++/LeetCode/0212.cpp) |||🔴||dfs|
 | 0010 | [Regular expression matching](https://leetcode.com/problems/regular-expression-matching) | [C++](./C++/LeetCode/0010.cpp) |||🔴||Very hard,<br>dp & dfs|
 | 1044 | [Longest duplicate substring](https://leetcode.com/problems/longest-duplicate-substring) | [C++](./C++/LeetCode/1044.cpp) |||🔴||Very hard,<br>rolling hash (sliding window)|
 </details>

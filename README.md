@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-431-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-432-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -581,7 +581,7 @@ Stacks can be implemeted in 2 ways :-<br>
     <summary><b>PROBLEMS on trees</b></summary>
 <br>
     
-![Count](https://img.shields.io/badge/Count-54-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-55-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -639,6 +639,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0236 | [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./C++/LeetCode/0236.cpp) |||🟡|||
 | 0297 | [Serialize and deserialize binary tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](./C++/LeetCode/0297.cpp) |||🟡|||
 | 0968 | [Binary tree cameras](https://leetcode.com/problems/binary-tree-cameras) | [C++](./C++/LeetCode/0968.cpp) |||🔴|||
+| 2246 | [Longest path with different adjacent characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | [C++](./C++/LeetCode/2246.cpp) |||🔴|||
 </details>
 
 <br/>

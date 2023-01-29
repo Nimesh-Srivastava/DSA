@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-434-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-435-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -1055,7 +1055,7 @@ Stacks can be implemeted in 2 ways :-<br>
 <br/>
 
 ## 💢 Miscellaneous problems
-![Count](https://img.shields.io/badge/Count-20-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-21-brown.svg?style=for-the-badge)&nbsp;
 
 **LeetCode**
 |  ID  | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
@@ -1075,6 +1075,7 @@ Stacks can be implemeted in 2 ways :-<br>
 | 0858 | [Mirror reflection](https://leetcode.com/problems/mirror-reflection) | [C++](./C++/LeetCode/0858.cpp) |||🟡|||
 | 0380 | [Insert delete GetRandom O(1)](https://leetcode.com/problems/jump-game) | [C++](./C++/LeetCode/0380.cpp) |O(1)||🟡|||
 | 1695 | [Maximum erasure value](https://leetcode.com/problems/maximum-erasure-value) | [C++](./C++/LeetCode/1695.cpp) |||🟡|||
+| 0460 | [LFU cache](https://leetcode.com/problems/lfu-cache) | [C++](./C++/LeetCode/0460.cpp) |||🔴|||
 
 <br>
 

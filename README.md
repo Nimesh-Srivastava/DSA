@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Languages-C/C++-red.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Update](https://img.shields.io/badge/Update-weekly-purple.svg?style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Problems](https://img.shields.io/badge/Problems-435-brown.svg?style=for-the-badge)&nbsp;&nbsp;
+![Problems](https://img.shields.io/badge/Problems-436-brown.svg?style=for-the-badge)&nbsp;&nbsp;
 
 Please use the discussions tab for any queries.
 <br>
@@ -177,7 +177,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 
 <br>
 
-![Count](https://img.shields.io/badge/Count-104-brown.svg?style=for-the-badge)&nbsp;
+![Count](https://img.shields.io/badge/Count-105-brown.svg?style=for-the-badge)&nbsp;
 
 |  ID   | Title |  Solution  |  Time  |    Space     |  Difficulty  |  Tags | Note |
 |:-----:|-------|:----------:|:------:|:------------:|:------------:|-------|------|
@@ -216,6 +216,7 @@ Key : 🟢 Easy, 🟡 Medium, 🔴 Hard
 | 1816 | [Truncate sentence](https://leetcode.com/problems/truncate-sentence) | [C++](./C++/LeetCode/1816.cpp) |||🟢|||
 | 1979 | [Find greatest common divisor of array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [C++](./C++/LeetCode/1979.cpp) |||🟢|||
 | 1629 | [Slowest key](https://leetcode.com/problems/slowest-key) | [C++](./C++/LeetCode/1629.cpp) |||🟢|||
+| 0953 | [Verifying an alien dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [C++](./C++/LeetCode/0953.cpp) |||🟢|||
 | 0217 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate) | [C++](./C++/LeetCode/0217.cpp) |O(n)||🟢|||
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/LeetCode/0001.cpp) |O(n)|O(1)|🟢| | hash table|
 | 0026 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [C++](./C++/LeetCode/0026.cpp) |      |   |🟢|||
